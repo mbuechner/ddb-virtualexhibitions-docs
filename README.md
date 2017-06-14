@@ -13,3 +13,10 @@ Folgen Sie den Anweisungen in der [MkDocs-Dokumentation](http://www.mkdocs.org/#
 
 ## Dokumentation auf GitHub veröffentlichen
 Folgen Sie den Anweisungen zu GitHub in der [MkDocs-Dokumentation](http://www.mkdocs.org/user-guide/deploying-your-docs/).
+
+## Dokumentation bei GitHub
+
+Die aktuelle Version der gh-pages finden Sie unter:
+
+[https://Deutsche-Digitale-Bibliothek.github.io/ddb-virtualexhibitions-docs/](https://Deutsche-Digitale-Bibliothek.github.io/ddb-virtualexhibitions-docs/)
+
