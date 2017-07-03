@@ -9,6 +9,8 @@ copyright: 'Copyright &copy; 2017 Deutsche Digitale Bibliothek, Culture to Go, G
 # Structure
 pages:
     - Start: index.md
+    - A. Im Überblick: ueberblick.md
+    - B. Virtuelle Ausstellungen Erstellen: erstellen.md
 
 # Theme
 theme: material
