@@ -1,15 +1,3 @@
-# B. Virtuelle Ausstellungen Erstellen
-
-## B.1 Das Omeka Backend
-
-Die Erstellung und Bearbeitung von virtuellen Ausstellungen erfolgt über die Redaktionsoberfläche von Omeka, das Omeka-Backend. Von Ihrem Ansprechpartner bei der Deutschen Digitalen Bibliothek haben Sie die Zugangsdaten zu Ihrer Omeka-Installation erhalten. Nachdem Sie sich mit Ihrem Benutzernamen und Ihrem Passwort eingeloggt haben, gelangen Sie ins Omeka-Backend Abb. 1.1.
-Das Menü links (1) führt Sie zu den Rubriken, in denen Sie Ihre Ausstellung bearbeiten können. Für Sie sind nur die Rubriken „Objekte“ und „Ausstellungen“ von Interesse. Der Startbildschirm „Dashboard“ bietet einen Überblick über die Anzahl der eingepflegten Objekte und Ausstellungen. Für jede virtuelle Ausstellung der DDB wird eine eigene Omeka-Installation verwendet. Sie arbeiten also immer nur mit einer Ausstellung.
-
-
-!![Abb. B.1.1 Das Backend einer neu angelegten Omeka-Installation ][B-1-1]
-
-Der Log-out erfolgt über den Textlink „Abmelden“ oben rechts (2).
-
 ## B.2 Objekte in Omeka
 
 Die Grundbausteine einer Omeka-Ausstellung sind die Objekte, die ‚Exponate‘ der virtuellen Ausstellung. Aus Sicht der Nutzer, die Ihre Ausstellung im Internet besuchen, sind Objekte die Medien (Bilder, Videos, Audioclips, 3D-Objekte), die auf den Ausstellungsseiten präsentiert werden. Das Datenmodell von Omeka ist hier etwas differenzierter. Ein Omeka-Objekt ist nicht mit dem Digitalisat eines realen Objekts gleichzusetzen, es beschreibt vielmehr ein reales Objekt (z.B. ein Buch, ein archivalisches Dokument) durch Metadaten über dieses Objekt. Die Entsprechung zu einem Omeka-Objekt in einer vordigitalen Bibliothek wäre eine Karteikarte im Katalog – also nicht das Medium selbst. Mit einem Omeka-Objekt können in einem zweiten Schritt Dateien verknüpft werden, die dieses Objekt digital repräsentieren. Im klassischen Fall eines digitalisierten Realbestandes sind dies Scans oder Fotos, es kann sich aber auch um ein Video, eine Tonaufnahme oder ein 3D-Modell handeln. Omeka-Objekt und Digitalisat(e) sind also logisch getrennte Einheiten. Das gilt auch für nativ digitale Objekte wie etwa Videos oder Tonaufnahmen.
@@ -185,7 +173,6 @@ Bei umfangreichen Listen mit Objekten, die sich nicht leicht auseinanderhalten l
 
 Geben Sie in eines der Felder einen Suchbegriff ein (1) und klicken Sie auf die Schaltfläche „Objekte suchen“ (2) ganz am Ende des Suchformulars. Für uns sind nur die ersten drei Suchfelder von Belang. Meist genügt die Stichwortsuche (a), um das Objekt zu finden. Die Suchfunktion „Über bestimmte Felder eingrenzen“ (b, c) ermöglicht eine fein differenzierte Suche nach einzelnen Metadatenfeldern (b) und mit logischen Operatoren wie „enthält“ oder „ist leer“ (c). Manchmal kann es sinnvoll sein, direkt nach der Omeka-ID des Objekts zu suchen (d). Im Backend ist sie im Titel der Seite „Objekt … bearbeiten“ mit einer Raute angegeben (z.B. „Objekt #45 bearbeiten“), im Frontend erscheint sie als Ziffernfolge am Ende der URL der Objekt-Detailseite (z.B. …/items/show/45).
 
-[B-1-1]: img/Abb_B-1-1-Backend.png "Abb. B.1.1 Das Backend einer neu angelegten Omeka-Installation"
 [B-2-1]: img/Abb_B-2-1-Rubrik-Objekte.png "Abb. B.2.1 Die Rubrik Objekte"
 [B-2-2]: img/Abb_B-2-2-Seite-Objekt-hinzufügen.png "Abb. B.2.2 Seite Ein Objekt hinzufügen"
 [B-2-3]: img/Abb_B-2-3-Objekt-bearbeiten.png "Abb. B.2.3 Objekt bearbeiten"

@@ -10,7 +10,11 @@ copyright: 'Copyright &copy; 2017 Deutsche Digitale Bibliothek, Culture to Go, G
 pages:
     - Start: index.md
     - A. Im Überblick: ueberblick.md
-    - B. Virtuelle Ausstellungen Erstellen: erstellen.md
+    - B. Virtuelle Ausstellungen Erstellen:
+      - 1. Das Omeka Backend: backend.md
+      - 2. Objekte in Omeka: erstellen.md
+      - 3. Die Ausstellung anlegen: anlegen.md 
+
 
 # Theme
 theme: material
