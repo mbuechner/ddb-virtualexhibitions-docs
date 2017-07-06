@@ -13,7 +13,8 @@ pages:
     - B. Virtuelle Ausstellungen Erstellen:
       - 1. Das Omeka Backend: backend.md
       - 2. Objekte in Omeka: erstellen.md
-      - 3. Die Ausstellung anlegen: anlegen.md 
+      - 3. Die Ausstellung anlegen: ausstellung_anlegen.md 
+      - 4. Ausstellungsseigen anlegen: seiten_anlegen.md
 
 
 # Theme
