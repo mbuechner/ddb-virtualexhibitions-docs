@@ -2,39 +2,40 @@
 
 ### B.4.1 Seite anlegen
 
-Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen, klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Seite hinzufügen“ (Abb. 4.1, 1).
+Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen, klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
 
-!![Abb. B.4.1 Abb. 4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“][B-4-1]
+!![Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“][B-4-1]
 
-Auf der Seite „Seite hinzufügen“ gelangen sie zunächst zu einer Eingabemaske für die Metadaten der Ausstellungsseite (Abb. 4.2). Der Titel (1) erscheint in der Frontend-Ausgabe links oben über den Inhalten der Seite, direkt unter der grafischen Seitennavigation. Im Feld „Slug“ (2) geben Sie die Zeichenfolge an, die am Ende der URL erscheinen soll, wenn ein Nutzer die Ausstellungsseite in seinem Browser aufruft. Bitte beachten Sie unbedingt die Regeln und Konventionen, die wir im Abschnitt zu den Metadaten der Ausstellung erläutert haben (Abschnitt 3). Es empfiehlt sich, hier aussagekräftige Begriffe zu verwenden, um die Auffindbarkeit der Inhalte für Suchmaschinen zu optimieren. Sie können dieses Feld auch leer lassen, dann erstellt Omeka, sobald sie „Änderungen übernehmen klicken“ (5) einen Slug aus dem Titel der Seite, den Sie bei Bedarf später anpassen können.
+Auf der Seite „Seite hinzufügen“ gelangen sie zunächst zu einer Eingabemaske für die Metadaten der Ausstellungsseite (Abb. B.4.2). Der Titel (<span class="red-circle">1</span>) erscheint in der Frontend-Ausgabe links oben über den Inhalten der Seite, direkt unter der grafischen Seitennavigation. Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolge an, die am Ende der URL erscheinen soll, wenn ein Nutzer die Ausstellungsseite in seinem Browser aufruft. Bitte beachten Sie unbedingt die Regeln und Konventionen, die wir im Abschnitt zu den Metadaten der Ausstellung erläutert haben (Abschnitt 3). Es empfiehlt sich, hier aussagekräftige Begriffe zu verwenden, um die Auffindbarkeit der Inhalte für Suchmaschinen zu optimieren. Sie können dieses Feld auch leer lassen, dann erstellt Omeka, sobald sie „Änderungen übernehmen klicken“ (<span class="red-circle">3</span>) einen Slug aus dem Titel der Seite, den Sie bei Bedarf später anpassen können.
 
-Die Grafik, die Sie über „Thumbnail für die Seitennavigation“ auswählen (3) erscheint als Vorschaubild in der grafischen Navigation über den Inhalten der Seite (vgl. Abb. A.1, b). Die erforderlichen Abmessungen von 92 x 71 Pixel sind im Formular angegeben; als Dateiformate sind .jpg und .png möglich. Für das Erscheinungsbild und die Funktionalität der Ausstellung zahlt es sich aus, diese Thumbnails sorgfältig zu gestalten. Der gewählte Ausschnitt (in der Regel: einer Abbildung der betreffenden Seite) sollte attraktiv, aussagekräftig und einprägsam sein.
+!![Abb. B.4.2 Die Metadaten der Ausstellungsseite - Titel und Slug ][B-4-2]
 
-Das Feld „Widget Content“ bietet Ihnen die Möglichkeit, in der rechten Sidebar der Ausstellungsseite einen Kasten mit Inhalten zu platzieren. Er erscheint über dem ersten Inhaltswidget der Ausstellung und ggf. über dem zweiten Inhaltswidget (vgl. Abb. A.2, d).
-
-
-!![Abb. B.4.2 Abb. 4.2 Die Metadaten der Ausstellungsseite auf der Seite „Ausstellung hinzufügen“][B-4-2]
+Das Feld „Widget Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bietet Ihnen die Möglichkeit, in der rechten Sidebar der Ausstellungsseite einen Kasten mit Inhalten zu platzieren. Er erscheint über dem ersten Inhaltswidget der Ausstellung und ggf. über dem zweiten Inhaltswidget (vgl. Abb. A.2, d).
 
 Gedacht ist dieser Bereich für Querverlinkungen und weiterführende Informationen. Für alle wesentlichen Informationen verwenden Sie bitte den Inhaltsbereich der Seite.
 
-Nun wählen Sie ein Seitenlayout für Ihre Ausstellungsseite aus. Welche Optionen Ihnen dabei zur Verfügung stehen, erläutern wir ausführlich im nachfolgenden Abschnitt. Abschließend speichern Sie Ihre Eingaben über die Schaltfläche „Änderungen übernehmen“ (5).
+Die Grafik, die Sie über „Thumbnail für die Seitennavigation“ auswählen (<span class="red-circle">2</span>) erscheint als Vorschaubild in der grafischen Navigation über den Inhalten der Seite (vgl. Abb. A.1, b). Die erforderlichen Abmessungen von 92 x 71 Pixel sind im Formular angegeben; als Dateiformate sind .jpg und .png möglich. Für das Erscheinungsbild und die Funktionalität der Ausstellung zahlt es sich aus, diese Thumbnails sorgfältig zu gestalten. Der gewählte Ausschnitt (in der Regel: einer Abbildung von der betreffenden Seite) sollte attraktiv, aussagekräftig und einprägsam sein.
+
+!![Abb. B.4.3 Die Metadaten der Ausstellungsseite - Widget Content und Vorschaubild][B-4-3]
+
+Nun wählen Sie ein Seitenlayout für Ihre Ausstellungsseite aus (<span class="red-circle">3</span>). Welche Optionen Ihnen dabei zur Verfügung stehen, erläutern wir ausführlich im nachfolgenden Abschnitt. Abschließend speichern Sie Ihre Eingaben über die Schaltfläche „Änderungen übernehmen“ (<span class="red-circle">4</span>).
 
 ### B.4.2 Die Layouts für Ausstellungsseiten
 
 Wie wir in Abschnitt A gesehen haben (vgl. Abb. A.7), bietet Ihnen das Omeka-Tool der Deutschen Digitalen Bibliothek eine Palette von Seitentemplates, die Objekte und Textblöcke auf unterschiedliche Weise miteinander kombinieren.
 
-Bei der Planung Ihrer Ausstellung können Sie sich an den Seiten der bestehenden virtuellen Ausstellungen der Deutschen Digitalen Bibliothek orientieren (https://www.deutsche-digitale-bibliothek.de/content/ausstellungen) Sie vermitteln einen guten Eindruck über die Möglichkeiten der einzelnen Layout-Optionen.
+Bei der Planung Ihrer Ausstellung können Sie sich an den Seiten der bestehenden [virtuellen Ausstellungen der Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/content/ausstellungen) orientieren. Sie vermitteln einen guten Eindruck über die Möglichkeiten der einzelnen Layout-Optionen.
 
 Im Folgenden ein kurzer Überblick über die acht verfügbaren Templates.
 
 ##### Layout 1: Seite mit Galerie rechts und Thumbnails
 
-Dieses Layout (Abb. 4.3) kombiniert Text in der linken Spalte mit einer Zusammenstellung von Objekten in der rechten Spalte. Bei den Objekten ist das erste Objekt hervorgehoben. Es (genau genommen: das dem Objekt zugeordnete Bild) erscheint spaltenbreit und in seinen Originalproportionen. Darunter wird eine Galerie mit weiteren Objekten angezeigt. Die Bilder dieser Galerie-Objekte werden von Omeka automatisch zu kleinen quadratischen Vorschaubildern (Thumbnails) skaliert und beschnitten. Die Bilder sind in Zeilen von drei Thumbnails angeordnet. Sie können maximal zwölf Galerie-Objekte pro Seite einstellen. 
+Dieses Layout (Abb. B.4.4) kombiniert Text in der linken Spalte mit einer Zusammenstellung von Objekten in der rechten Spalte. Bei den Objekten ist das erste Objekt hervorgehoben. Es (genau genommen: das dem Objekt zugeordnete Bild) erscheint spaltenbreit und in seinen Originalproportionen. Darunter wird eine Galerie mit weiteren Objekten angezeigt. Die Bilder dieser Galerie-Objekte werden von Omeka automatisch zu kleinen quadratischen Vorschaubildern (Thumbnails) skaliert und beschnitten. Die Bilder sind in Zeilen von drei Thumbnails angeordnet. Sie können maximal zwölf Galerie-Objekte pro Seite einstellen. 
 
 
-!![Abb. B.4.3 Abb. 4.3 Layout 1 – Galerie rechts und Thumbnails][B-4-3]
+!![Abb. B.4.4 Layout 1 – Galerie rechts und Thumbnails][B-4-]
 
-Klickt der Nutzer auf eines der Objekte, öffnet sich die Lightbox mit einer Großansicht des Bildes bzw. einem Audio- oder Video-Player (vgl. Abb. A.4). Das Verhalten von Haupt- und Galerieobjekten ist – und das gilt für alle Layouts – in dieser Hinsicht identisch.
+Klickt der Nutzer auf eines der Objekte, öffnet sich die Lightbox mit einer Großansicht des Bildes bzw. einem Audio- oder Video-Player (vgl. Abb. A.5). Das Verhalten von Haupt- und Galerieobjekten ist – und das gilt für alle Layouts – in dieser Hinsicht identisch.
 
 Layout 1 bietet zudem die Möglichkeit, die rechte Spalte mit Text zu versehen. Er erscheint dann unterhalb der Objekte. Bei größeren Textmengen können Sie so zweispaltige Textlayouts realisieren. Was dabei zu beachten ist, werden wir in Abschnitt 4.5 erläutern.
 
@@ -42,53 +43,55 @@ Für alle Layouts gilt: Sie können Elemente auslassen, die Frontend-Ausgabe pas
 
 ##### Layout 2: Seite mit Galerie rechts und Thumbnails als Karussell
 
-Von Layout 1 unterscheidet sich Layout 2 (Abb. 4.4) lediglich durch die Form, in der die Galerie-Objekte dargestellt werden. Unter dem Hauptbild erscheinen immer maximal drei quadratische Vorschaubilder. Sind weitere Objekte in der Galerie vorhanden, kann der Nutzer über die Pfeile links und rechts der Galerie den ‚Filmstreifen‘ um je drei Bilder weiter bzw. zurückschieben. Auch hier ist die Anzahl der Galerie-Objekte auf zwölf limitiert.
+Von Layout 1 unterscheidet sich Layout 2 (Abb. B.4.5) lediglich durch die Form, in der die Galerie-Objekte dargestellt werden. Unter dem Hauptbild erscheinen immer maximal drei quadratische Vorschaubilder. Sind weitere Objekte in der Galerie vorhanden, kann der Nutzer über die Pfeile links und rechts der Galerie den ‚Filmstreifen‘ um je drei Bilder weiter bzw. zurückschieben. Auch hier ist die Anzahl der Galerie-Objekte auf zwölf limitiert.
 
-!![Abb. B.4.4 Abb. 4.4 Layout 2 - Galerie rechts und Thumbnails als Karussell][B-4-4]
+!![Abb. B.4.5 Layout 2 - Galerie rechts und Thumbnails als Karussell][B-4-5]
 
 ##### Layout 3: Thumbnailgalerie mit optionalem Text oben und unten
 
-Ein reines Galerie-Format bietet Layout 3 (Abb. 4.5). Bis zu 24 Objekte erscheinen hier in Zeilen zu maximal sechs quadratischen Thumbnails nebeneinander. Über und unter dieser Objektgalerie kann jeweils zweispaltiger Text eingefügt werden. Zu den Besonderheiten des zweispaltigen Textlayouts siehe unten, Abschnitt 4.5.
+Ein reines Galerie-Format bietet Layout 3 (Abb. B.4.6). Bis zu 24 Objekte erscheinen hier in Zeilen zu maximal sechs quadratischen Thumbnails nebeneinander. Über und unter dieser Objektgalerie kann jeweils zweispaltiger Text eingefügt werden. Zu den Besonderheiten des zweispaltigen Textlayouts siehe unten, Abschnitt 4.5.
 
-!![Abb. B.4.5 Abb. 4.5 Layout 3 – Thumbnailgalerie mit optionalem Text oben und unten][B-4-5]
+!![Abb. B.4.6 Layout 3 – Thumbnailgalerie mit optionalem Text oben und unten][B-4-6]
 
 ##### Layout 4: Seite mit Bildern links
+
+Bei den bisher vorgestellten Layouts waren die Seiten aus in sich geschlossenen Text- und Objektblöcken aufgebaut. Layout 4 (Abb. B.4.7) ermöglicht Ihnen, jedem gezeigten Objekt je einen Text zuzuordnen. In diesem Fall erscheint das Objekt in der linken, der zugehörige Text in der rechten Spalte.
 
 Nehmen die Texte weniger Raum ein, als die Höhe der Abbildung vorgibt, entsteht Weißraum unter dem Text (siehe das abgebildete – fiktive – Beispiel). Damit bekommt der Text eher den Charakter einer erweiterten Bildlegende oder eines Kommentars zur Abbildung. Sollten Sie Wert auf ein geschlossenes Seitenlayout legen, müssen Sie hier Textlängen und Bildgrößen aufeinander abstimmen.
 
 Ist der Text umfangreicher, rücken umgekehrt die Objekte in der linken Spalte auseinander. 
 
-!![Abb. B.4.6 Abb. 4.6 Layout 4 – Bilder links][B-4-6]
+!![Abb. B.4.7 Layout 4 – Bilder links][B-4-7]
 
 ##### Layout 5: Seite mit Bildern abwechselnd links und rechts
 
-Was die Zuordnung von Objekt und Text angeht, folgt Layout 5 (Abb. 4.7) dem gleichen Prinzip wie Layout 4, nur, dass mit jedem eingebundenen Objekt die Position von Objekt und Text zwischen links und rechts wechselt. Ist hier der Text zu einem Objekt sehr viel kürzer oder länger als der neben dem Objekt zur Verfügung stehende Raum vorgibt, entsteht ein ausgesprochen unruhiges Erscheinungsbild der Seite. Wir empfehlen dieses Layout nur zu verwenden, wenn Proportionen der Objektabbildungen und die Längen der Beschreibungstexte relativ einheitlich sind, bzw. Sie in der Lage sind, beide aufeinander abzustimmen.
+Was die Zuordnung von Objekt und Text angeht, folgt Layout 5 (Abb. B.4.8) dem gleichen Prinzip wie Layout 4, nur, dass mit jedem eingebundenen Objekt die Position von Objekt und Text zwischen links und rechts wechselt. Ist hier der Text zu einem Objekt sehr viel kürzer oder länger als der neben dem Objekt zur Verfügung stehende Raum vorgibt, entsteht ein ausgesprochen unruhiges Erscheinungsbild der Seite. Wir empfehlen dieses Layout nur zu verwenden, wenn Proportionen der Objektabbildungen und die Längen der Beschreibungstexte relativ einheitlich sind, bzw. Sie in der Lage sind, beide aufeinander abzustimmen.
 
-!![Abb. B.4.7 Abb. 4.7 Layout 5 – Bilder abwechselnd links und rechtstt][B-4-7]
+!![Abb. B.4.8 Layout 5 – Bilder abwechselnd links und rechtstt][B-4-8]
 
 ##### Layout 6: Seite mit Bildern rechts
 
-Layout 6 (Abb. 4.8) unterscheidet sich von Layout 4 nur durch die Position der Objekte, die hier auf der rechten Seite erscheinen. Texte und Objekte sind auch hier einander direkt zugeordnet. In Anbetracht der für europäische Sehgewohnheiten üblichen Leserichtung von links nach rechts kann man davon ausgehen, dass der links positionierte Text für den Nutzer hier dominanter ist als bei Layout 4. Wenn Sie also, was bei dem gezeigten Beispiel inhaltlich der Fall ist, einen Texte mit Abbildungen versehen wollen, bietet sich Layout 6 an. Wenn dagegen Abbildungen durch Texte erläutert werden sollen, ist das Schema von Layout 4 vielleicht etwas besser geeignet.
+Layout 6 (Abb. B.4.9) unterscheidet sich von Layout 4 nur durch die Position der Objekte, die hier auf der rechten Seite erscheinen. Texte und Objekte sind auch hier einander direkt zugeordnet. In Anbetracht der für europäische Sehgewohnheiten üblichen Leserichtung von links nach rechts kann man davon ausgehen, dass der links positionierte Text für den Nutzer hier dominanter ist als bei Layout 4. Wenn Sie also, was bei dem gezeigten Beispiel inhaltlich der Fall ist, einen Texte mit Abbildungen versehen wollen, bietet sich Layout 6 an. Wenn dagegen Abbildungen durch Texte erläutert werden sollen, ist das Schema von Layout 4 vielleicht etwas besser geeignet.
 
-!![Abb. B.4.8 Abb. 4.8 Layout 6 – Bilder rechts][B-4-8]
+!![Abb. B.4.9 Layout 6 – Bilder rechts][B-4-9]
 
 ##### Layout 7: Seite mit großen, fortlaufenden Bildern rechts
 
-Wie bei Layout 1 und 2 sind auch bei Layout 7 (Abb. 4.9) die Textblöcke in sich geschlossen und nicht unmittelbar auf die einzelnen, in der rechten Spalte angezeigten Objekte bezogen. Alle Objekte werden hier gleichrangig dargestellt, sie erscheinen spaltenbreit in den Originalproportionen der zugehörigen Bilder. 
+Wie bei Layout 1 und 2 sind auch bei Layout 7 (Abb. B.4.10) die Textblöcke in sich geschlossen und nicht unmittelbar auf die einzelnen, in der rechten Spalte angezeigten Objekte bezogen. Alle Objekte werden hier gleichrangig dargestellt, sie erscheinen spaltenbreit in den Originalproportionen der zugehörigen Bilder. 
 
-!![Abb. B.4.9 Abb. 4.9 Layout 7 – große, fortlaufende Bilder rechts][B-4-9]
+!![Abb. B.4.10 Layout 7 – große, fortlaufende Bilder rechts][B-4-10]
 
 Auch bei Layout 7 besteht die Möglichkeit, Texte in der rechten Spalte unterhalb der Objekte zu platzieren.
 
 ##### Layout 8: Seite mit kleinen, fortlaufenden Bildern rechts
 
-Demselben Prinzip wie Layout 7 folgt Layout 8 (Abb. 4.10), mit dem Unterschied, dass hier die Objekt-Abbildungen etwas kleiner dargestellt werden. Das betrifft vor allem Hochformate, die bei spaltenbreiter Darstellung sonst recht viel Platz einnehmen würden. 
+Demselben Prinzip wie Layout 7 folgt Layout 8 (Abb. B.4.11), mit dem Unterschied, dass hier die Objekt-Abbildungen etwas kleiner dargestellt werden. Das betrifft vor allem Hochformate, die bei spaltenbreiter Darstellung sonst recht viel Platz einnehmen würden. 
 
-!![Abb. B.4.10 Abb. 4.10 Layout 8 – kleine, fortlaufende Bilder rechts][B-4-10]
+!![Abb. B.4.11 Layout 8 – kleine, fortlaufende Bilder rechts][B-4-11]
 
 ### B.4.3 Inhalte einstellen
 
-Nach der Auswahl eines Layouts (Abb. 4.2, 4) und dem Speichern über „Änderungen übernehmen“ wechselt Omeka auf die Seite „Inhalt der Seite … bearbeiten“ (Abb. 4.11). Hier können Sie die einzelnen Inhaltsbereiche befüllen. Texte – Textblöcke, Bildlegenden, Zwischenüberschriften für zweispaltige Texte – geben Sie direkt in die entsprechenden Felder ein, Objekte wählen Sie über die Schaltflächen „Objekt hinzufügen“ aus. Leere Inhaltselemente werden bei der Ausgabe im Frontend ignoriert. Sie können also etwa nur einen Text einstellen und auf die Einbindung von Objekten verzichten oder bei Layout 1 (vgl. Abb. 4.3) das Hauptbild oder die Bildergalerie weglassen.
+Nach der Auswahl eines Layouts (Abb. B.4.2, <span class="red-circle">XXX</span>) und dem Speichern über „Änderungen übernehmen“ wechselt Omeka auf die Seite „Inhalt der Seite … bearbeiten“ (Abb. 4.11). Hier können Sie die einzelnen Inhaltsbereiche befüllen. Texte – Textblöcke, Bildlegenden, Zwischenüberschriften für zweispaltige Texte – geben Sie direkt in die entsprechenden Felder ein, Objekte wählen Sie über die Schaltflächen „Objekt hinzufügen“ aus. Leere Inhaltselemente werden bei der Ausgabe im Frontend ignoriert. Sie können also etwa nur einen Text einstellen und auf die Einbindung von Objekten verzichten oder bei Layout 1 (vgl. Abb. 4.3) das Hauptbild oder die Bildergalerie weglassen.
 
 Für die Texteingabe steht Ihnen ein Editor zur Verfügung (Abb. 4.12), mit dem Sie Ihre Texte formatieren können. Über die Bedienelemente am oberen Rand (a) über dem Texteingabefeld (b) können Sie u.a. Überschriften in verschiedenen Hierarchiestufen vergeben (Überschrift 1-6), Fettungen und Kursivsetzungen vornehmen, Listen erstellen und externe oder interne Links setzen. Über die genauen Formatierungsmöglichkeiten informiert Abschnitt XXX im Anhang.
 
@@ -209,17 +212,18 @@ Sie können den Apparat gerne um weitere Seiten ergänzen. So gibt es beispielsw
 Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt 4.1) ist hier kein Ausschnitt einer Objektabbildung (es handelt sich ja um reine Textseiten), sondern ein speziell formatierter Schriftzug mit dem Seitentitel. Diese Vorschaubilder werden vom Team der Deutschen Digitalen Bibliothek erzeugt und eingestellt, Sie können das betreffende Metadatenfeld einfach leer lassen.
 
 
-[B-4-1]: img/Abb_B-4-1_Seite_hinzufügen.png "Abb. 4.1 Seite hinzufügen auf der Seite Ausstellung …"
-[B-4-2]: img/Abb_B-4-2_Metadaten_Ausstellungsseite.png "Abb. 4.2 Die Metadaten der Ausstellungsseite auf der Seite Ausstellung hinzufügen"
-[B-4-3]: img/Abb_B-4-3_Layout_1.png "Abb. 4.3 Layout 1 – Galerie rechts und Thumbnails"
-[B-4-4]: img/Abb_B-4-4_Layout_2.png "Abb. 4.4 Layout 2 - Galerie rechts und Thumbnails als Karussell"
-[B-4-5]: img/Abb_B-4-5_Layout_3.png "Abb. 4.5 Layout 3 – Thumbnailgalerie mit optionalem Text oben und unten"
-[B-4-6]: img/Abb_B-4-6_Layout_4.png "Abb. 4.6 Layout 4 – Bilder links"
-[B-4-7]: img/Abb_B-4-7_Layout_5.png "Abb. 4.7 Layout 5 – Bilder abwechselnd links und rechts"
-[B-4-8]: img/Abb_B-4-8_Layout_6.png "Abb. 4.8 Layout 6 – Bilder rechts"
-[B-4-9]: img/Abb_B-4-9_Layout_7.png "Abb. 4.9 Layout 7 – große, fortlaufende Bilder rechts"
-[B-4-10]: img/Abb_B-4-10_Layout_8.png "Abb. 4.10 Layout 8 – kleine, fortlaufende Bilder rechts"
-[B-4-11]: img/Abb_B-4-11_Inhalt_bearbeiten.png "Abb. 4.11 Die Seite Inhalt der Seite … bearbeiten"
+[B-4-1]: img/B-4-1.jpg "Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“"
+[B-4-2]: img/B-4-2.jpg "Abb. B.4.2 Die Metadaten der Ausstellungsseite - Titel und Slug"
+[B-4-3]: img/B-4-3.jpg "Abb. B.4.3 Die Metadaten der Ausstellungsseite - Widget Content und Vorschaubild"
+[B-4-4]: img/B-4-4.jpg "Abb. B.4.4 Layout 1 – Galerie rechts und Thumbnails"
+[B-4-5]: img/B-4-5.jpg "Abb. B.4.5 Layout 2 - Galerie rechts und Thumbnails als Karussell"
+[B-4-6]: img/B-4-6.jpg "Abb. B.4.6 Layout 3 – Thumbnailgalerie mit optionalem Text oben und unten"
+[B-4-7]: img/B-4-7.jpg "Abb. B.4.7 Layout 4 – Bilder links"
+[B-4-8]: img/B-4-8.jpg "Abb. B.4.8 Layout 5 – Bilder abwechselnd links und rechtstt"
+[B-4-9]: img/B-4-9.jpg "Abb. B.4.9 Layout 6 – Bilder rechts"
+[B-4-10]: img/B-4-10.jpg "Abb. B.4.10 Layout 7 – große, fortlaufende Bilder rechts"
+[B-4-11]: img/B-4-11.jpg "Abb. B.4.11 Layout 8 – kleine, fortlaufende Bilder rechts"
+
 [B-4-12]: img/Abb_B-4-12_Texteditor.png "Abb. 4.12 Der Texteditor"
 [B-4-13]: img/Abb_B-4-13_Objekt_hinzufügen.png "Abb. 4.13 Dialogfenster Objekt hinzufügen"
 [B-4-14]: img/Abb_B-4-14_Inhaltselement_Objekt.png "Abb. 4.14 Inhaltselement Objekt – hier ein Hauptbild"
