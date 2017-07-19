@@ -2,7 +2,7 @@
 Date:    2017-06-14
 ---
 
-![Deutsche Digitale Bibliothek][logo]
+!![Deutsche Digitale Bibliothek][logo]
 
 # Kuratoren-Handbuch
 

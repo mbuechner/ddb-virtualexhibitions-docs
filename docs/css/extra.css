@@ -13,11 +13,11 @@ figcaption {
 }
 
 .red-circle {
-    display: inline-block;
+    /*display: inline-block;
     background-color: #ec0a3c;
-    padding: 0 .8rem;
-    color: #fff;
-    border-radius: 1.6rem;
+    padding: 0 .8rem;*/
+    color: #A7003A;
+    /*border-radius: 1.6rem;*/
 }
 
 figure > img {
