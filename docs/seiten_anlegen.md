@@ -175,6 +175,8 @@ Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text
 
     Es ist sinnlos, den Spaltenumbruch durch Zeilenumbrüche, Absätze, Leerzeilen oder mit ähnlichen „Manipulationen“ erzwingen zu wollen, er würde nur für genau die Fensterbreite passen, in der Sie das Frontend gerade betrachten. Wenn Sie dieses Fenster groß und klein ziehen, wird Ihnen dieser Zusammenhang sofort anschaulich.
 
+NUR BIS HIER KORREKTURLESEN! (MM)
+
 !![Abb. B.4.19 Abb. 4.19 Zweispaltige Textblöcke im Layout Thumbnailgalerie][B-4-19]
 
 Für die Eingabe des zweispaltigen Textblocks unter der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. 4.20, a). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert (siehe Anhang XXX). Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollte dem Text der Überschrift ein Überschriften-Format zugewiesen werden.

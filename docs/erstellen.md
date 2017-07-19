@@ -81,6 +81,8 @@ Nachdem Sie im Tab „Dateien“ das Objekt mit einer ersten Datei verknüpft ha
 
 !![Abb. B.2.11 Hinzufügen weiterer Dateien zu einem Objekt][B-2-11]
 
+[Der folgende Absatz wird noch aktualisiert; MM]
+
 Der letzte Schritt ist nun, einen Link zu erzeugen, mit dem Sie den Bookviewer mit diesem Objekt in Ihre Ausstellung einbinden können. Der Link zum Bookviewer hat die folgende Struktur: [Slug Ihrer Ausstellung]/viewer/show/[ID des Objekts]/#page/n0/mode/2up. Die beiden variablen Bestandteile (Slug und ID) finden Sie leicht, wenn sie im Backend in die Adresszeile Ihres Browsers schauen. Der Slug schließt unmittelbar an die Domainendung „.de/“ an, die ID ist die Zahl am Ende der URL. In unserem Beilspiel ergibt sich so der relative Link: „kuratorenhandbuch/viewer/show/2/#page/n0/mode/2up“. Sie können nun noch die Darstellungsoptionen im Viewer ändern, indem Sie die die Parameter „n0“ und „2up“ ändern. „n1“ schlägt initial die Seite 2 der Folge auf, „n5“ die Seite 6 usw.; „1up“ zeigt Einzelseiten.
 
 ### B.2.3.4 3D-Objekte einbinden
