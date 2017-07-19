@@ -2,7 +2,7 @@
 
 ### B.4.1 Seite anlegen
 
-Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen, klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
+Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen, klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
 
 !![Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“][B-4-1]
 
@@ -14,7 +14,7 @@ Das Feld „Widget Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bi
 
 Gedacht ist dieser Bereich für Querverlinkungen und weiterführende Informationen. Für alle wesentlichen Informationen verwenden Sie bitte den Inhaltsbereich der Seite.
 
-Die Grafik, die Sie über „Thumbnail für die Seitennavigation“ auswählen (<span class="red-circle">2</span>) erscheint als Vorschaubild in der grafischen Navigation über den Inhalten der Seite (vgl. Abb. A.1, b). Die erforderlichen Abmessungen von 92 x 71 Pixel sind im Formular angegeben; als Dateiformate sind .jpg und .png möglich. Für das Erscheinungsbild und die Funktionalität der Ausstellung zahlt es sich aus, diese Thumbnails sorgfältig zu gestalten. Der gewählte Ausschnitt (in der Regel: einer Abbildung von der betreffenden Seite) sollte attraktiv, aussagekräftig und einprägsam sein.
+Die Grafik, die Sie über „Vorschaubilder-Ansicht für die Seitennavigation“ auswählen (<span class="red-circle">2</span>) erscheint als Vorschaubild in der grafischen Navigation über den Inhalten der Seite (vgl. Abb. A.1, b). Die erforderlichen Abmessungen von 92 x 71 Pixel sind im Formular angegeben; als Dateiformate sind .jpg und .png möglich. Für das Erscheinungsbild und die Funktionalität der Ausstellung zahlt es sich aus, diese Thumbnails sorgfältig zu gestalten. Der gewählte Ausschnitt (in der Regel: einer Abbildung von der betreffenden Seite) sollte attraktiv, aussagekräftig und einprägsam sein.
 
 !![Abb. B.4.3 Die Metadaten der Ausstellungsseite - Widget Content und Vorschaubild][B-4-3]
 
@@ -91,81 +91,71 @@ Demselben Prinzip wie Layout 7 folgt Layout 8 (Abb. B.4.11), mit dem Unterschied
 
 ### B.4.3 Inhalte einstellen
 
-Nach der Auswahl eines Layouts (Abb. B.4.2, <span class="red-circle">XXX</span>) und dem Speichern über „Änderungen übernehmen“ wechselt Omeka auf die Seite „Inhalt der Seite … bearbeiten“ (Abb. 4.11). Hier können Sie die einzelnen Inhaltsbereiche befüllen. Texte – Textblöcke, Bildlegenden, Zwischenüberschriften für zweispaltige Texte – geben Sie direkt in die entsprechenden Felder ein, Objekte wählen Sie über die Schaltflächen „Objekt hinzufügen“ aus. Leere Inhaltselemente werden bei der Ausgabe im Frontend ignoriert. Sie können also etwa nur einen Text einstellen und auf die Einbindung von Objekten verzichten oder bei Layout 1 (vgl. Abb. 4.3) das Hauptbild oder die Bildergalerie weglassen.
+Nach der Auswahl eines Layouts (Abb. B.4.2, <span class="red-circle">XXX</span>) und dem Speichern über „Änderungen übernehmen“ wechselt Omeka auf die Seite „Inhalt der Seite … bearbeiten“ (Abb. B.4.9). Hier können Sie die einzelnen Inhaltsbereiche befüllen. Texte – Textblöcke, Bildlegenden, Zwischenüberschriften für zweispaltige Texte – geben Sie direkt in die entsprechenden Felder ein, Objekte wählen Sie über die Schaltflächen „Objekt hinzufügen“ aus. Leere Inhaltselemente werden bei der Ausgabe im Frontend ignoriert. Sie können also etwa nur einen Text einstellen und auf die Einbindung von Objekten verzichten oder bei Layout 1 (vgl. Abb. B.4.4) das Hauptbild oder die Bildergalerie weglassen.
 
-Für die Texteingabe steht Ihnen ein Editor zur Verfügung (Abb. 4.12), mit dem Sie Ihre Texte formatieren können. Über die Bedienelemente am oberen Rand (a) über dem Texteingabefeld (b) können Sie u.a. Überschriften in verschiedenen Hierarchiestufen vergeben (Überschrift 1-6), Fettungen und Kursivsetzungen vornehmen, Listen erstellen und externe oder interne Links setzen. Über die genauen Formatierungsmöglichkeiten informiert Abschnitt XXX im Anhang.
+!![Abb. B.4.12 Die Seite „Inhalt der Seite … bearbeiten“][B-4-12]
 
-!![Abb. B.4.11 Abb. 4.11 Die Seite „Inhalt der Seite … bearbeiten“][B-4-11]
 
-Das Einfügen eines Objekts erfolgt über die Schaltflüche „Objekt hinzufügen“ (Abb. 4.11, b) des jeweiligen Inhaltselements. Zum Auswählen des Objekts öffnet sich das Dialogfenster „Objekt hinzufügen“ (Abb. 4.13).
+Für die Texteingabe steht Ihnen ein Editor zur Verfügung (Abb. 4.13), mit dem Sie Ihre Texte formatieren können. Über die Bedienelemente am oberen Rand (<span class="red-circle">a</span>) über dem Texteingabefeld (<span class="red-circle">b</span>) können Sie u.a. Überschriften in verschiedenen Hierarchiestufen vergeben (Überschrift 1-4), Fettungen und Kursivsetzungen vornehmen, Listen erstellen und externe oder interne Links setzen. Über die genauen Formatierungsmöglichkeiten informiert Abschnitt XXX im Anhang.
 
-!![Abb. B.4.12 Abb. 4.12 Der Texteditor][B-4-12]
+!![Abb. B.4.13 Der Texteditor][B-4-13]
 
-Sie können die Liste aller Objekte durchblättern (a, Voreinstellung), um das gewünschte Objekt auszuwählen (1) und über die Schaltfläche „Ausgewähltes Objekt hinzufügen“ (2) in die Ausstellungsseite einzubinden.
+Das Einfügen eines Objekts erfolgt über die Schaltfläche „Objekt hinzufügen“ (Abb. B.4.14, <span class="red-circle">a</span>) des jeweiligen Inhaltselements. Zum Auswählen des Objekts öffnet sich das Dialogfenster „Objekt hinzufügen“ (Abb. B.4.15).
 
-Die Objektliste zeigt immer nur zehn Objekte an, mit der Blätternavigation oben rechts (c) zum nächsten (oder vorherigen) 10er-Paket wechseln. Bei Ausstellungen mit vielen Objekten ist es sicherlich die bessere Option, das Objekt über ein Suchformular auszuwählen (b). Die Schaltfläche „Suchformular anzeigen“ öffnet die Suchmaske, die Sie bereits aus der allgemeinen Objektsuche (Abb. 2.13) kennen.
+!![Abb. B.4.14 Objekt hinzufügen][B-4-14]
+!![Abb. B.4.15 Dialogfenster „Objekt hinzufügen“][B-4-15]
 
-!![Abb. B.4.13 Abb. 4.13 Dialogfenster „Objekt hinzufügen“][B-4-13]
+Sie können die Liste aller Objekte durchblättern, um das gewünschte Objekt auszuwählen und über die Schaltfläche „Ausgewähltes Objekt hinzufügen“ in die Ausstellungsseite einzubinden.
 
-Nach dem Einfügen des Objekts ist die Anzeige des Objekt-Inhaltselements erweitert (Abb. 4.14). Oben links erscheint der Titel des Objekts und Vorschaubild (a). Darunter bietet ein Editor die Möglichkeit, eine Bildunterschrift (Legende) einzufügen (b). Wenn Sie das Objekt von Ihrer Ausstellungsseite wieder entfernen möchten, klicken Sie auf die Schaltfläche „Dieses Objekt entfernen“ (c). Vorsicht: Das Objekt wird sofort und endgültig gelöscht, ohne dass Sie noch einmal um eine Bestätigung gebeten werden.
+Bei Ausstellungen mit vielen Objekten haben Sie die Möglichkeit, die Objekte über ein Suchformular auszuwählen. Die Schaltfläche „Suchformular anzeigen“ öffnet die Suchmaske, die Sie bereits aus der allgemeinen Objektsuche (Abb. B.2.14) kennen.
 
-!![Abb. B.4.14 Abb. 4.14 Inhaltselement Objekt – hier ein Hauptbild][B-4-14]
+Nach dem Einfügen des Objekts ist die Anzeige des Objekt-Inhaltselements erweitert (Abb. B.4.16). Oben links erscheint der Titel des Objekts und Vorschaubild (<span class="red-circle">a</span>). Darunter bietet ein Editor die Möglichkeit, eine Bildunterschrift (Legende) einzufügen (<span class="red-circle">b</span>). Wenn Sie das Objekt von Ihrer Ausstellungsseite wieder entfernen möchten, klicken Sie auf die Schaltfläche „Dieses Objekt entfernen“ (<span class="red-circle">c</span>). Vorsicht: Das Objekt wird sofort und endgültig gelöscht, ohne dass Sie noch einmal um eine Bestätigung gebeten werden.
 
-{Aufgepasst: Bildlegenden werden nur bei Hauptbildern ausgegeben ...}
+!![Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild][B-4-16]
 
-Nachdem Sie alle Texte eigegeben und alle Objekte eingebunden haben, sollten Sie sich das Ergebnis im Frontend anschauen. Speichern Sie dazu Ihre Eingaben zunächst über die Schaltfläche „Änderungen übernehmen“ (Abb. 4.11, 2) ab, und klicken dann auf die Schaltfläche „Öffentliche Seite anzeigen“ (3). Es öffnet sich ein neuer Browser-Tab mit der Frontend-Darstellung Ihrer Ausstellungsseite.
+!!!note "Bildlegenden werden nur bei Hauptbildern ausgegeben"
+
+    Omeka sieht für jedes eingebundene Objekt die Möglichkeit vor, eine Bildlegende einzugeben. In der Frontend-Ausgabe werden allerdings nur bei Hauptbildern diese Bildlegenden auch angezeigt, bei allen Vorschaubildern werden sie auf den Ausstellungsseiten einfach ignoriert. Hauptbilder sind Objekte, deren verknüpfte Dateien (also in der Regel die Abbildung des Objekts) in den Originalproportionen, nicht als quadratisches Vorschaubild angezeigt werden. Ist eine Bildlegende vorhanden, wird sie im Textfeld der Lightbox (s. Abb. A.4) unter dem Objekttitel angezeigt.
+
+Nachdem Sie alle Texte eigegeben und alle Objekte eingebunden haben, sollten Sie sich das Ergebnis im Frontend anschauen. Speichern Sie dazu Ihre Eingaben zunächst über die Schaltfläche „Änderungen übernehmen“ (Abb. B.4.16, <span class="red-circle">1</span>) ab, und klicken dann auf die Schaltfläche „Seite anzeigen“ (<span class="red-circle">2</span>). Es öffnet sich ein neuer Browser-Tab mit der Frontend-Darstellung Ihrer Ausstellungsseite.
 
 Denken Sie bitte auch daran, die Ausgaben zu den Objekten zu überprüfen, die in der Lightbox erscheinen. Klicken Sie dazu auf das erste Objekt der Seite und blättern in der Lightbox alle Objekte durch. Zu jedem Objekt sollten Sie vor der Veröffentlichung auch die Angaben Korrektur lesen, die sich hinter dem ©-Icon der Lightbox verbergen.
 
 ##### Praxistipp: Frontend-Tabs immer wieder schließen
 
-Wenn Sie von der Frontenddarstellung ins Omeka-Backend zurückwechseln, Änderungen an der Seite vornehmen, diese abspeichern (2) und wieder auf „Öffentliche Seite anzeigen“ (3) klicken, öffnet sich ein neuer, weiterer Browser-Tab mit der aktualisierten Vorschau. Nach einer Reihe von Wiederholungen verlieren Sie leicht den Überblick, welche Frontend-Darstellung dem aktuellen Stand Ihrer editorischen Arbeit entspricht. Wir empfehlen deshalb, den Vorschau-Tab immer gleich wieder zu schließen, nachdem Sie die Frontend-Ausgabe überprüft haben.
+Wenn Sie von der Frontenddarstellung ins Omeka-Backend zurückwechseln, Änderungen an der Seite vornehmen, diese abspeichern und wieder auf „Öffentliche Seite anzeigen“ klicken, öffnet sich ein neuer, weiterer Browser-Tab mit der aktualisierten Vorschau. Nach einer Reihe von Wiederholungen verlieren Sie leicht den Überblick, welche Frontend-Darstellung dem aktuellen Stand Ihrer editorischen Arbeit entspricht. Wir empfehlen deshalb, den Vorschau-Tab immer gleich wieder zu schließen, nachdem Sie die Frontend-Ausgabe überprüft haben.
 
-Sie können nach Abschluss Ihrer Arbeiten an der aktuellen Seite einfach eine neue Seite anlegen, indem Sie auf die Schaltfläche „Speichern und Seite hinzufügen“ (Abb. 4.11, 4) klicken. Oder Sie wechseln auf die Ausstellungsseite zurück – am einfachsten durch einen Klick auf den Ausstellungstitel in der Breadcrumb-Navigation am oberen Rand des Formulars – und fügen neue Seiten hinzu – wie bei der ersten Seite über die Schaltfläche „Seiten hinzufügen“ (Abb. 4.1, 1).
+Sie können nach Abschluss Ihrer Arbeiten an der aktuellen Seite einfach eine neue Seite anlegen, indem Sie auf die Schaltfläche „Änderungen übernehmen und neue Seite hinzufügen“ (Abb. B.4.11, <span class="red-circle">3</span>) klicken. Oder Sie wechseln auf die Ausstellungsseite zurück – am einfachsten durch einen Klick auf den Ausstellungstitel in der Breadcrumb-Navigation am oberen Rand des Formulars – und fügen neue Seiten hinzu – wie bei der ersten Seite über die Schaltfläche „Seiten hinzufügen“.
 
 ### B.4.4 Seiten arrangieren und bearbeiten
 
 #### B.4.4.1 Änderung der Reihenfolge
 
-Die von Ihnen bereits angelegten Seiten erscheinen auf der Seite „Ausstellung …“ als beigefarbene, mit dem Seitentitel beschriftete Balken. Mit diesen Balken können Sie die Anordnung Ihrer Seiten ganz einfach und intuitiv über „Drag and Drop“ anpassen. 
-Fahren Sie dazu mit dem Mauszeiger über den Balken der betreffenden Seite (nicht über den Titel oder das „x“). Der Zeiger Ihrer Maus ändert sich dabei von einem einfachen Pfeil zu einem Vier-Wege-Pfeil. Halten Sie nun die linke Maustaste gedrückt, können Sie den Balken über das Interface verschieben (Abb. 4.15, 1). 
+Die von Ihnen bereits angelegten Seiten erscheinen auf der Seite „Ausstellung …“ als beigefarbene, mit dem Seitentitel beschriftete Balken. Mit diesen Balken können Sie die Anordnung Ihrer Seiten ganz einfach und intuitiv über „Drag and Drop“ anpassen.
 
-!![Abb. B.4.15 Abb. 4.15 Sortieren der Ausstellungsseiten durch Drag and Drop][B-4-15]
+Fahren Sie dazu mit dem Mauszeiger über den Balken der betreffenden Seite (nicht über den Titel oder das „x“). Der Zeiger Ihrer Maus ändert sich dabei von einem einfachen Pfeil zu einem Vier-Wege-Pfeil. Halten Sie nun die linke Maustaste gedrückt, können Sie den Balken über das Interface verschieben (Abb. B.4.17). Positionieren Sie den Balken an die gewünschte Stelle und geben die linke Maustaste wieder frei. Die geänderte Reihenfolge wird nun angezeigt – Sie haben die Seiten umsortiert. Diese Änderungen werden allerdings erst übernommen, wenn Sie Ihre Ausstellung speichern. Vergessen Sie also nicht, nach dem Umsortieren auf die Schaltfläche „Änderungen übernehmen“ (<span class="red-circle">1</span>) zu klicken.
 
-ositionieren Sie den Balken an die gewünschte Stelle und geben die linke Maustaste wieder frei. Die geänderte Reihenfolge wird nun angezeigt – Sie haben die Seiten umsortiert. Diese Änderungen werden allerdings erst übernommen, wenn Sie Ihre Ausstellung speichern. Vergessen Sie also nicht, nach dem Umsortieren auf die Schaltfläche „Änderungen übernehmen“ (2) zu klicken.
-
-{Aufgepasst: Das DDB-Theme kennt keine Unterseiten ...}
-
-!![Abb. B.4.16 Abb. 4.16 Unerwünscht: Das Einrücken der Seiten-Balken erzeugt Unterseiten][B-4-16]
+!![Abb. B.4.17 Sortieren der Ausstellungsseiten durch Drag and Drop][B-4-17]
 
 #### B.4.4.2 Seiten Löschen
 
-m eine Seite aus Ihrer Ausstellung zu entfernen, können Sie in der der Seitenliste auf das „x“ am rechten Rand des entsprechenden Balkens klicken (Abb. 4.17, a - 1). Die Seite ist dann zum Löschen vorgemerkt – der Balken ist nun braun hinterlegt und aus dem „x“ ist ein Rückgängigmachen-Pfeil geworden (b). Erst nachdem Sie Ihre Eingaben mit „Änderungen übernehmen“ (2) gespeichert haben, wird die Seite – dann allerdings unwiderruflich – gelöscht und der Balken verschwindet aus der Liste. Wenn Sie im braunen Balken auf das Pfeilsymbol klicken oder die Seite „Ausstellung …“ verlassen, ohne gespeichert zu haben, bleiben die zur Löschung vorgemerkten Seiten erhalten.
+Um eine Seite aus Ihrer Ausstellung zu entfernen, können Sie in der der Seitenliste auf das „x“ am rechten Rand des entsprechenden Balkens klicken (Abb. 4.18). Die Seite ist dann zum Löschen vorgemerkt – der Balken ist nun braun hinterlegt und aus dem „x“ ist ein Rückgängigmachen-Pfeil geworden (<span class="red-circle">1</span>). Erst nachdem Sie Ihre Eingaben mit „Änderungen übernehmen“ (<span class="red-circle">2</span>) gespeichert haben, wird die Seite – dann allerdings unwiderruflich – gelöscht und der Balken verschwindet aus der Liste. Wenn Sie im braunen Balken auf das Pfeilsymbol klicken oder die Seite „Ausstellung …“ verlassen, ohne gespeichert zu haben, bleiben die zur Löschung vorgemerkten Seiten erhalten.
 
-{Aufgepasst: Löschen löscht die ganze Ausstellung ...}
-
-!![Abb. B.4.17 Abb. 4.17 Seiten aus der Seitenliste löschen][B-4-17]
+!![Abb. B.4.18 Seiten aus der Seitenliste löschen][B-4-18]
 
 #### B.4.4.3 Änderungen auf bestehenden Seiten
 
 Als webbasiertes Content-Management-System ist Omeka sehr flexibel, was den Workflow bei der Erstellung von virtuellen Ausstellungen angeht. Sie können die Ausstellung Seite für Seite erarbeiten oder beispielsweise erst alle Seiten anlegen und diese später und in beliebiger Reihenfolge mit Objekten und Texten befüllen. Und selbstverständlich bleiben alle Inhalte bis zur Veröffentlichung auf der Website der Deutschen Digitalen Bibliothek editierbar. 
 
-!![Abb. B.4.18 Abb. 4.18 Aufruf der Seite „Inhalt der Seite …“ über den Titel in der Liste der Ausstellungsseiten][B-4-18]
+Solange Sie bestehende Seiteninhalte editieren oder neue hinzufügen, gelten die Hinweise, die wir im Kapitel „Inhalte einstellen“ gegeben haben.
 
-Um zur Seite „Inhalt der Seite …“ zu gelangen, auf der Sie die Inhalte bearbeiten können, rufen Sie in der Rubrik „Ausstellungen“ Ihre Ausstellung auf und klicken in der Liste der Ausstellungsseiten auf den Titel der betreffenden Seite (Abb. 4.18, 1). Die Unterscheidung zwischen bereits aufgerufenen Seiten (Titel erscheint grau) und noch nicht aufgerufenen Seiten (Titel erscheint braun) hat in der Praxis keine Relevanz.
-
-Solange Sie bestehende Seiteninhalte editieren oder neue hinzufügen, gelten die Hinweise, die wir im Kapitel 4.3 „Inhalte einstellen“ gegeben haben.
-Leider bietet Omeka kein einfaches Verfahren, um die Anordnung der Objekte auf der Seite zu verändern, also etwa ein Galeriebild zum Hauptbild zu machen, die Reihenfolge der Galeriebilder anzupassen oder ein neues Galeriebild zwischenzuschieben. Anzahl und Anordnung der Inhaltselemente (vgl. Abb. 4.11, die in blauen Kästchen durchnummerierten Boxen) ist fix, Sie können Sie nur mit Objekten belegen oder diese entfernen.
+Leider bietet Omeka kein einfaches Verfahren, um die Anordnung der Objekte auf der Seite zu verändern, also etwa ein Galeriebild zum Hauptbild zu machen, die Reihenfolge der Galeriebilder anzupassen oder ein neues Galeriebild zwischenzuschieben. Anzahl und Anordnung der Inhaltselemente ist fix, Sie können Sie nur mit Objekten belegen oder diese entfernen.
 
 Um es an einem Beispiel zu verdeutlichen: Wenn Sie in einer Galerie mit 7 Objekten an Stelle 4 ein neues Objekt einfügen möchten, entfernen Sie an Stelle 4, 5, 6 und 7 die Objekte, fügen anschließend an Stelle 4 das neue und an Stelle 5, 5, 7 und 8 die folgenden Objekte ein. 
 
 Es empfiehlt sich also, beim Anlegen von Objektsequenzen gründlich zu planen und systematisch vorzugehen. Andererseits ist das Entfernen und Hinzufügen von Objekten mit wenigen Klicks erledigt, lassen Sie sich also nicht zu sehr in Ihrer Experimentierfreude oder Ihrem Optimierungsbedürfnis einschränken. Wenn die Änderungen Hauptbilder betreffen, sollten Sie bereits eingestellt Bildlegenden in einer Textdatei zwischenspeichern, da diese beim Entfernen eines Objekts verloren gehen.
 
-Sie können natürlich nicht nur die Inhalte der Seite bearbeiten, sondern auch die Einstellungen zur Seite. Dazu klicken Sie auf die Schaltfläche „Seite bearbeiten“ im oberen Bereich der Seite „Inhalt der Seite … bearbeiten“ (Abb. 4.18, 1). 
-
-!![Abb. 4.18 Aufruf der Seite „Seite … bearbeiten“][B-4-18a]
-
-Änderungen an den Metadaten der Seite (vgl. Abb. 4.2, 1-3 und a) sind unproblematisch. Auch ein Wechsel des ausgewählten Layouts (vgl. Abb. 4.2, 4) ist möglich. Dabei ist allerdings zu bedenken, dass sich ein solcher Layout-Wechsel auf die Organisation der Inhalte auf der Ausstellungsseite auswirkt.
+Änderungen an den Metadaten der Seite sind unproblematisch. Auch ein Wechsel des ausgewählten Layouts (vgl. Abb. 4.2, 4) ist möglich. Dabei ist allerdings zu bedenken, dass sich ein solcher Layout-Wechsel auf die Organisation der Inhalte auf der Ausstellungsseite auswirkt.
  
 Omeka verhält sich bei einem Layout-Wechsel insofern „robust“, als es bestehende Inhalte den Inhaltselementen des neuen Layouts zuordnet. Dabei kann es zu unerwünschten, chaotischen Veränderungen bei den Eingabemasken kommen, vor allem, wenn Inhaltselemente aus den zweispaltigen Bereichen unterhalb der Objekte im neuen Template keine Entsprechung haben.
 
@@ -179,9 +169,11 @@ Hat ein Layout-Wechsel das Schema der Eingabefelder auf unerwünschte Weise ver�
 
 #### B.4.4.5 Zweispaltiger Texte
 
-ei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text links, Objekte rechts oder umgekehrt (bei Layout 5 alternierend). Das Layout 3 (Galerie) präsentiert die Textblöcke und die Bildergalerie jeweils über die gesamte Breite des Content-Bereichs. Da Textzeilen von mehr als 100 Zeichen Länge mühsam zu lesen währen, ist der Text hier zweispaltig gesetzt. Die Aufteilung auf die beiden Spalten erfolgt im Browser des Nutzers automatisch, wobei sich der Spaltenumbruch an die – durch die Breite des Browserfensters bedingte – Breite des Content-Bereichs anpasst. 
+Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text links, Objekte rechts oder umgekehrt (bei Layout 5 alternierend). Das Layout 3 (Galerie) präsentiert die Textblöcke und die Bildergalerie jeweils über die gesamte Breite des Content-Bereichs. Da Textzeilen von mehr als 100 Zeichen Länge mühsam zu lesen währen, ist der Text hier zweispaltig gesetzt. Die Aufteilung auf die beiden Spalten erfolgt im Browser des Nutzers automatisch, wobei sich der Spaltenumbruch an die – durch die Breite des Browserfensters bedingte – Breite des Content-Bereichs anpasst. 
 
-{Praxistipp: Der Spaltenumbruch muss automatisch erfolgen! ...}
+!!!note "Der Spaltenumbruch muss automatisch erfolgen"
+
+    Es ist sinnlos, den Spaltenumbruch durch Zeilenumbrüche, Absätze, Leerzeilen oder mit ähnlichen „Manipulationen“ erzwingen zu wollen, er würde nur für genau die Fensterbreite passen, in der Sie das Frontend gerade betrachten. Wenn Sie dieses Fenster groß und klein ziehen, wird Ihnen dieser Zusammenhang sofort anschaulich.
 
 !![Abb. B.4.19 Abb. 4.19 Zweispaltige Textblöcke im Layout Thumbnailgalerie][B-4-19]
 
@@ -223,14 +215,14 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt 4.1) ist hi
 [B-4-9]: img/B-4-9.jpg "Abb. B.4.9 Layout 6 – Bilder rechts"
 [B-4-10]: img/B-4-10.jpg "Abb. B.4.10 Layout 7 – große, fortlaufende Bilder rechts"
 [B-4-11]: img/B-4-11.jpg "Abb. B.4.11 Layout 8 – kleine, fortlaufende Bilder rechts"
+[B-4-12]: img/B-4-12.jpg "Abb. B.4.12 Die Seite „Inhalt der Seite … bearbeiten“"
+[B-4-13]: img/B-4-13.jpg "Der Texteditor"
+[B-4-14]: img/B-4-14.jpg "Abb. B.4.14 Objekt hinzufügen"
+[B-4-15]: img/B-4-15.jpg "Abb. B.4.15 Dialogfenster „Objekt hinzufügen“"
+[B-4-16]: img/B-4-16.jpg "Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild"
+[B-4-17]: img/B-4-17.jpg "Abb. 4.17 Abb. B.4.16 Sortieren der Ausstellungsseiten durch Drag and Drop"
+[B-4-18]: img/B-4-18.jpg "Abb. B.4.18 Seiten aus der Seitenliste löschen"
 
-[B-4-12]: img/Abb_B-4-12_Texteditor.png "Abb. 4.12 Der Texteditor"
-[B-4-13]: img/Abb_B-4-13_Objekt_hinzufügen.png "Abb. 4.13 Dialogfenster Objekt hinzufügen"
-[B-4-14]: img/Abb_B-4-14_Inhaltselement_Objekt.png "Abb. 4.14 Inhaltselement Objekt – hier ein Hauptbild"
-[B-4-15]: img/Abb_B-4-15_Sortieren.png "Abb. 4.15 Sortieren der Ausstellungsseiten durch Drag and Drop"
-[B-4-16]: img/Abb_B-4-16_Unerwünscht.png "Abb. 4.16 Unerwünscht: Das Einrücken der Seiten-Balken erzeugt Unterseiten"
-[B-4-17]: img/Abb_B-4-17_löschen.png "Abb. 4.17 Seiten aus der Seitenliste löschen"
-[B-4-18]: img/Abb_B-4-18_Seite_Inhalt.png "Abb. 4.18 Aufruf der Seite Inhalt der Seite … über den Titel in der Liste der Ausstellungsseiten"
 [B-4-18a]: img/Abb_B-4-18a_Seite_bearbeiten.png "Abb. 4.18 Aufruf der Seite Seite … bearbeiten"
 [B-4-19]: img/Abb_B-4-19_Zweispaltige_Blöcke.png "Abb. 4.19 Zweispaltige Textblöcke im Layout Thumbnailgalerie"
 [B-4-20]: img/Abb_B-4-20_Eingabe_zweispaltige_Blöcke.png "Abb. 4.20 Eingabemaske für zweispaltige Texte, hier unterhalb der Bildergalerie"
