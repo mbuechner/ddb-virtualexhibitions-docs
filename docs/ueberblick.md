@@ -1,5 +1,5 @@
 # A. Im Überblick – Virtuelle Ausstellungen der Deutschen Digitalen Bibliothek
-Die mit dem Omeka-Tool der Deutschen Digitalen Bibliothek erstellten Ausstellungen werden auf dem Portal der Deutschen Digitalen Bibliothek veröffentlicht. Zur Ausstellung gelangt der Nutzer, wenn er in der Hauptnavigation unter „Entdecken“ den Menüpunkt „Ausstellungen“ aufruft und in der Liste der Ausstellungen auf den Titel oder „Weiterlesen“ klickt (Abb. A.1)
+Die mit DDBstudio erstellten Ausstellungen werden auf dem Portal der Deutschen Digitalen Bibliothek veröffentlicht. Zur Ausstellung gelangen die Nutzerinnen und Nutzer, wenn sie in der Hauptnavigation unter „Entdecken“ den Menüpunkt „Ausstellungen“ aufrufen und in der Liste der Ausstellungen auf den Titel oder „Weiterlesen“ klicken (Abb. A.1)
 
 !![Abb. A.1 Die Liste der virtuellen Ausstellungen der Deutschen Digitalen Bibliothek][A-1]
 
@@ -10,14 +10,14 @@ Ihre Ausstellung erscheint im Portal der Deutschen Digitalen Bibliothek eingebet
 !![Abb. A.2 Die Elemente einer Ausstellungsseite][A-2]
 
 Unter der Wellenlinie, die den DDB-Kopfbereich abschließt (<span class="red-circle">a</span>), erscheint zunächst ein Navigationsbereich mit zwei Elementen: 
-* Einer Breadcrumb-Navigation, die anzeigt, wo sich die aufgerufene Seite in der Seitenhierarchie des Portals befindet und dem Nutzer erlaubt, die übergeordneten Seiten anzuklicken,
+* Einer Breadcrumb-Navigation, die anzeigt, wo sich die aufgerufene Seite in der Seitenhierarchie des Portals befindet und den Nutzerinnen und Nutzern erlaubt, die übergeordneten Seiten anzuklicken,
 * sowie einer grafischen Navigation durch die Ausstellungsseiten (<span class="red-circle">b</span>). Die aktuelle Seite ist durch ein etwas größeres Vorschaubild und die fehlende Abschattung hervorgehoben. Durch Pfeilsymbole lässt sich der „Filmstreifen“ der Vorschaubilder verschieben. Ein Klick auf das Vorschaubild führt zur betreffenden Seite. 
 
 Am unteren Ende jeder Ausstellungsseite erscheint direkt über dem DDB-Fußbereich zudem eine textliche Blätternavigation (Abb. A.3, <span class="red-circle">a</span>). Alle Navigationselemente erzeugt das Omeka-Tool automatisch (Vorschaubilder können Sie auf Wunsch auswählen), die eigentliche Gestaltung der Ausstellungs-Seiten beschränkt sich auf den Content-Bereich (Abb. A.2 <span class="red-circle">c</span>) und die Sidebar am rechten Rand (<span class="red-circle">d</span>).
 
 !![Abb. A.3 Der Fußbereich der Ausstellungsseite][A-3]
 
-Der von Ihnen zu gestaltende Bereich der virtuellen Ausstellung setzt sich aus verschiedenen Elementen zusammen, die von Omeka nach bestimmten Layout-Vorlagen und abhängig von der Browsergröße des Nutzers für die Ausgabe arrangiert werden. Im gezeigten Beispiel (Abb. A.4) sind dies: 
+Der von Ihnen zu gestaltende Bereich der virtuellen Ausstellung setzt sich aus verschiedenen Elementen zusammen, die von Omeka nach bestimmten Layout-Vorlagen und abhängig von der Browsergröße der Nutzerinnen und Nutzer für die Ausgabe arrangiert werden. Im gezeigten Beispiel (Abb. A.4) sind dies: 
 * Überschrift und Text der Ausstellungsseite, 
 * die auf der Ausstellungsseite gezeigten Objekte, die hier als Hauptbild und als Bildergalerie mit quadratischen Vorschaubildern angezeigt werden. 
 Die Elemente (Widgets) in der rechten Sidebar erscheinen auf allen Seiten der Ausstellung.
@@ -30,14 +30,14 @@ Die Lightbox enthält neben der großformatigen Objektdarstellung eine Reihe von
 
 !![Abb. A.5 Großansicht eines Objekts in der Lightbox][A-5]
 
-Das „x“ in der rechten unteren Ecke schließt die Lightbox. Der Nutzer kann zum Schließen auch einfach auf den abgedunkelten Bereich außerhalb der Box klicken oder die Escape-Taste auf seiner Tastatur drücken.
+Das „x“ in der rechten unteren Ecke schließt die Lightbox. Die Nutzerinnen und Nutzer können zum Schließen auch einfach auf den abgedunkelten Bereich außerhalb der Box klicken oder die Escape-Taste auf ihrer Tastatur drücken.
 
 Es gibt zwei Arten von Detail-Seiten zu den einzelnen Objekten:
 * Detailseiten im Portal der Deutschen Digitalen Bibliothek
 * Detailseiten im Rahmen der aktuellen virtuellen Ausstellung.
 Welcher Typ von Detail-Seite bei einem Klick auf „zum Objekt“ aufgerufen wird, hängt davon ab, ob das betreffende Objekt bereits im Datenbestand der Deutschen Digitalen Bibliothek vorhanden ist.
 
-Die virtuellen Ausstellungen der Deutschen Digitalen sind als eine Möglichkeit gedacht, die dort verfügbaren Objekte in thematischen Zusammenhängen zu präsentieren und damit für das interessierte Publikum besser zugänglich zu machen. Insofern ist es der „Normalfall“, dass die in der virtuellen Ausstellung gezeigten Objekte bereits in der Deutschen Digitalen Bibliothek vorhanden sind. Abb. A.6 zeigt die Objektseite zu einem solchen Exponat in der Ausstellung „Zu Mythen und Monumenten. Die Forschungsreise von Konrad Theodor Preuss nach Kolumbien (1913−1919)“. Der Nutzer hat – in einem neuen Browserfenster – den Rahmen der virtuellen Ausstellung verlassen und befindet sich nun auf dem Portal der Deutschen Digitalen Bibliothek. Die angezeigte Abbildung und die Metadaten stammen aus dem Datenbestand der Deutschen Digitalen Bibliothek und können von Ihnen als KUrator im Rahmen der Erstellung Ihrer Ausstellung nicht direkt verändert werden. Schließt der Nutzer das Browserfenster (bzw. den Browser Tab), ist er wieder auf der Ausstellungsseite, auf der das Objekt eingebunden war.
+Die virtuellen Ausstellungen der Deutschen Digitalen sind als eine Möglichkeit gedacht, die dort verfügbaren Objekte in thematischen Zusammenhängen zu präsentieren und damit für das interessierte Publikum besser zugänglich zu machen. Insofern ist es der „Normalfall“, dass die in der virtuellen Ausstellung gezeigten Objekte bereits in der Deutschen Digitalen Bibliothek vorhanden sind. Abb. A.6 zeigt die Objektseite zu einem solchen Exponat in der Ausstellung „Zu Mythen und Monumenten. Die Forschungsreise von Konrad Theodor Preuss nach Kolumbien (1913−1919)“. Die Nutzerinnen und Nutzer haben – in einem neuen Browserfenster – den Rahmen der virtuellen Ausstellung verlassen und befinden sich nun auf dem Portal der Deutschen Digitalen Bibliothek. Die angezeigte Abbildung und die Metadaten stammen aus dem Datenbestand der Deutschen Digitalen Bibliothek und können von Ihnen als Kurator im Rahmen der Erstellung Ihrer Ausstellung nicht direkt verändert werden. Schließen Nutzerinnen und Nutzer das Browserfenster (bzw. den Browser Tab), sind sie wieder auf der Ausstellungsseite, auf der das Objekt eingebunden war.
 
 !![Abb. A.6 Detailseite zu einem Objekt der virtuellen Ausstellung im Portal der Deutschen Digitalen Bibliothek][A-6]
 
@@ -51,10 +51,10 @@ Für die Organisation der Inhalte hält das Omeka-Tool der Deutschen Digitalen B
 
 !![Abb. A.8 Beispiele für die Verwendung unterschiedlicher Seitenlayouts][A-8]
 
-Abschließend sei noch darauf hingewiesen, dass die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek nach den Prinzipien des Responsive Web Design gestaltet sind. Das Layout der Seiten passt sich also dynamisch der Größe des Browserfensters an, in dem der Nutzer die Ausstellung betrachtet. Sie können diesen Effekt sehr schön nachvollziehen, wenn Sie eine virtuelle Ausstellung der Deutschen Digitalen Bibliothek in einem Browserfenster Ihres Desktop- oder Laptop-Computers aufrufen und dieses Fenster dann verkleinern und vergrößern.
+Abschließend sei noch darauf hingewiesen, dass die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek nach den Prinzipien des Responsive Web Design gestaltet sind. Das Layout der Seiten passt sich also dynamisch der Größe des Browserfensters an, in dem die Nutzerinnen und Nutzer die Ausstellung betrachten. Sie können diesen Effekt sehr schön nachvollziehen, wenn Sie eine virtuelle Ausstellung der Deutschen Digitalen Bibliothek in einem Browserfenster Ihres Desktop- oder Laptop-Computers aufrufen und dieses Fenster dann verkleinern und vergrößern.
 Anfänglich reagiert das Layout „fluid“, d. h. die Spalten des Layouts werden stufenlos schmaler, die Textzeilen brechen entsprechend anders um und die Abbildungen werden kleiner. Unterschreiten Sie eine bestimmte Größe, verschwindet zunächst die rechte Sidebar, bei noch kleineren Fenstern wird das Layout einspaltig.
 
-Diese Anpassung erfolgt automatisch durch die Programmierung der Seiten. Da immer mehr Nutzer Webinhalte mit den Browsern ihrer Mobilgeräte (Smartphones, Tablets) anschauen, sollten Sie bei der Gestaltung Ihrer Ausstellung ein Auge darauf haben, wie die Gestaltung auf Mobilgeräten wirkt.
+Diese Anpassung erfolgt automatisch durch die Programmierung der Seiten. Da immer mehr Nutzerinnen und Nutzer Webinhalte mit den Browsern ihrer Mobilgeräte (Smartphones, Tablets) anschauen, sollten Sie bei der Gestaltung Ihrer Ausstellung ein Auge darauf haben, wie die Gestaltung auf Mobilgeräten wirkt.
 
 
 [A-1]: img/A-1.jpg "Abb. A.1 Die Liste der virtuellen Ausstellungen der Deutschen Digitalen Bibliothek"
