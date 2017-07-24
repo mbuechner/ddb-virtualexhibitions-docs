@@ -1,8 +1,8 @@
 ## B.3 Die Ausstellung anlegen
 
-Die ‚Exponate‘ Ihrer virtuellen Ausstellung haben Sie nun als Objekte angelegt, mit Metadaten versehen und mit Mediendateien verknüpft. Der nächste Schritt: Sie legen eine Ausstellung an.
-Wenn die Ausstellung bereits durch Ihren Betreuer bei der Deutschen Digitalen Bibliothek angelegt wurde, können Sie diesen Abschnitt überschlagen und auf Seite 35 mit der Anlage der Inhaltswidgets fortfahren.
-Dazu wechseln Sie in die Rubrik „Ausstellungen“ (Abb. 3.1, 1) und klicken auf die Schaltfläche „Ausstellung hinzufügen“ (2).
+Die ‚Exponate‘ Ihrer virtuellen Ausstellung haben Sie nun als Objekte angelegt, mit Metadaten versehen und mit Mediendateien verknüpft. Der nächste Schritt: Sie legen eine Ausstellung an. Dazu wechseln Sie in die Rubrik „Ausstellungen“ (Abb. 3.1, 1) und klicken auf die Schaltfläche „Ausstellung hinzufügen“ (2).
+
+Wenn die Ausstellung bereits durch Ihre Betreuerin bei der Deutschen Digitalen Bibliothek angelegt wurde, können Sie diesen Abschnitt überspringen und auf Seite 35 mit der Anlage der Inhaltswidgets fortfahren.
 
 !![Abb. B.3.1 Eine neue Ausstellung anlegen][B-3-1]
 
@@ -10,19 +10,18 @@ Auf der Seite „Ausstellung hinzufügen“ (Abb. 3.2) versehen Sie Ihre Ausstel
 
 Der Titel der Ausstellung (1) erscheint auf der Übersichtsseite zu den virtuellen Ausstellungen der Deutschen Digitalen Bibliothek (https://www.deutsche-digitale-bibliothek.de/content/ausstellungen) sowie in der Breadcrumb-Navigation am oberen Rand Ihrer Ausstellungsseiten, direkt unter der DDB-Hauptnavigation (Abb. 3.3).
 
+!![Abb. B.3.3 Der Ausstellungstitel in der Breadcrumb-Navigation][B-3-3]
+
 Im Feld „Slug“ (Abb. 3.2, 2) geben Sie an, mit welcher Zeichenfolge Ihre Ausstellung in der URL der Ausstellungsseiten erscheinen soll. Im Beispiel der Ausstellung „Zu Mythen und Monumenten“ ist dies der Nachname des Amerikanisten Konrad Theodor Preuss:
 http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/
 Für das Ranking Ihrer Ausstellungsseiten durch Suchmaschinen ist es günstig, wenn inhaltlich wichtige, aussagekräftige Begriffe in der URL vorkommen.
 
 !![Abb. B.3.2 Die Seite „Ausstellung hinzufügen“][B-3-2]
 
-!![Abb. B.3.3 Der Ausstellungstitel in der Breadcrumb-Navigation][B-3-3]
-
-Im Feld „Beschreibung“ (3) schildern Sie in einem kurzen Text von 400 bis 500 Zeichen Länge, was den Nutzer in der virtuellen Ausstellung erwartet. Der Beschreibungstext erscheint auf der Übersichtsseite zu den virtuellen Ausstellungen der Deutschen Digitalen Bibliothek (https://www.deutsche-digitale-bibliothek.de/content/ausstellungen) neben dem Vorschaubild).
+Im Feld „Beschreibung“ (3) schildern Sie in einem kurzen Text von 400 bis 500 Zeichen Länge, was die Nutzerinnen und Nutzer in der virtuellen Ausstellung erwartet. Der Beschreibungstext erscheint auf der Übersichtsseite zu den virtuellen Ausstellungen der Deutschen Digitalen Bibliothek (https://www.deutsche-digitale-bibliothek.de/content/ausstellungen) neben dem Vorschaubild).
 Nun sollten Sie Ihre Eingaben speichern. Überprüfen Sie zunächst, ob der Status der Ausstellung auf „Öffentlich“ gesetzt ist (4) und speichern Sie anschließend durch einen Klick auf die Schaltfläche „Änderungen übernehmen“ (5).
 
 Die Ausstellungs-Seiten verhalten sich beim Zwischenspeichern etwas anders als die Objektseiten: Nach dem Speichern („Änderungen übernehmen“) bleiben Sie auf der Seite mit den Metadaten der Ausstellung. Im rechten Kasten sind nun zwei Schaltflächen hinzugekommen (Abb. 3.4, b und c). 
-
 
 !![Abb. B.3.4 Bearbeiten einer bestehenden Ausstellung auf der Seite „Ausstellung …“][B-3-4]
 
