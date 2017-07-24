@@ -4,7 +4,7 @@ Die Erstellung und Bearbeitung von virtuellen Ausstellungen erfolgt über die Re
 
 Das Menü links (<span class="red-circle">1</span>) führt Sie zu Rubriken, in denen Sie Ihre Ausstellung aus unterschiedlichen Perspektiven bearbeitenkönnen.
 * Der „Überblick“ informierte Sie über die Anzahl der eingepflegten Objekte, wie viele Personen ZUgriff auf die Ausstellung haben und wo Sie redaktionelle Unterstützung finden. 
-* In der Rubrik „Objekte“ legen Sie die „Exponate“ an und verwalten sie.
+* In der Rubrik „Objekte“ legen Sie die ‚Exponate‘ an und verwalten sie.
 * Unter „Ausstellung“ legen Sie die einzelnen Seiten der Ausstellung an, wählen aus verschiedenen Layouts und pflegen Exponate, Bildunterschriften und Erklärtexte ein. 
 
 !![Abb. B.1.1 Das Backend einer neu angelegten Omeka-Installation ][B-1-1]
