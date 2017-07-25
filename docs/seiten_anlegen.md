@@ -124,7 +124,7 @@ Denken Sie bitte auch daran, die Ausgaben zu den Objekten zu überprüfen, die i
 
 ##### Praxistipp: Frontend-Tabs immer wieder schließen
 
-Wenn Sie von der Frontenddarstellung ins Omeka-Backend zurückwechseln, Änderungen an der Seite vornehmen, diese abspeichern (2) und wieder auf „Öffentliche Seite anzeigen“ (3) klicken, öffnet sich ein neuer, weiterer Browser-Tab mit der aktualisierten Vorschau. Nach einer Reihe von Wiederholungen verlieren Sie leicht den Überblick, welche Frontend-Darstellung dem aktuellen Stand Ihrer editorischen Arbeit entspricht. Wir empfehlen deshalb, den Vorschau-Tab immer gleich wieder zu schließen, nachdem Sie die Frontend-Ausgabe überprüft haben.
+Wenn Sie von der Frontend-Darstellung ins Omeka-Backend zurückwechseln, Änderungen an der Seite vornehmen, diese abspeichern (2) und wieder auf „Öffentliche Seite anzeigen“ (3) klicken, öffnet sich ein neuer, weiterer Browser-Tab mit der aktualisierten Vorschau. Nach einer Reihe von Wiederholungen verlieren Sie leicht den Überblick, welche Frontend-Darstellung dem aktuellen Stand Ihrer editorischen Arbeit entspricht. Wir empfehlen deshalb, den Vorschau-Tab immer gleich wieder zu schließen, nachdem Sie die Frontend-Ausgabe überprüft haben.
 
 Sie können nach Abschluss Ihrer Arbeiten an der aktuellen Seite einfach eine neue Seite anlegen, indem Sie auf die Schaltfläche „Speichern und Seite hinzufügen“ (Abb. 4.11, 4) klicken. Oder Sie wechseln auf die Ausstellungsseite zurück – am einfachsten durch einen Klick auf den Ausstellungstitel in der Breadcrumb-Navigation am oberen Rand des Formulars – und fügen neue Seiten hinzu, wie bei der ersten Seite über die Schaltfläche „Seiten hinzufügen“ (Abb. 4.1, 1).
 
@@ -160,19 +160,18 @@ Als webbasiertes Content-Management-System ist die Ausstellungs-Software sehr fl
 Um zur Seite „Inhalt der Seite …“ zu gelangen, auf der Sie die Inhalte bearbeiten können, rufen Sie in der Rubrik „Ausstellungen“ Ihre Ausstellung auf und klicken in der Liste der Ausstellungsseiten auf den Titel der betreffenden Seite (Abb. 4.18, 1). Die Unterscheidung zwischen bereits aufgerufenen Seiten (Titel erscheint grau) und noch nicht aufgerufenen Seiten (Titel erscheint braun) hat in der Praxis keine Relevanz.
 
 Solange Sie bestehende Seiteninhalte editieren oder neue hinzufügen, gelten die Hinweise, die wir im Kapitel 4.3 „Inhalte einstellen“ gegeben haben.
-Leider bietet die Software kein einfaches Verfahren, um die Anordnung der Objekte auf der Seite zu verändern, also etwa ein Galeriebild zum Hauptbild zu machen, die Reihenfolge der Galeriebilder anzupassen oder ein neues Galeriebild zwischenzuschieben. Anzahl und Anordnung der Inhaltselemente (vgl. Abb. 4.11, die in blauen Kästchen durchnummerierten Boxen) ist fix, Sie können Sie nur mit Objekten belegen oder diese entfernen.
 
-Um es an einem Beispiel zu verdeutlichen: Wenn Sie in einer Galerie mit 7 Objekten an Stelle 4 ein neues Objekt einfügen möchten, entfernen Sie an Stelle 4, 5, 6 und 7 die Objekte, fügen anschließend an Stelle 4 das neue und an Stelle 5, 5, 7 und 8 die folgenden Objekte ein. 
+Leider bietet die Software kein einfaches Verfahren, um die Anordnung der Objekte auf der Seite zu verändern, also etwa ein Galeriebild zum Hauptbild zu machen, die Reihenfolge der Galeriebilder anzupassen oder ein neues Galeriebild zwischenzuschieben. Anzahl und Anordnung der Inhaltselemente (vgl. Abb. 4.20, die in blauen Kästchen durchnummerierten Boxen) ist fix, Sie können Sie nur mit Objekten belegen oder diese entfernen.
 
-Es empfiehlt sich also, beim Anlegen von Objektsequenzen gründlich zu planen und systematisch vorzugehen. Andererseits ist das Entfernen und Hinzufügen von Objekten mit wenigen Klicks erledigt, lassen Sie sich also nicht zu sehr in Ihrer Experimentierfreude oder Ihrem Optimierungsbedürfnis einschränken. Wenn die Änderungen Hauptbilder betreffen, sollten Sie bereits eingestellt Bildlegenden in einer Textdatei zwischenspeichern, da diese beim Entfernen eines Objekts verloren gehen.
+Um es an einem Beispiel zu verdeutlichen: Wenn Sie in einer Galerie mit 7 Objekten an Stelle 4 ein neues Objekt einfügen möchten, entfernen Sie an Stelle 4, 5, 6 und 7 die Objekte, fügen anschließend an Stelle 4 das neue und an Stelle 5, 6, 7 und 8 die folgenden Objekte ein. 
+
+Es empfiehlt sich also, beim Anlegen von Objektsequenzen gründlich zu planen und systematisch vorzugehen. Andererseits ist das Entfernen und Hinzufügen von Objekten mit wenigen Klicks erledigt, lassen Sie sich also nicht zu sehr in Ihrer Experimentierfreude oder Ihrem Optimierungsbedürfnis einschränken. Wenn die Änderungen Hauptbilder betreffen, sollten Sie bereits eingestellte Bildunterschriften in einer Textdatei zwischenspeichern, da diese beim Entfernen eines Objekts verloren gehen.
 
 Sie können natürlich nicht nur die Inhalte der Seite bearbeiten, sondern auch die Einstellungen zur Seite. Dazu klicken Sie auf die Schaltfläche „Seite bearbeiten“ im oberen Bereich der Seite „Inhalt der Seite … bearbeiten“ (Abb. 4.18, 1). 
 
 !![Abb. 4.18 Aufruf der Seite „Seite … bearbeiten“][B-4-18a]
 
-Änderungen an den Metadaten der Seite (vgl. Abb. 4.2, 1-3 und a) sind unproblematisch. Auch ein Wechsel des ausgewählten Layouts (vgl. Abb. 4.2, 4) ist möglich. Dabei ist allerdings zu bedenken, dass sich ein solcher Layout-Wechsel auf die Organisation der Inhalte auf der Ausstellungsseite auswirkt.
- 
-Omeka verhält sich bei einem Layout-Wechsel insofern „robust“, als es bestehende Inhalte den Inhaltselementen des neuen Layouts zuordnet. Dabei kann es zu unerwünschten, chaotischen Veränderungen bei den Eingabemasken kommen, vor allem, wenn Inhaltselemente aus den zweispaltigen Bereichen unterhalb der Objekte im neuen Template keine Entsprechung haben.
+Änderungen an den Metadaten der Seite (vgl. Abb. 4.2, 1-3 und a) sind unproblematisch. Auch ein Wechsel des ausgewählten Layouts (vgl. Abb. 4.2, 4) ist an sich leicht möglich – am besten allerdings, so lange die Seite noch nicht mit Inhalten befüllt ist. Denn ein solcher Layout-Wechsel wirkt sich auf die Organisation der Inhalte auf der Ausstellungsseite aus: Die Software verhält sich dabei insofern „robust“, als sie bestehende Inhalte den Inhaltselementen des neuen Layouts zuordnet. Dabei kann es zu unerwünschten, chaotischen Veränderungen bei den Eingabemasken kommen, vor allem, wenn Inhaltselemente aus den zweispaltigen Bereichen unterhalb der Objekte im neuen Layout keine Entsprechung haben.
 
 ##### Praxistipp: Layouts und Layout-Wechsel
 
@@ -184,23 +183,23 @@ Hat ein Layout-Wechsel das Schema der Eingabefelder auf unerwünschte Weise ver�
 
 #### B.4.4.5 Zweispaltiger Texte
 
-ei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text links, Objekte rechts oder umgekehrt (bei Layout 5 alternierend). Das Layout 3 (Galerie) präsentiert die Textblöcke und die Bildergalerie jeweils über die gesamte Breite des Content-Bereichs. Da Textzeilen von mehr als 100 Zeichen Länge mühsam zu lesen währen, ist der Text hier zweispaltig gesetzt. Die Aufteilung auf die beiden Spalten erfolgt im Browser des Nutzers automatisch, wobei sich der Spaltenumbruch an die – durch die Breite des Browserfensters bedingte – Breite des Content-Bereichs anpasst. 
+Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text links, Objekte rechts oder umgekehrt (bei Layout 5 alternierend). Das Layout 3 (Galerie) präsentiert die Textblöcke und die Bildergalerie jeweils über die gesamte Breite des Content-Bereichs. Da Textzeilen von mehr als 100 Zeichen Länge mühsam zu lesen wären, ist der Text hier zweispaltig gesetzt. Die Aufteilung auf die beiden Spalten erfolgt im Browser des Nutzers automatisch, wobei sich der Spaltenumbruch an die – durch die Breite des Browserfensters bedingte – Breite des Inhalts-Bereichs anpasst. 
 
 {Praxistipp: Der Spaltenumbruch muss automatisch erfolgen! ...}
 
-!![Abb. B.4.19 Abb. 4.19 Zweispaltige Textblöcke im Layout Thumbnailgalerie][B-4-19]
+!![Abb. B.4.19 Abb. 4.19 Zweispaltige Textblöcke im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten][B-4-19]
 
-Für die Eingabe des zweispaltigen Textblocks unter der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. 4.20, a). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert (siehe Anhang XXX). Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollte dem Text der Überschrift ein Überschriften-Format zugewiesen werden.
+Für die Eingabe des zweispaltigen Textblocks unter der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. 4.20, a). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert (siehe Anhang XXX). Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollten Sie dem Text der Überschrift ein Überschriften-Format zuweisen.
 
 ##### PRAXISTIPP: Halten Sie zweispaltige Textblöcke kurz!
 
-Das mehrspaltige Textlayout ist uns im Printbereich aus Zeitschriften, Katalogen oder Broschüren vertraut. Auf Webseiten ist es (noch) eher die Ausnahme. Das hat einen guten Grund: Im Web fehlt eine feste Beziehung zwischen Sichtfeld (Viewport) und Paginierung. Bei der Darstellung im Browser des Nutzers können die unteren Teile der Spalten leicht unter den unteren Rand des Browserfensters geraten. Der Nutzer liest dann den oberen Teil der linken Spalte, scrollt nach unten, liest weiter, bis er am Spaltenende angekommen ist, scrollt wieder nach oben, beginnt mit der rechten Spalte usw. Achten Sie deshalb darauf, dass zweispaltige Textblöcke nach Möglichkeit auch bei schmalen Browserfenstern noch ganz auf einen Bildschirm passen. Bei längeren Texten sollten Sie die Möglichkeit nutzen, sie auf einen Textblock ober- und einen unterhalb der Thumbnailgalerie aufzuteilen.
+Das mehrspaltige Textlayout ist uns im Printbereich aus Zeitschriften, Katalogen oder Broschüren vertraut. Auf Webseiten ist es (noch) eher die Ausnahme. Das hat einen guten Grund: Im Web fehlt eine feste Beziehung zwischen Sichtfeld (Viewport) und Paginierung. Bei der Darstellung im Browser der NutzerInnen können die unteren Teile der Spalten leicht unter den unteren Rand des Browserfensters geraten. Die NutzerInnen lesen dann den oberen Teil der linken Spalte, scrollen nach unten, lesen weiter, bis sie am Spaltenende angekommen sind, scrollen wieder nach oben, beginnen mit der rechten Spalte usw. Achten Sie deshalb darauf, dass zweispaltige Textblöcke nach Möglichkeit auch bei schmalen Browserfenstern noch ganz auf einen Bildschirm passen. Bei längeren Texten sollten Sie die Möglichkeit nutzen, sie auf einen Textblock ober- und einen unterhalb der Vorschaubilder-Galerie aufzuteilen.
 
-Bei sehr kleinen Fensterbreiten (z.B. von mobilen Browsern) sorgt das responsive Design des Templates dafür, dass die Zweispaltigkeit aufgehoben wird.
+Bei sehr kleinen Fensterbreiten (z. B. von mobilen Browsern) sorgt das responsive Design des Layouts dafür, dass die Zweispaltigkeit aufgehoben wird.
 
 !![Abb. B.4.20 Abb. 4.20 Eingabemaske für zweispaltige Texte, hier unterhalb der Bildergalerie][B-4-20]
 
-Eine andere Form von zweispaltiger Textanordnung bieten die Layouts 1, 2, 6 und 7. Hier lässt sich in der rechten Spalte unterhalb der Objekte ein Textblock einfügen (Abb. 4.21, b). Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig gesetzte Textblöcke mit automatischem Spaltenumbruch im unteren Teil der Ausstellungsseite einzufügen, analog zum Galerie-Layout 3 mit über die ganze Breite des Content-Bereichs laufenden Überschriften (Abb. 4.21, c und d). 
+Eine andere Form von zweispaltiger Textanordnung bieten die Layouts 1, 2, 6 und 7. Hier lässt sich in der rechten Spalte unterhalb der Objekte ein Textblock einfügen (Abb. 4.21, b). Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig gesetzte Textblöcke mit automatischem Spaltenumbruch im unteren Teil der Ausstellungsseite einzufügen, analog zum Galerie-Layout 3 mit über die ganze Breite des Inhalts-Bereichs laufenden Überschriften (Abb. 4.21, c und d). 
 
 !![Abb. B.4.21 Abb. 4.21 Textblock für die rechte Spalte und zweispaltiger Text in Layout 1][B-4-21]
 
@@ -208,7 +207,7 @@ Abb. 4.22 zeigt ein Beispiel für die Frontendausgabe dieses komplexen Layouts, 
 
 !![Abb. B.4.22 Abb. 4.22 Textblock rechts und Zweispaltigkeit in Layout 1 – Darstellung im Frontend][B-4-22]
 
-### B.4.6 Der Apparat - Literatur, Team, Inhalt
+### B.4.6 Der Apparat – Literatur, Team, Inhalt
 
 Als letzten Teil einer Ausstellung ist ein Apparat mit ergänzenden Informationen, der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt. Verwenden Sie für diese Seiten vorzugsweise das Layout 1 (ohne Objekte einzubinden) oder Layout 3 für zweispaltige Texte; als Anhaltspunkt für die inhaltliche und formale Gestaltung können Sie die Apparat-Seiten der Ausstellung „Zu Mythen und Monumenten“ als Vorlage verwenden.
 
