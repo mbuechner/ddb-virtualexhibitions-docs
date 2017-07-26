@@ -14,12 +14,12 @@ pages:
       - 1. Das Omeka Backend: backend.md
       - 2. Objekte in Omeka: erstellen.md
       - 3. Die Ausstellung anlegen: ausstellung_anlegen.md 
-      - 4. Ausstellungsseigen anlegen: seiten_anlegen.md
+      - 4. Ausstellungsseiten anlegen: seiten_anlegen.md
 
 
 # Theme
-theme: material
-theme_dir: themes/mkdocs-material/material
+theme: readthedocs
+theme_dir: themes/readthedocs
 
 # Options
 extra:
