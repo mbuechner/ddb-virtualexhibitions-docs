@@ -18,8 +18,8 @@ pages:
 
 
 # Theme
-theme: material
-theme_dir: themes/mkdocs-material/material
+theme: readthedocs
+theme_dir: themes/readthedocs
 
 # Options
 extra:
