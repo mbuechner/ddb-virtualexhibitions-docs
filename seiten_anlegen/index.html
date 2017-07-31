@@ -55,12 +55,22 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="../ueberblick/index.html">A. Im Überblick</a>
+    <a class="" href="../einleitung/index.html">Einleitung</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <span class="caption-text">B. Virtuelle Ausstellungen Erstellen</span>
+    <a class="" href="../empfehlungen/index.html">Redaktionelle Empfehlungen</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../ueberblick/index.html">A Im Überblick</a>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <span class="caption-text">B Virtuelle Ausstellungen Erstellen</span>
     <ul class="subnav">
                 <li class="">
                     
@@ -91,14 +101,17 @@
         
             <li><a class="toctree-l4" href="#b44-seiten-arrangieren-und-bearbeiten">B.4.4 Seiten arrangieren und bearbeiten</a></li>
         
-            <li><a class="toctree-l4" href="#b46-der-apparat-literatur-team-inhalt">B.4.6 Der Apparat – Literatur, Team, Inhalt</a></li>
-        
         </ul>
     
 
     </ul>
                 </li>
     </ul>
+	    </li>
+          
+            <li class="toctree-l1">
+		
+    <a class="" href="../anhang/index.html">C Anhang</a>
 	    </li>
           
         </ul>
@@ -123,7 +136,7 @@
     
       
         
-          <li>B. Virtuelle Ausstellungen Erstellen &raquo;</li>
+          <li>B Virtuelle Ausstellungen Erstellen &raquo;</li>
         
       
     
@@ -139,7 +152,7 @@
               
                 <h2 id="b4-ausstellungsseiten-anlegen">B.4 Ausstellungsseiten anlegen<a class="headerlink" href="#b4-ausstellungsseiten-anlegen" title="Permanent link">&para;</a></h2>
 <h3 id="b41-seite-anlegen">B.4.1 Seite anlegen<a class="headerlink" href="#b41-seite-anlegen" title="Permanent link">&para;</a></h3>
-<p>Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen, klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).</p>
+<p>Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen (zu der bereits vorhandenen Seite „Inhalt der Ausstellung“ siehe unten Abschnitt B.4.4.5), klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).</p>
 <figure><img alt="Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“" src="../img/B-4-1.jpg" title="Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“" /><figcaption>Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“</figcaption>
 </figure>
 <p>Auf der Seite „Seite hinzufügen“ gelangen Sie zunächst zu einer Eingabemaske für die Metadaten der Ausstellungsseite (Abb. B.4.2). Der Titel (<span class="red-circle">1</span>) erscheint in der Frontend-Ausgabe links oben über den Inhalten der Seite, direkt unter der grafischen Seitennavigation. Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolge an, die am Ende der URL erscheinen soll, wenn ein Nutzer die Ausstellungsseite in seinem Browser aufruft. Bitte beachten Sie unbedingt die Regeln und Konventionen, die wir im Abschnitt zu den Metadaten der Ausstellung erläutert haben (Abschnitt 3). Es empfiehlt sich, hier aussagekräftige Begriffe zu verwenden, um die Auffindbarkeit der Inhalte für Suchmaschinen zu optimieren. Sie können dieses Feld auch leer lassen, dann erstellt Omeka, sobald sie „Änderungen übernehmen“ klicken (<span class="red-circle">3</span>) einen Slug aus dem Titel der Seite, den Sie bei Bedarf später anpassen können.</p>
@@ -248,30 +261,33 @@ Omeka verhält sich bei einem Layout-Wechsel insofern „robust“, als es beste
 <p>Am einfachsten ist es, wenn Sie ohne Layout-Wechsel auskommen. Machen Sie sich bereits in der Planungsphase mit den verfügbaren Layouts vertraut und wählen Sie ein geeignetes Layout für die betreffende Seite.</p>
 <p>Der Wechsel zwischen verwandten Layouts (z.B. Layout 1 und 2, Layout 4 und 6) bereitet in der Regel keine Probleme.</p>
 <p>Hat ein Layout-Wechsel das Schema der Eingabefelder auf unerwünschte Weise verändert, empfehlen wir, die Seite mit dem gewünschten Layout neu anzulegen, mit den Inhalten zu befüllen und die alte Seite zu löschen.</p>
-<h4 id="b445-zweispaltiger-texte">B.4.4.5 Zweispaltiger Texte<a class="headerlink" href="#b445-zweispaltiger-texte" title="Permanent link">&para;</a></h4>
+<h4 id="b444-zweispaltiger-texte">B.4.4.4 Zweispaltiger Texte<a class="headerlink" href="#b444-zweispaltiger-texte" title="Permanent link">&para;</a></h4>
 <p>Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text links, Objekte rechts oder umgekehrt (bei Layout 5 alternierend). Das Layout 3 (Galerie) präsentiert die Textblöcke und die Bildergalerie jeweils über die gesamte Breite des Content-Bereichs. Da Textzeilen von mehr als 100 Zeichen Länge mühsam zu lesen währen, ist der Text hier zweispaltig gesetzt. Die Aufteilung auf die beiden Spalten erfolgt im Browser des Nutzers automatisch, wobei sich der Spaltenumbruch an die – durch die Breite des Browserfensters bedingte – Breite des Content-Bereichs anpasst. </p>
 <div class="admonition note">
 <p class="admonition-title">Der Spaltenumbruch muss automatisch erfolgen</p>
 <p>Es ist sinnlos, den Spaltenumbruch durch Zeilenumbrüche, Absätze, Leerzeilen oder mit ähnlichen „Manipulationen“ erzwingen zu wollen, er würde nur für genau die Fensterbreite passen, in der Sie das Frontend gerade betrachten. Wenn Sie dieses Fenster groß und klein ziehen, wird Ihnen dieser Zusammenhang sofort anschaulich.</p>
 </div>
-<p>NUR BIS HIER KORREKTURLESEN! (MM)</p>
-<figure><img alt="Abb. B.4.19 Abb. 4.19 Zweispaltige Textblöcke im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten" src="../img/Abb_B-4-19_Zweispaltige_Blöcke.png" title="Abb. 4.19 Zweispaltige Textblöcke im Layout Thumbnailgalerie" /><figcaption>Abb. B.4.19 Abb. 4.19 Zweispaltige Textblöcke im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten</figcaption>
+<figure><img alt="Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift" src="../img/B-4-19.jpg" title="Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift" /><figcaption>Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift</figcaption>
 </figure>
-<p>Für die Eingabe des zweispaltigen Textblocks unter der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. 4.20, a). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert (siehe Anhang XXX). Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollten Sie dem Text der Überschrift ein Überschriften-Format zuweisen.</p>
+<p>Für die Eingabe des zweispaltigen Textblocks <strong>unter</strong> der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. B.4.19, <span class="red-circle">1</span>). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert. Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollten Sie dem Text der Überschrift ein Überschriften-Format zuweisen. Im Folgenden Feld (Abb. B.4.19, <span class="red-circle">2</span>) können Sie den Text eingeben, der - wie der Text oberhalb der Vorschaubilder-Galerie - im Frontend automatisch zweispaltig ausgegeben wird.</p>
 <h5 id="praxistipp-halten-sie-zweispaltige-textblocke-kurz">PRAXISTIPP: Halten Sie zweispaltige Textblöcke kurz!<a class="headerlink" href="#praxistipp-halten-sie-zweispaltige-textblocke-kurz" title="Permanent link">&para;</a></h5>
 <p>Das mehrspaltige Textlayout ist uns im Printbereich aus Zeitschriften, Katalogen oder Broschüren vertraut. Auf Webseiten ist es (noch) eher die Ausnahme. Das hat einen guten Grund: Im Web fehlt eine feste Beziehung zwischen Sichtfeld (Viewport) und Paginierung. Bei der Darstellung im Browser der NutzerInnen können die unteren Teile der Spalten leicht unter den unteren Rand des Browserfensters geraten. Die NutzerInnen lesen dann den oberen Teil der linken Spalte, scrollen nach unten, lesen weiter, bis sie am Spaltenende angekommen sind, scrollen wieder nach oben, beginnen mit der rechten Spalte usw. Achten Sie deshalb darauf, dass zweispaltige Textblöcke nach Möglichkeit auch bei schmalen Browserfenstern noch ganz auf einen Bildschirm passen. Bei längeren Texten sollten Sie die Möglichkeit nutzen, sie auf einen Textblock ober- und einen unterhalb der Vorschaubilder-Galerie aufzuteilen.</p>
 <p>Bei sehr kleinen Fensterbreiten (z. B. von mobilen Browsern) sorgt das responsive Design des Layouts dafür, dass die Zweispaltigkeit aufgehoben wird.</p>
-<figure><img alt="Abb. B.4.20 Abb. 4.20 Eingabemaske für zweispaltige Texte, hier unterhalb der Bildergalerie" src="../img/Abb_B-4-20_Eingabe_zweispaltige_Blöcke.png" title="Abb. 4.20 Eingabemaske für zweispaltige Texte, hier unterhalb der Bildergalerie" /><figcaption>Abb. B.4.20 Abb. 4.20 Eingabemaske für zweispaltige Texte, hier unterhalb der Bildergalerie</figcaption>
+<p>Eine andere Form von zweispaltiger Textanordnung bieten die Layouts 1, 2, 6 und 7. Hier lässt sich in der rechten Spalte unterhalb der Objekte ein Textblock einfügen (Abb. B.4.20, <span class="red-circle">1</span>). </p>
+<figure><img alt="Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte" src="../img/B-4-20.jpg" title="Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte" /><figcaption>Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte</figcaption>
 </figure>
-<p>Eine andere Form von zweispaltiger Textanordnung bieten die Layouts 1, 2, 6 und 7. Hier lässt sich in der rechten Spalte unterhalb der Objekte ein Textblock einfügen (Abb. 4.21, b). Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig gesetzte Textblöcke mit automatischem Spaltenumbruch im unteren Teil der Ausstellungsseite einzufügen, analog zum Galerie-Layout 3 mit über die ganze Breite des Inhalts-Bereichs laufenden Überschriften (Abb. 4.21, c und d). </p>
-<figure><img alt="Abb. B.4.21 Abb. 4.21 Textblock für die rechte Spalte und zweispaltiger Text in Layout 1" src="../img/Abb_B-4-21_Textblock_rechts.png" title="Abb. 4.21 Textblock für die rechte Spalte und zweispaltiger Text in Layout 1" /><figcaption>Abb. B.4.21 Abb. 4.21 Textblock für die rechte Spalte und zweispaltiger Text in Layout 1</figcaption>
+<p>Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig gesetzte Textblöcke mit automatischem Spaltenumbruch im unteren Teil der Ausstellungsseite einzufügen, analog zum Galerie-Layout 3 mit über die ganze Breite des Inhalts-Bereichs laufenden Überschriften. Auch hier finden Sie die entsprechenden Eingabefelder unterhalb der Schaltflächen zur Einbindung von Objekten (vgl. Abb. B.4.19). </p>
+<h5 id="praxistipp-keep-it-short-and-simple">Praxistipp: Keep it short and simple!<a class="headerlink" href="#praxistipp-keep-it-short-and-simple" title="Permanent link">&para;</a></h5>
+<p>Die zuletzt beschriebene Layoutvariante mit einer Textspalte links neben und einer Spalte rechts unter den Objekten plus zweispaltigen Textblöcken im unteren Bereich der Ausstellungsseite ist die komplexeste Zusammenstellung von Texten und Bildern, die das Online-Tool ermöglicht - komplex für Sie bei der Erstellung, aber eben auch für die Nutzerin oder den Nutzer. Fragen Sie sich deshalb bitte immer, bevor Sie diese Möglichkeit nutzen, ob Sie die Inhalte nicht besser auf mehrere Ausstellungsseiten aufteilen. Kurze, einfach strukturierte Seiten lassen sich besser erfassen und machen den Besuch Ihrer virtuellen Ausstellung weniger anstrengend. Wenn Sie durch die Aufteilung dieselben Objekte auf mehreren Seiten einbinden müssen, ist das kein Problem.</p>
+<h4 id="b445-der-apparat-literatur-team-inhalt">B.4.4.5 Der Apparat – Literatur, Team, Inhalt<a class="headerlink" href="#b445-der-apparat-literatur-team-inhalt" title="Permanent link">&para;</a></h4>
+<p>Als letzten Teil einer Ausstellung ist ein Apparat mit ergänzenden Informationen, der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt.</p>
+<p>Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungsseiten mit einer kurzen Einleitung (Abb. B.4.21, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.22, <span class="red-circle">1</span>) versehen.</p>
+<figure><img alt="Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis" src="../img/B-4-21.jpg" title="Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis" /><figcaption>Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis</figcaption>
 </figure>
-<p>Abb. 4.22 zeigt ein Beispiel für die Frontendausgabe dieses komplexen Layouts, bei dem alle Inhaltsbereiche befüllt wurden. </p>
-<figure><img alt="Abb. B.4.22 Abb. 4.22 Textblock rechts und Zweispaltigkeit in Layout 1 – Darstellung im Frontend" src="../img/Abb_B-4-22_Textblock_rechts_Frontend.png" title="Abb. 4.22 Textblock rechts und Zweispaltigkeit in Layout 1 – Darstellung im Frontend" /><figcaption>Abb. B.4.22 Abb. 4.22 Textblock rechts und Zweispaltigkeit in Layout 1 – Darstellung im Frontend</figcaption>
+<figure><img alt="Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis" src="../img/B-4-22.jpg" title="Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis" /><figcaption>Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis</figcaption>
 </figure>
-<h3 id="b46-der-apparat-literatur-team-inhalt">B.4.6 Der Apparat – Literatur, Team, Inhalt<a class="headerlink" href="#b46-der-apparat-literatur-team-inhalt" title="Permanent link">&para;</a></h3>
-<p>Als letzten Teil einer Ausstellung ist ein Apparat mit ergänzenden Informationen, der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt. Verwenden Sie für diese Seiten vorzugsweise das Layout 1 (ohne Objekte einzubinden) oder Layout 3 für zweispaltige Texte; als Anhaltspunkt für die inhaltliche und formale Gestaltung können Sie die Apparat-Seiten der Ausstellung „Zu Mythen und Monumenten“ als Vorlage verwenden.</p>
-<p>Sie können den Apparat gerne um weitere Seiten ergänzen. So gibt es beispielsweise in der virtuellen Ausstellung zur Geschichte Karlsruhes („Vom Privilegienbrief zum Bundesverfassungsgericht“) ein Glossar zu in den Ausstellungstexten erwähnten historischen Fachbegriffen.</p>
+<p>Für die anderen Seiten des Apparats verwenden Sie das Layout 1 (ohne Objekte einzubinden) oder Layout 3 für zweispaltige Texte.</p>
+<p>Sie können den Apparat gerne um weitere Seiten ergänzen. So gibt es beispielsweise in der virtuellen Ausstellung zur Geschichte Karlsruhes (<a href="http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/">„Vom Privilegienbrief zum Bundesverfassungsgericht“</a> ein <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/glossar">Glossar</a> zu in den Ausstellungstexten erwähnten historischen Fachbegriffen.</p>
 <p>Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt 4.1) ist hier kein Ausschnitt einer Objektabbildung (es handelt sich ja um reine Textseiten), sondern ein speziell formatierter Schriftzug mit dem Seitentitel. Diese Vorschaubilder werden vom Team der Deutschen Digitalen Bibliothek erzeugt und eingestellt, Sie können das betreffende Metadatenfeld einfach leer lassen.</p>
               
             </div>
@@ -279,6 +295,8 @@ Omeka verhält sich bei einem Layout-Wechsel insofern „robust“, als es beste
           <footer>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../anhang/index.html" class="btn btn-neutral float-right" title="C Anhang">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
         <a href="../ausstellung_anlegen/index.html" class="btn btn-neutral" title="3. Die Ausstellung anlegen"><span class="icon icon-circle-arrow-left"></span> Previous</a>
@@ -311,6 +329,8 @@ Omeka verhält sich bei einem Layout-Wechsel insofern „robust“, als es beste
       
         <span><a href="../ausstellung_anlegen/index.html" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
+      
+        <span style="margin-left: 15px"><a href="../anhang/index.html" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>

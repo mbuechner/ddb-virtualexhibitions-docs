@@ -7,9 +7,10 @@ figure {
 }
 
 figcaption {
-    text-align: right;
+    text-align: left;
     font-size: .85em;
     font-style: italic;
+	padding: .85em 0 1.25em;
 }
 
 .red-circle {
