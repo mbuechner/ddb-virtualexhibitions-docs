@@ -254,6 +254,15 @@ Wenn Sie etwas umfangreichere und komplexer strukturierte Texte bearbeiten, kann
 
 Zum Schließen der Vollbild-Ansicht klicken Sie einfach noch einmal auf das entsprechende Icon.
 
+## C.3 Die Lizenzvereinbarung
+
+Die Virtuellen Ausstellungen sollen dem Besucher vor allem die bereits in der Deutschen Digitalen Bibliothek vorhandenen Objekte präsentieren. Eine Einbindung von externen, (noch) nicht in die Deutschen Digitalen Bibliothek eingespielten Objekten ist möglich, wenn es das Thema der Ausstellung erfordert.
+
+Für alle Objekte in der Virtuellen Ausstellung muss der Kurator die rechtliche Situation klären und für Objekte, die noch nicht gemeinfrei sind, eine Lizenzvereinbarung zwischen dem Rechteinhaber und der Deutschen Digitalen Bibliothek vermitteln. Dazu stellt ihm die Deutsche Digitale Bibliothek eine vorformulierte Lizenzvereinbarung mit zwei Anhängen als PDF-Dokumente zum Download unter ||hier URL zu anzulegender Seite in DDBpro einfügen|| zur Verfügung, die der Rechteinhaber ausgefüllt und unterzeichnet in doppelter Ausführung an die Deutsche Digitale Bibliothek zu senden hat. Nach Unterzeichnung der Lizenzvereinbarung durch die Deutsche Digitale Bibliothek erhält der Rechteinhaber ein Exemplar.
+Die Lizenzvereinbarung gibt es in einer deutschen und englischen Fassung.
+Die näheren Details klären Sie bitte mit Ihrem Ansprechpartner bei der Deutschen Digitalen Bibliothek.
+
+
 [C-1]: img/C-1.jpg "Abb. C.1 Texteditor: Text fett setzen"
 [C-2]: img/C-2.jpg "Abb. C.2 Texteditor: Text kursiv setzen"
 [C-3]: img/C-3.jpg "Abb. C.3 Texteditor: Ungeordente Liste"
