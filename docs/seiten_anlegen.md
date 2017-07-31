@@ -2,7 +2,7 @@
 
 ### B.4.1 Seite anlegen
 
-Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen, klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
+Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen (zu der bereits vorhandenen Seite „Inhalt der Ausstellung“ siehe unten Abschnitt B.4.4.5), klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
 
 !![Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“][B-4-1]
 
@@ -177,7 +177,7 @@ Der Wechsel zwischen verwandten Layouts (z.B. Layout 1 und 2, Layout 4 und 6) be
 
 Hat ein Layout-Wechsel das Schema der Eingabefelder auf unerwünschte Weise verändert, empfehlen wir, die Seite mit dem gewünschten Layout neu anzulegen, mit den Inhalten zu befüllen und die alte Seite zu löschen.
 
-#### B.4.4.5 Zweispaltiger Texte
+#### B.4.4.4 Zweispaltiger Texte
 
 Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text links, Objekte rechts oder umgekehrt (bei Layout 5 alternierend). Das Layout 3 (Galerie) präsentiert die Textblöcke und die Bildergalerie jeweils über die gesamte Breite des Content-Bereichs. Da Textzeilen von mehr als 100 Zeichen Länge mühsam zu lesen währen, ist der Text hier zweispaltig gesetzt. Die Aufteilung auf die beiden Spalten erfolgt im Browser des Nutzers automatisch, wobei sich der Spaltenumbruch an die – durch die Breite des Browserfensters bedingte – Breite des Content-Bereichs anpasst. 
 
@@ -185,11 +185,9 @@ Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text
 
     Es ist sinnlos, den Spaltenumbruch durch Zeilenumbrüche, Absätze, Leerzeilen oder mit ähnlichen „Manipulationen“ erzwingen zu wollen, er würde nur für genau die Fensterbreite passen, in der Sie das Frontend gerade betrachten. Wenn Sie dieses Fenster groß und klein ziehen, wird Ihnen dieser Zusammenhang sofort anschaulich.
 
-NUR BIS HIER KORREKTURLESEN! (MM)
+!![Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift][B-4-19]
 
-!![Abb. B.4.19 Abb. 4.19 Zweispaltige Textblöcke im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten][B-4-19]
-
-Für die Eingabe des zweispaltigen Textblocks unter der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. 4.20, a). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert (siehe Anhang XXX). Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollten Sie dem Text der Überschrift ein Überschriften-Format zuweisen.
+Für die Eingabe des zweispaltigen Textblocks **unter** der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. B.4.19, <span class="red-circle">1</span>). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert. Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollten Sie dem Text der Überschrift ein Überschriften-Format zuweisen. Im Folgenden Feld (Abb. B.4.19, <span class="red-circle">2</span>) können Sie den Text eingeben, der - wie der Text oberhalb der Vorschaubilder-Galerie - im Frontend automatisch zweispaltig ausgegeben wird.
 
 ##### PRAXISTIPP: Halten Sie zweispaltige Textblöcke kurz!
 
@@ -197,21 +195,29 @@ Das mehrspaltige Textlayout ist uns im Printbereich aus Zeitschriften, Katalogen
 
 Bei sehr kleinen Fensterbreiten (z. B. von mobilen Browsern) sorgt das responsive Design des Layouts dafür, dass die Zweispaltigkeit aufgehoben wird.
 
-!![Abb. B.4.20 Abb. 4.20 Eingabemaske für zweispaltige Texte, hier unterhalb der Bildergalerie][B-4-20]
+Eine andere Form von zweispaltiger Textanordnung bieten die Layouts 1, 2, 6 und 7. Hier lässt sich in der rechten Spalte unterhalb der Objekte ein Textblock einfügen (Abb. B.4.20, <span class="red-circle">1</span>). 
 
-Eine andere Form von zweispaltiger Textanordnung bieten die Layouts 1, 2, 6 und 7. Hier lässt sich in der rechten Spalte unterhalb der Objekte ein Textblock einfügen (Abb. 4.21, b). Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig gesetzte Textblöcke mit automatischem Spaltenumbruch im unteren Teil der Ausstellungsseite einzufügen, analog zum Galerie-Layout 3 mit über die ganze Breite des Inhalts-Bereichs laufenden Überschriften (Abb. 4.21, c und d). 
+!![Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte][B-4-20]
 
-!![Abb. B.4.21 Abb. 4.21 Textblock für die rechte Spalte und zweispaltiger Text in Layout 1][B-4-21]
+Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig gesetzte Textblöcke mit automatischem Spaltenumbruch im unteren Teil der Ausstellungsseite einzufügen, analog zum Galerie-Layout 3 mit über die ganze Breite des Inhalts-Bereichs laufenden Überschriften. Auch hier finden Sie die entsprechenden Eingabefelder unterhalb der Schaltflächen zur Einbindung von Objekten (vgl. Abb. B.4.19). 
 
-Abb. 4.22 zeigt ein Beispiel für die Frontendausgabe dieses komplexen Layouts, bei dem alle Inhaltsbereiche befüllt wurden. 
+##### Praxistipp: Keep it short and simple!
 
-!![Abb. B.4.22 Abb. 4.22 Textblock rechts und Zweispaltigkeit in Layout 1 – Darstellung im Frontend][B-4-22]
+Die zuletzt beschriebene Layoutvariante mit einer Textspalte links neben und einer Spalte rechts unter den Objekten plus zweispaltigen Textblöcken im unteren Bereich der Ausstellungsseite ist die komplexeste Zusammenstellung von Texten und Bildern, die das Online-Tool ermöglicht - komplex für Sie bei der Erstellung, aber eben auch für die Nutzerin oder den Nutzer. Fragen Sie sich deshalb bitte immer, bevor Sie diese Möglichkeit nutzen, ob Sie die Inhalte nicht besser auf mehrere Ausstellungsseiten aufteilen. Kurze, einfach strukturierte Seiten lassen sich besser erfassen und machen den Besuch Ihrer virtuellen Ausstellung weniger anstrengend. Wenn Sie durch die Aufteilung dieselben Objekte auf mehreren Seiten einbinden müssen, ist das kein Problem.
 
-### B.4.6 Der Apparat – Literatur, Team, Inhalt
+#### B.4.4.5 Der Apparat – Literatur, Team, Inhalt
 
-Als letzten Teil einer Ausstellung ist ein Apparat mit ergänzenden Informationen, der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt. Verwenden Sie für diese Seiten vorzugsweise das Layout 1 (ohne Objekte einzubinden) oder Layout 3 für zweispaltige Texte; als Anhaltspunkt für die inhaltliche und formale Gestaltung können Sie die Apparat-Seiten der Ausstellung „Zu Mythen und Monumenten“ als Vorlage verwenden.
+Als letzten Teil einer Ausstellung ist ein Apparat mit ergänzenden Informationen, der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt.
 
-Sie können den Apparat gerne um weitere Seiten ergänzen. So gibt es beispielsweise in der virtuellen Ausstellung zur Geschichte Karlsruhes („Vom Privilegienbrief zum Bundesverfassungsgericht“) ein Glossar zu in den Ausstellungstexten erwähnten historischen Fachbegriffen.
+Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungsseiten mit einer kurzen Einleitung (Abb. B.4.21, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.22, <span class="red-circle">1</span>) versehen.
+
+!![Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis][B-4-21]
+
+!![Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis][B-4-22]
+
+Für die anderen Seiten des Apparats verwenden Sie das Layout 1 (ohne Objekte einzubinden) oder Layout 3 für zweispaltige Texte.
+
+Sie können den Apparat gerne um weitere Seiten ergänzen. So gibt es beispielsweise in der virtuellen Ausstellung zur Geschichte Karlsruhes ([„Vom Privilegienbrief zum Bundesverfassungsgericht“](http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/) ein [Glossar](http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/glossar) zu in den Ausstellungstexten erwähnten historischen Fachbegriffen.
 
 Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt 4.1) ist hier kein Ausschnitt einer Objektabbildung (es handelt sich ja um reine Textseiten), sondern ein speziell formatierter Schriftzug mit dem Seitentitel. Diese Vorschaubilder werden vom Team der Deutschen Digitalen Bibliothek erzeugt und eingestellt, Sie können das betreffende Metadatenfeld einfach leer lassen.
 
@@ -234,12 +240,10 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt 4.1) ist hi
 [B-4-16]: img/B-4-16.jpg "Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild"
 [B-4-17]: img/B-4-17.jpg "Abb. 4.17 Abb. B.4.16 Sortieren der Ausstellungsseiten durch Drag and Drop"
 [B-4-18]: img/B-4-18.jpg "Abb. B.4.18 Seiten aus der Seitenliste löschen"
-
-[B-4-18a]: img/Abb_B-4-18a_Seite_bearbeiten.png "Abb. 4.18 Aufruf der Seite Seite … bearbeiten"
-[B-4-19]: img/Abb_B-4-19_Zweispaltige_Blöcke.png "Abb. 4.19 Zweispaltige Textblöcke im Layout Thumbnailgalerie"
-[B-4-20]: img/Abb_B-4-20_Eingabe_zweispaltige_Blöcke.png "Abb. 4.20 Eingabemaske für zweispaltige Texte, hier unterhalb der Bildergalerie"
-[B-4-21]: img/Abb_B-4-21_Textblock_rechts.png "Abb. 4.21 Textblock für die rechte Spalte und zweispaltiger Text in Layout 1"
-[B-4-22]: img/Abb_B-4-22_Textblock_rechts_Frontend.png "Abb. 4.22 Textblock rechts und Zweispaltigkeit in Layout 1 – Darstellung im Frontend"
+[B-4-19]: img/B-4-19.jpg "Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift"
+[B-4-20]: img/B-4-20.jpg "Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte"
+[B-4-21]: img/B-4-21.jpg "Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis"
+[B-4-22]: img/B-4-22.jpg "Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis"
 
 
 

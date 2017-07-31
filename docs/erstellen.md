@@ -40,8 +40,6 @@ Um die Bearbeitung fortsetzen zu können, rufen Sie über die Schaltfläche „B
 Sie können nun eine Datei mit dem Objekt verknüpfen. Wenn es sich um eine Bilddatei handelt, wird sie im Frontend als Vorschaubild und in der Lightbox im Großformat angezeigt. Verknüpfen Sie eine Audiodatei mit dem Objekt, erscheint auf der Ausstellungsseite ein entsprechendes Symbol, über das ein Audioplayer geöffnet wird, mit dem die Nutzer den Audioclip anhören können.
 Angaben zu verwendbaren Bild- und Audio-Dateiformaten finden Sie im Anhang (XXX).
 
-{{Nachfrage VG: Aufgepasst: Bildateien vor dem Hochladen skalieren}}
-
 !![Abb. B.2.6 Tab „Dateien“ der Seite „Objekt … bearbeiten“][B-2-6]
 
 Zum Verknüpfen mit einer Datei wechseln Sie auf der Seite „Objekt … bearbeiten“ (Abb. B.2.6) in den Reiter „Dateien“ (<span class="red-circle">1</span>) und wählen über die Schaltfläche „Datei auswählen“ (<span class="red-circle">2</span>) eine Datei auf Ihrem lokalen Datenträger aus.
