@@ -153,26 +153,120 @@ Wenn Sie möchten, dass das verlinkte Objekt direkt in der Lightbox-Ansicht aufg
 href="/tanz/exhibits/show/das-gedaechtnis-des-tanzes/moderne-taenze?lbitem=4"
 ````
 
-!![Abb. B.1 Legende][B-1]
+## C.2 Der Texteditor
 
+Die Eingabe der Texte für die Ausstellungsseiten erfolgt in einem Text-Editor (TinyMCE), der Ihnen in etwa die Formatierungsmöglichkeiten eines einfachen Textverarbeitungsprogramms bietet.
 
-!!!note "Aufgepasst"
+Neben Formatierungen wie Fett- oder Kursivsetzungen erlaubt der Editor auch das Einfügen von Hyperlinks.
 
-    Aufgepasst Text
+Die Icons und Auswahllisten des Editors sind leicht verständlich und Ihnen wahrscheinlich aus anderen Programmen vertraut. Im Folgenden ein kurzer Überblick über die einzelnen Optionen.
+
+!!!note "Formatieren Sie bitte sparsam und konsistent!"
+
+    Die Grundformatierung Ihrer virtuellen Ausstellung übernimmt ein Template. Es sorgt dafür, dass alle Elemente gestalterisch aufeinander abgestimmt sind. Die Formatierungsmöglichkeiten des Editors sind lediglich als Ergänzung zu verstehen, um besondere Anforderungen zu erfüllen, etwa die Kursivsetzung eines im Text erwähnten Werktitels. Mit (Zwischen-)Überschriften können Sie längere Texte leserfreundlich strukturieren. Achten Sie dabei bitte darauf, dass die Überschriftenhierarchie nicht mit dem Template kollidiert und auf allen Seiten systematisch angewendet wird.
 	
+##### Fett (bold)
 
-[C-1]: img/C-1.jpg "Legende x"
-[C-2]: img/C-2.jpg "Legende x"
-[C-3]: img/C-3.jpg "Legende x"
-[C-4]: img/C-4.jpg "Legende x"
-[C-5]: img/C-5.jpg "Legende x"
-[C-6]: img/C-6.jpg "Legende x"
-[C-7]: img/C-7.jpg "Legende x"
-[C-8]: img/C-8.jpg "Legende x"
-[C-9]: img/C-9.jpg "Legende x"
-[C-10]: img/C-10.jpg "Legende x"
-[C-11]: img/C-11.jpg "Legende x"
-[C-12]: img/C-12.jpg "Legende x"
+Mit dem B-Icon können Sie Wörter oder Textpassagen fett setzen (Abb. C.1). Bitte gehen Sie sparsam mit diesem Gestaltungsmittel um. Die Fettsetzung von Überschriften erfolgt über die Zuweisung des Überschriftenformats, bitte nicht doppelt fetten!
+
+!![Abb. C.1 Texteditor: Text fett setzen][C-1]
+
+##### Kursiv (italic)
+
+Kursivsetzungen bieten sich bei Titeln von Werken oder Publikationen an (Abb. C.2).
+
+!![Abb. C.2 Texteditor: Text kursiv setzen][C-2]
+
+##### Liste (ungeordnet)
+
+Mit diesem Icon (Abb. C.3) können Sie Listen in Ihren Text einfügen. Die Liste wird durch Einrückungen und Listenpunkte (Bullet Points) formatiert. Auf das Format dieser Gestaltungselemente haben Sie keinen Einfluss, da es auf Template-Ebene festgelegt ist.
+
+Listen sind Absatzformatierungen, die Listenpunkte müssen also zunächst Absätze sein. Markieren Sie dann alle Absätze (durch „Enter“ getrennte Zeilen) und machen Sie sie durch einen Klick auf das Listen-Icon zur Liste. Um die Listenformatierung zu entfernen, markieren Sie die gesamte Liste und klicken erneut auf das Listen-Icon.
+
+
+!![Abb. C.3 Texteditor: Ungeordente Liste][C-3]
+
+##### Liste (nummeriert)
+
+Nummerierte (geordnete) Listen unterscheiden sich von den ungeordneten nur dadurch, dass an Stelle des Listenpunkts eine Ordnungszahl erscheint (Abb. C.4). Auch auf das Format der Nummerierung haben Sie keinen Einfluss.
+
+
+!![Abb. C.4 Texteditor: Geordnete Liste][C-4]
+
+##### Links einfügen
+
+Über das Kettensymbol können Sie in Ihrem Text Hyperlinks zu beliebigen URLs oder auf andere Seiten der Ausstellung setzen. Den zu verlinkenden Text (Ankertext) schreiben Sie zunächst als gewöhnlichen Text, markieren ihn und klicken auf das Kettensymbol (Abb. C.5). Bereits verlinkte Textteile erscheinen unterstrichen (hier „Lorem ipsum“), was nicht der Formatierung von Links im Frontend entspricht. Auch die Formatierung von Links regelt das Template und ist von Ihnen nicht zu beeinflussen.
+
+!![Abb. C.5 Texteditor: einen Link setzen][C-5]
+
+Beim Klick auf das Kettensymbol öffnet sich eine Eingabemaske, in der Sie die zur Verlinkung notwendigen Einstellungen vornehmen können (Abb. C.6). 
+
+Bei Links auf andere Seiten Ihrer Ausstellung, setzen Sie **relative** Links. Dazu gehen Sie auf die betreffende Seite, kopieren die URL aus der Adresszeile Ihres Browsers und entfernen alles bis zur Top-Level-Domain „.de“. Ein relativer Link sieht dann beispielsweise so aus: „/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto“. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „In neuem Fenster öffnen“.
+
+Bei Links auf Seiten außerhalb Ihrer Ausstellung setzen Sie **absolute** Links, die Sie direkt aus der Adresszeile Ihres Browsers übernehmen können. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „Im selben Fenster öffnen“. 
+
+!![Abb. C.6 Texteditor: Dialogcenter zum Setzen eines Links][C-6]
+
+##### Zitatblock
+
+Das Template der virtuellen Ausstellungen sieht die Möglichkeit vor, hervorgehobene Zitate auf den Seiten zu platzieren. Ein Beispiel finden Sie unter auf den Seiten der Ausstellung [„Zu Mythen und Monumenten“](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/konrad-theodor-preuss). 
+Um einen Absatz zu einem solchen Zitatblock zu erzeugen, platzieren Sie den Cursor im betreffenden Absatz (oder markieren diesen ganz) und klicken auf das blaue Icon mit den Anführungszeichen (Abb. C.7). 
+Die Formatierung sieht bereits Anführungszeichen vor (ein großes, symbolhaftes, öffnendes Anführungszeichen oben links), bitte verwenden Sie keine weiteren Anführungszeichen zur Kennzeichnung des Zitats.
+
+!![Abb. C.7 Texteditor: Text als Zitatblock setzen][C-7]
+
+Um die Quelle des verwendeten Zitats anzugeben, steht ein weiteres Spezialformat zur Verfügung, das über das Icon mit den beiden Anführungszeichen zugewiesen wird (Abb. C.8). Fügen Sie dazu dem Zitatblock einen Absatz mit der Quellenangabe hinzu, markieren diesen und klicken auf das betreffende Symbol. Es öffnet sich ein Dialogfenster, dessen Felder Sie unausgefüllt lassen können. Klicken Sie einfach auf „Aktualisieren“.
+
+!![Abb. C.8 Texteditor: Quellenangabe Zitatblock][C-8]
+
+##### Überschriften
+
+Das Auswahlfeld in der unteren Zeile der Bedienelemente erlaubt die Zuweisung von Absatzformaten. Voreingestellt ist „Absatz“, was normalem Fließtext entspricht. Sie können über die Auswahlliste Überschriften setzen. Dazu schreiben Sie den Text der Überschrift in einen eigenen Absatz, markieren ihn (oder setzen den Cursor in diesen Absatz) und wählen aus der Liste ein passendes Überschriftenformat aus der Überschriften-Hierarchie (Abb. C.9).
+
+!![Abb. C.9 Texteditor: Überschriften][C-9]
+
+Den Überschriften sind unterschiedliche Formatierungen zugewiesen, die bereits im Schriftbild des Editors angedeutet sind. Entscheidend ist die Formatierung im Frontend. Bitte überprüfen Sie das Ergebnis Ihrer Textformatierung immer dort, das Erscheinungsbild im Backend dient nur als Anhaltspunkt. Die Überschrift der Ebene „Überschrift 1“ ist bereits durch den Seitentitel belegt, verwenden Sie deshalb bitte nur die Überschriften der Ebenen 2 bis 6.
+
+Um einen Überschriftenformatierung zu entfernen, weisen Sie wieder das Format Absatz zu.
+
+##### Der HTML-Modus
+
+Die Schaltfläche „HTML“ (Abb. C.10) gibt Ihnen Zugang zu dem Quellcode im HTML-Format, den der Texteditor erzeugt. Wenn Sie zumindest ein wenig mit der HTML-Syntax vertraut sind, können Sie auf diese Weise im Quellcode nachschauen (Abb. C.11), falls Schwierigkeiten im normalen Editor-Modus auftauchen. 
+
+!![Abb. C.10 Texteditor: HTML-Modus aufrufen][C-10]
+
+!![Abb. C.11 Texteditor: HTML Quellcode bearbeiten][C-11]
+
+Hier einige typische Anwendungsfälle:
+
+-   beim Kopieren aus einer Vorlage (Word, Internetseite) wurden unerwünschte Formatierungen eingeschleppt
+-   beim Löschen von Text wurde die hierarchische Staffelung von HTML-Tags gestört, indem z.B. ein schließendes Tag versehentlich gelöscht wurde
+
+In aller Regel brauchen kommen Sie aber ohne den HTML-Modus aus. Wenn Sie über die nötige Expertise verfügen, kann er die Arbeit beschleunigen, notwendig ist er nicht.
+
+##### Vollbild-Modus
+
+Wenn Sie etwas umfangreichere und komplexer strukturierte Texte bearbeiten, kann es hilfreich sein, den Texteditor im Vollbildmodus zu verwenden. Sie haben dann das gesamte Browserfenster für die Arbeit am Text zur Verfügung.  Klicken Sie dazu auf das letzte Icon in der ersten Zeile (Abb. C.12) und der Editor schaltet in den Vollbildmodus (Abb. C.13).
+
+!![Abb. C.12 Texteditor: Vollbild-Modus aufrufen][C-12]
+
+!![Abb. C.13 Texteditor: im Vollbild-Modus arbeiten][C-13]
+
+Zum Schließen der Vollbild-Ansicht klicken Sie einfach noch einmal auf das entsprechende Icon.
+
+[C-1]: img/C-1.jpg "Abb. C.1 Texteditor: Text fett setzen"
+[C-2]: img/C-2.jpg "Abb. C.2 Texteditor: Text kursiv setzen"
+[C-3]: img/C-3.jpg "Abb. C.3 Texteditor: Ungeordente Liste"
+[C-4]: img/C-4.jpg "Abb. C.4 Texteditor: Geordnete Liste"
+[C-5]: img/C-5.jpg "Abb. C.5 Texteditor: einen Link setzen"
+[C-6]: img/C-6.jpg "Abb. C.6 Texteditor: Dialogcenter zum Setzen eines Links"
+[C-7]: img/C-7.jpg "Abb. C.7 Texteditor: Text als Zitatblock setzen"
+[C-8]: img/C-8.jpg "Abb. C.8 Texteditor: Quellenangabe Zitatblock"
+[C-9]: img/C-9.jpg "Abb. C.9 Texteditor: Überschriften"
+[C-10]: img/C-10.jpg "Abb. C.10 Texteditor: HTML-Modus aufrufen"
+[C-11]: img/C-11.jpg "Abb. C.11 Texteditor: HTML Quellcode bearbeiten"
+[C-12]: img/C-12.jpg "Abb. C.12 Texteditor: Vollbild-Modus aufrufen"
+[C-13]: img/C-13.jpg "Abb. C.13 Texteditor: im Vollbild-Modus arbeiten"
 
 
 
