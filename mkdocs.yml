@@ -11,12 +11,13 @@ pages:
     - Start: index.md
     - Einleitung: einleitung.md
     - Redaktionelle Empfehlungen: empfehlungen.md
-    - A. Im Überblick: ueberblick.md
-    - B. Virtuelle Ausstellungen Erstellen:
+    - A Im Überblick: ueberblick.md
+    - B Virtuelle Ausstellungen Erstellen:
       - 1. Das Omeka Backend: backend.md
       - 2. Objekte in Omeka: erstellen.md
       - 3. Die Ausstellung anlegen: ausstellung_anlegen.md 
       - 4. Ausstellungsseiten anlegen: seiten_anlegen.md
+    - C Anhang: anhang.md
 
 
 # Theme
