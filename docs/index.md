@@ -6,7 +6,7 @@ Date:    2017-06-14
 
 # Kuratoren-Handbuch für DDBstudio
 
-## Virtuelle Ausstellungen in der Deutschen Digitalen Bibliothek erstellen
+## Virtuelle Ausstellungen in der Deutschen Digitalen Bibliothek gestalten
 
 Im Auftrag der Deutschen Digitalen Bibliothek
 
