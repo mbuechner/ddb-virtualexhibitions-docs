@@ -2,9 +2,9 @@
 
 ## C.1 Metadaten
 
-Das Metadatenschema für die Objekte Ihrer Ausstellung ist so ausgelegt, dass ein breites Spektrum an Medientypen abgedeckt ist. Im Zusammenhang der virtuellen Virtuellen Ausstellung haben die Metadaten in erster Linie eine deskriptive Funktion; sie sollen über das im Rahmen der Ausstellung gezeigte Objekt informieren. Die inhaltserschließende Funktion spielt hier eine untergeordnete Rolle. Sie können deshalb die Metadatenfelder relativ frei befüllen, ohne an ein vorgegebenes Schema für die Datenerfassung gebunden zu sein. Priorität hat die Lesbarkeit und Verständlichkeit aus Sicht der Nutzer.
+Das Metadatenschema für die Objekte Ihrer Ausstellung ist so ausgelegt, dass ein breites Spektrum an Medientypen abgedeckt ist. Im Zusammenhang der virtuellen Ausstellungen haben die Metadaten in erster Linie eine deskriptive Funktion: Sie sollen über das im Rahmen der Ausstellung gezeigte Objekt informieren 0150– die inhaltserschließende Funktion spielt hier eine untergeordnete Rolle. Sie können deshalb die Metadatenfelder relativ frei befüllen, ohne an ein vorgegebenes Schema für die Datenerfassung gebunden zu sein. Priorität hat die Lesbarkeit und Verständlichkeit aus Sicht des Publikums.
 
-Die meisten Metadaten werden im Frontend der Ausstellung ausgegeben, manche dienen auch nur technischen Zwecken wie der Verknüpfung mit einer Datenquelle. Angezeigt werden Metadaten prinzipiell nicht auf den Ausstellungsseiten selbst, sondern erst nach Aufruf der Lightbox (durch Klicken auf eine Objektabbildung; vgl. Abb. A.5) oder auf der Detailseite (vgl. Abb. A.7) zum Objekt (nach Klick auf den Link „zum Objekt“ in der Lightbox). Die Detailseite fasst alle zur Ausgabe vorgesehenen Metadaten zusammen. Dagegen wird in der Lightbox nur ein Teil der Metadaten eines Objekts ausgegeben. Bei Objekten, die bereits in die Deutschen Digitalen Bibliothek ingestiert sind, entfällt die Detailseite, weil hier der Link „zum Objekt“ in der Lightbox direkt auf den Eintrag in der Deutschen Digitalen Bibliothek führt (vgl. Abb. A.6).
+Die meisten Metadaten werden im Frontend der Ausstellung ausgegeben, manche dienen auch nur technischen Zwecken wie der Verknüpfung mit einer Datenquelle. Angezeigt werden Metadaten prinzipiell nicht auf den Ausstellungsseiten selbst, sondern erst nach Aufruf der Lightbox (durch Klicken auf eine Objektabbildung; vgl. Abb. A.5) oder auf der Detailseite (vgl. Abb. A.7) zum Objekt (nach Klick auf den Link „zum Objekt“ in der Lightbox). Die Objekt-Detailseite fasst alle zur Ausgabe vorgesehenen Metadaten zusammen. Dagegen wird in der Lightbox nur ein Teil der Metadaten eines Objekts ausgegeben. Bei Objekten, die bereits in die Deutschen Digitalen Bibliothek ingestiert sind, entfällt die Detailseite, weil hier der Link „zum Objekt“ in der Lightbox direkt auf den Eintrag in der Deutschen Digitalen Bibliothek führt (vgl. Abb. A.6).
 
 Nicht ausgefüllte Metadatenfelder werden bei der Ausgabe der Detailseite ignoriert, es entstehen also keine Lücken. Die für die Ausgabe in der Lightbox vorgesehenen Felder sollten aber stets ausgefüllt werden. Pflichtfelder sind mit einem * gekennzeichnet; wenn Sie diese Felder nicht ausfüllen, erhalten Sie beim Speichern des Objekts eine Fehlermeldung.
 
@@ -15,7 +15,7 @@ Der Titel des Objekts
 
 ##### Weiterer Titel
 
-Sekundäre Titelangabe, z.B. Untertitel, Originaltitel in anderer Sprache (welcher?), gleichwertiger Titel, ursprünglicher Titel (z. B. Mona Lisa/La Joconde), ...  
+z.B. Untertitel, Originaltitel in anderer Sprache (welcher?), gleichwertiger Titel, ursprünglicher Titel (z. B. Mona Lisa/La Joconde), ...  
 **Ausgabe**: Objekt-Detailseite
 
 ##### Beschreibung
@@ -35,36 +35,36 @@ Offizielle Bezeichnung der Institution, die das Objekt besitzt.
 
 ##### URL der Institution
 
-Internetadresse der Institution, die das Objekt besitzt.  
-**Ausgabe** als URL, mit der der Name der Institution verlinkt wird: Objekt-Detailseite; Lightbox
+Internet-Präsenz der Institution, die das Objekt besitzt.  
+**Ausgabe** als Ziel hinter dem verlinkten Namen der Institution: Objekt-Detailseite; Lightbox
 
-##### Link zum Objekt in der DDB
+##### URL des Objekts in der DDB
 
 URL des Objekts im Portal der DDB. Die korrekte URL erhalten Sie, indem Sie das Objekt in der Deutschen Digitalen Bibliothek aufrufen und dort auf der Objektseite auf den Link „Link auf diese Seite“ klicken, der direkt über dem Titel des Objekts zu finden ist.  
 **Ausgabe**: Objekt-Detailseite  
-**Anmerkung**: Wenn das Objekt in der Deutschen Digitalen Bibliothek zu finden ist, bitte unbedingt dieses Feld benutzen (und **nicht** das Feld „Link zum Objekt bei der datengebenden Institution“). Bitte verwenden Sie immer die persistente URL (s.o.) und kopieren Sie nicht die aktuelle URL aus der Adresszeile Ihres Browsers.
+**Anmerkung**: Wenn das Objekt in der Deutschen Digitalen Bibliothek zu finden ist, bitte unbedingt dieses Feld benutzen (und **nicht** das Feld „Link zum Objekt bei der datengebenden Institution“). Bitte kopieren Sie **nicht** die aktuelle URL aus der Adresszeile Ihres Browsers, sondern verwenden Sie immer die stabile URL, die stets in etwa so aussieht: https://www.deutsche-digitale-bibliothek.de/item/XNVHWXKSHKH6O5SYXM22ZBW25PQG4JFE.
 
-##### Link zum Objekt bei der datengebenden Institution
+##### URL des Objekts bei der datengebenden Institution
 
-URL des Objekteintrags in der Datenbank der Institution, die das Objekt besitzt.   
+URL des Objektss in der Datenbank oder auf der Website der Institution, die das Objekt besitzt.   
 **Ausgabe**: Objekt-Detailseite; Lightbox (Ziel des Links „zum Objekt“)  
 **Anmerkung**: Bitte **nur** dann ausfüllen, wenn das Objekt **nicht** in der Deutschen Digitalen Bibliothek zu finden ist. Andernfalls unbedingt leer lassen!
 
 ##### Rechtestatus*
 
-Angabe von Lizenz oder Rechtehinweis; die Eingabe erfolgt über eine Auswahlliste.    
-**Ausgabe** (als Lizenz-Piktorgramm): Objekt-Detailseite; Lightbox (aufrufbar über das (c) -Symbol) 
-**Anmerkung**: Die Shortcodes erzeugen in der Lightbox und auf der Detailseite Piktogramme, die mit einer Seite verlinkt sind, auf der die betreffende Lizenz beschrieben ist. Siehe Abschnitt XXX mit weiteren Informationen zu den Lizenzen.
+Angabe von Lizenz oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste.    
+**Ausgabe** (als Lizenz-Piktogramm): Objekt-Detailseite; Lightbox (aufrufbar über das (c) -Symbol) 
+**Anmerkung**: Die Shortcodes erzeugen in der Lightbox und auf der Detailseite Piktogramme, die mit einer Seite verlinkt sind, auf der die betreffende Lizenz beschrieben ist.
 
 ##### Typ
 
-Die Art des Objekts (z.B. Gemälde, Fotografie, Buch ...)  
+Die Art des Objekts (z. B. Gemälde, Fotografie, Buch ...)  
 **Ausgabe**: Objekt-Detailseite  
-**Anmerkung**: Da diese Typus-Bezeichnungen nicht für eine Objektsuche oder systematische Kategorisierung verwendet werden, können sie frei verwendet werden, wie sie das Objekt am besten charakterisieren.
+**Anmerkung**: Da diese Typus-Bezeichnungen nicht für eine Objektsuche oder systematische Kategorisierung verwendet werden, können Sie sie frei verwenden, wie sie das Objekt am besten charakterisieren.
 
 ##### Teil von
 
-Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z.B. Erschienen in ..., Band der Reihe ...)  
+Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z. B. Erschienen in ..., Band der Reihe ...)  
 **Ausgabe**: Objekt-Detailseite
 
 ##### Thema
@@ -84,23 +84,23 @@ Zeitangabe zur Herstellung, zur Laufzeit, Erscheinungsdatum ...
 
 ##### Ort
 
-Herstellung oder Erscheinungsort, evtl. historische Bezeichnung des Orts; gemeint ist nicht der gezeigte Ort auf einer Darstellung  
+Herstellungs- oder Erscheinungsort, historische Bezeichnung des Orts, wenn der im Titel genannte Ort nicht der tatsächlich dargestellte Ort ist ...
 **Ausgabe**: Objekt-Detailseite
 
 
 ##### Maße/Umfang
 
-Die für das Objekt passenden Angaben zur Dimension: Abmessungen, Seitenzahl, Länge von Ton- oder Filmaufnahmen    
+Die für das Objekt passenden Angaben zur Dimension: Abmessungen, Seitenzahl, Länge von Ton- oder Filmaufnahmen.    
 **Ausgabe**: Objekt-Detailseite
 
 ##### Material/Technik
 
-Angaben zum verwendeten Material und zur Technik, z.B. Öl auf Leinwand, Holz, Grisaille, mp3    
+Angaben zum verwendeten Material und zur Technik, z. B. Öl auf Leinwand, Holz, Grisaille, mp3    
 **Ausgabe**: Objekt-Detailseite
 
 ##### Sprache
 
-Bei textuellen Objekten die Sprache, in der der Text verfasst ist, ggf. Angaben zur Übersetzung   
+Bei textuellen Objekten die Sprache, in der der Text verfasst ist, ggf. Angaben zur Übersetzung oder Originalsprache.   
 **Ausgabe**: Objekt-Detailseite
 
 ##### Identifikator
@@ -141,13 +141,13 @@ und endet mit
 ```
 </map>
 ```    
-Damit die Imagemap auch nach dem Umzug vom Entwicklungs- auf den Live-Server noch funktioniert, müssen alle Pfade relativ angegeben werden, also z.B.:
+Damit die Imagemap auch nach dem Umzug vom Entwicklungs- auf den Live-Server noch funktioniert, müssen alle Pfade relativ angegeben werden, also z. B.:
 
 ````
 href="/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto"
 ````
 
-Wenn Sie möchten, dass das verlinkte Objekt direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und und hängen an die URL den Zusatz „?lbitem“ + plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte). Die URL sieht dann beispielsweise so aus:
+Wenn Sie möchten, dass das verlinkte Objekt direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und und hängen an die URL den Zusatz „?lbitem“ + plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte?). Die URL sieht dann beispielsweise so aus:
 
 ````
 href="/tanz/exhibits/show/das-gedaechtnis-des-tanzes/moderne-taenze?lbitem=4"
@@ -157,13 +157,13 @@ href="/tanz/exhibits/show/das-gedaechtnis-des-tanzes/moderne-taenze?lbitem=4"
 
 Die Eingabe der Texte für die Ausstellungsseiten erfolgt in einem Text-Editor (TinyMCE), der Ihnen in etwa die Formatierungsmöglichkeiten eines einfachen Textverarbeitungsprogramms bietet.
 
-Neben Formatierungen wie Fett- oder Kursivsetzungen erlaubt der Editor auch das Einfügen von Hyperlinks.
+Neben Formatierungen wie Fett- oder Kursiv-Satz erlaubt der Editor auch das Einfügen von Hyperlinks.
 
-Die Icons und Auswahllisten des Editors sind leicht verständlich und Ihnen wahrscheinlich aus anderen Programmen vertraut. Im Folgenden ein kurzer Überblick über die einzelnen Optionen.
+Die Icons und Auswahl-Listen des Editors sind leicht verständlich und Ihnen wahrscheinlich aus anderen Programmen vertraut. Im Folgenden ein kurzer Überblick über die einzelnen Optionen.
 
 !!!note "Formatieren Sie bitte sparsam und konsistent!"
 
-    Die Grundformatierung Ihrer virtuellen Ausstellung übernimmt ein Template. Es sorgt dafür, dass alle Elemente gestalterisch aufeinander abgestimmt sind. Die Formatierungsmöglichkeiten des Editors sind lediglich als Ergänzung zu verstehen, um besondere Anforderungen zu erfüllen, etwa die Kursivsetzung eines im Text erwähnten Werktitels. Mit (Zwischen-)Überschriften können Sie längere Texte leserfreundlich strukturieren. Achten Sie dabei bitte darauf, dass die Überschriftenhierarchie nicht mit dem Template kollidiert und auf allen Seiten systematisch angewendet wird.
+    Die Grundformatierung Ihrer virtuellen Ausstellung übernimmt ein Template. Es sorgt dafür, dass alle Elemente gestalterisch aufeinander abgestimmt sind. Die Formatierungsmöglichkeiten des Editors sind lediglich als Ergänzung zu verstehen, um besondere Anforderungen zu erfüllen, etwa die Kursivsetzung eines im Text erwähnten Werktitels. Mit (Zwischen-)Überschriften können Sie längere Texte leserfreundlich strukturieren. Achten Sie dabei bitte darauf, dass die Überschriftenhierarchie nicht mit dem Template kollidiert und sich auf allen Seiten systematisch durchzieht.
 	
 ##### Fett (bold)
 
@@ -173,18 +173,18 @@ Mit dem B-Icon können Sie Wörter oder Textpassagen fett setzen (Abb. C.1). Bit
 
 ##### Kursiv (italic)
 
-Kursivsetzungen bieten sich bei Titeln von Werken oder Publikationen an (Abb. C.2).
+Kursiv-Satz bietet sich bei Titeln von Werken oder Publikationen an (Abb. C.2).
 
 !![Abb. C.2 Texteditor: Text kursiv setzen][C-2]
 
 ##### Liste (ungeordnet)
 
-Mit diesem Icon (Abb. C.3) können Sie Listen in Ihren Text einfügen. Die Liste wird durch Einrückungen und Listenpunkte (Bullet Points) formatiert. Auf das Format dieser Gestaltungselemente haben Sie keinen Einfluss, da es auf Template-Ebene festgelegt ist.
+Mit diesem Icon (Abb. C.3) können Sie Listen in Ihren Text einfügen. Die Liste wird durch Einrückungen und Listenpunkte (Bullet Points) formatiert. Das Aufzählungs-Symbol können Sie nicht verändern, da es auf Template-Ebene festgelegt ist.
 
-Listen sind Absatzformatierungen, die Listenpunkte müssen also zunächst Absätze sein. Markieren Sie dann alle Absätze (durch „Enter“ getrennte Zeilen) und machen Sie sie durch einen Klick auf das Listen-Icon zur Liste. Um die Listenformatierung zu entfernen, markieren Sie die gesamte Liste und klicken erneut auf das Listen-Icon.
+Listen sind Absatzformatierungen, die Listenpunkte müssen also zunächst Absätze sein. Markieren Sie dann alle Absätze (durch „Enter“ getrennte Zeilen) und machen Sie sie durch einen Klick auf das Listen-Icon zur Liste. Alternativ können Sie einfach den ersten Absatz als Liste formatieren – mit der Enter-Eingabe wird der folgende Absatz automatische als Listenabsatz formatiert. Um die Listenformatierung zu entfernen, markieren Sie die gesamte Liste und klicken erneut auf das Listen-Icon.
 
 
-!![Abb. C.3 Texteditor: Ungeordente Liste][C-3]
+!![Abb. C.3 Texteditor: Ungeordnete Liste][C-3]
 
 ##### Liste (nummeriert)
 
@@ -195,15 +195,15 @@ Nummerierte (geordnete) Listen unterscheiden sich von den ungeordneten nur dadur
 
 ##### Links einfügen
 
-Über das Kettensymbol können Sie in Ihrem Text Hyperlinks zu beliebigen URLs oder auf andere Seiten der Ausstellung setzen. Den zu verlinkenden Text (Ankertext) schreiben Sie zunächst als gewöhnlichen Text, markieren ihn und klicken auf das Kettensymbol (Abb. C.5). Bereits verlinkte Textteile erscheinen unterstrichen (hier „Lorem ipsum“), was nicht der Formatierung von Links im Frontend entspricht. Auch die Formatierung von Links regelt das Template und ist von Ihnen nicht zu beeinflussen.
+Über das Kettensymbol können Sie in Ihrem Text Hyperlinks zu beliebigen URLs oder auf andere Seiten der Ausstellung setzen. Den zu verlinkenden Text (Ankertext) schreiben Sie zunächst als gewöhnlichen Text, markieren ihn und klicken auf das Kettensymbol (Abb. C.5). Bereits verlinkte Textteile erscheinen im Backend unterstrichen (hier „Lorem ipsum“) – was nicht der Ausgabe im Frontend entspricht. Auch die Formatierung von Links regelt das Template, Sei können sie also nicht beeinflussen.
 
 !![Abb. C.5 Texteditor: einen Link setzen][C-5]
 
 Beim Klick auf das Kettensymbol öffnet sich eine Eingabemaske, in der Sie die zur Verlinkung notwendigen Einstellungen vornehmen können (Abb. C.6). 
 
-Bei Links auf andere Seiten Ihrer Ausstellung, setzen Sie **relative** Links. Dazu gehen Sie auf die betreffende Seite, kopieren die URL aus der Adresszeile Ihres Browsers und entfernen alles bis zur Top-Level-Domain „.de“. Ein relativer Link sieht dann beispielsweise so aus: „/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto“. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „In neuem Fenster öffnen“.
+Bei Links auf andere Seiten Ihrer Ausstellung, setzen Sie **relative** Links. Dazu gehen Sie auf die betreffende Seite, kopieren die URL aus der Adresszeile Ihres Browsers und entfernen alles bis zur Top-Level-Domain „.de“. Ein relativer Link sieht dann beispielsweise so aus: „/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto“. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „Im selben Fenster öffnen“.
 
-Bei Links auf Seiten außerhalb Ihrer Ausstellung setzen Sie **absolute** Links, die Sie direkt aus der Adresszeile Ihres Browsers übernehmen können. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „Im selben Fenster öffnen“. 
+Bei Links auf Seiten außerhalb Ihrer Ausstellung setzen Sie **absolute** Links, die Sie direkt aus der Adresszeile Ihres Browsers übernehmen können. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „In neuem Fenster öffnen“. 
 
 !![Abb. C.6 Texteditor: Dialogcenter zum Setzen eines Links][C-6]
 
@@ -221,11 +221,11 @@ Um die Quelle des verwendeten Zitats anzugeben, steht ein weiteres Spezialformat
 
 ##### Überschriften
 
-Das Auswahlfeld in der unteren Zeile der Bedienelemente erlaubt die Zuweisung von Absatzformaten. Voreingestellt ist „Absatz“, was normalem Fließtext entspricht. Sie können über die Auswahlliste Überschriften setzen. Dazu schreiben Sie den Text der Überschrift in einen eigenen Absatz, markieren ihn (oder setzen den Cursor in diesen Absatz) und wählen aus der Liste ein passendes Überschriftenformat aus der Überschriften-Hierarchie (Abb. C.9).
+Das Auswahlfeld in der unteren Zeile der Bedienelemente erlaubt die Zuweisung von Absatzformaten. Voreingestellt ist „Absatz“, was normalem Fließtext entspricht. Sie können über die Auswahl-Liste Überschriften setzen. Dazu schreiben Sie den Text der Überschrift in einen eigenen Absatz, markieren ihn (oder setzen den Cursor in diesen Absatz) und wählen aus der Liste ein passendes Überschriftenformat aus der Überschriften-Hierarchie (Abb. C.9).
 
 !![Abb. C.9 Texteditor: Überschriften][C-9]
 
-Den Überschriften sind unterschiedliche Formatierungen zugewiesen, die bereits im Schriftbild des Editors angedeutet sind. Entscheidend ist die Formatierung im Frontend. Bitte überprüfen Sie das Ergebnis Ihrer Textformatierung immer dort, das Erscheinungsbild im Backend dient nur als Anhaltspunkt. Die Überschrift der Ebene „Überschrift 1“ ist bereits durch den Seitentitel belegt, verwenden Sie deshalb bitte nur die Überschriften der Ebenen 2 bis 6.
+Den Überschriften sind unterschiedliche Formatierungen zugewiesen, die bereits im Schriftbild des Editors angedeutet sind. Entscheidend ist die Formatierung im Frontend. Bitte überprüfen Sie das Ergebnis Ihrer Textformatierung immer dort – das Erscheinungsbild im Backend dient nur als Anhaltspunkt. Die Überschrift der Ebene „Überschrift 1“ ist bereits durch den Seitentitel belegt, verwenden Sie deshalb bitte nur die Überschriften der Ebenen 2 bis 6.
 
 Um einen Überschriftenformatierung zu entfernen, weisen Sie wieder das Format Absatz zu.
 
@@ -239,10 +239,10 @@ Die Schaltfläche „HTML“ (Abb. C.10) gibt Ihnen Zugang zu dem Quellcode im H
 
 Hier einige typische Anwendungsfälle:
 
--   beim Kopieren aus einer Vorlage (Word, Internetseite) wurden unerwünschte Formatierungen eingeschleppt
--   beim Löschen von Text wurde die hierarchische Staffelung von HTML-Tags gestört, indem z.B. ein schließendes Tag versehentlich gelöscht wurde
+-   beim Kopieren aus einer Vorlage (Word, Webseite) wurden unerwünschte Formatierungen eingeschleppt
+-   beim Löschen von Text wurde die hierarchische Staffelung von HTML-Tags gestört, indem z. B. ein schließendes Tag versehentlich gelöscht wurde
 
-In aller Regel brauchen kommen Sie aber ohne den HTML-Modus aus. Wenn Sie über die nötige Expertise verfügen, kann er die Arbeit beschleunigen, notwendig ist er nicht.
+In aller Regel kommen Sie aber ohne den HTML-Modus aus. Wenn Sie über die nötige Expertise verfügen, kann er die Arbeit beschleunigen 0150– notwendig ist er nicht.
 
 ##### Vollbild-Modus
 
@@ -268,8 +268,3 @@ Zum Schließen der Vollbild-Ansicht klicken Sie einfach noch einmal auf das ents
 [C-11]: img/C-11.jpg "Abb. C.11 Texteditor: HTML Quellcode bearbeiten"
 [C-12]: img/C-12.jpg "Abb. C.12 Texteditor: Vollbild-Modus aufrufen"
 [C-13]: img/C-13.jpg "Abb. C.13 Texteditor: im Vollbild-Modus arbeiten"
-
-
-
-
-
