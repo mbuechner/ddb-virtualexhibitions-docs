@@ -157,8 +157,6 @@ Als webbasiertes Content-Management-System ist die Ausstellungs-Software sehr fl
 
 Solange Sie bestehende Seiteninhalte editieren oder neue hinzufügen, gelten die Hinweise, die wir im Kapitel „Inhalte einstellen“ gegeben haben.
 
-Leider bietet Omeka kein einfaches Verfahren, um die Anordnung der Objekte auf der Seite zu verändern, also etwa ein Galeriebild zum Hauptbild zu machen, die Reihenfolge der Galeriebilder anzupassen oder ein neues Galeriebild zwischenzuschieben. Anzahl und Anordnung der Inhaltselemente ist fix, Sie können Sie nur mit Objekten belegen oder diese entfernen.
-
 Leider bietet die Software kein einfaches Verfahren, um die Anordnung der Objekte auf der Seite zu verändern, also etwa ein Galeriebild zum Hauptbild zu machen, die Reihenfolge der Galeriebilder anzupassen oder ein neues Galeriebild zwischenzuschieben. Anzahl und Anordnung der Inhaltselemente (vgl. Abb. 4.20, die in blauen Kästchen durchnummerierten Boxen) ist fix, Sie können Sie nur mit Objekten belegen oder diese entfernen.
 
 Um es an einem Beispiel zu verdeutlichen: Wenn Sie in einer Galerie mit 7 Objekten an Stelle 4 ein neues Objekt einfügen möchten, entfernen Sie an Stelle 4, 5, 6 und 7 die Objekte, fügen anschließend an Stelle 4 das neue und an Stelle 5, 6, 7 und 8 die folgenden Objekte ein. 
@@ -166,8 +164,8 @@ Um es an einem Beispiel zu verdeutlichen: Wenn Sie in einer Galerie mit 7 Objekt
 Es empfiehlt sich also, beim Anlegen von Objektsequenzen gründlich zu planen und systematisch vorzugehen. Andererseits ist das Entfernen und Hinzufügen von Objekten mit wenigen Klicks erledigt, lassen Sie sich also nicht zu sehr in Ihrer Experimentierfreude oder Ihrem Optimierungsbedürfnis einschränken. Wenn die Änderungen Hauptbilder betreffen, sollten Sie bereits eingestellte Bildunterschriften in einer Textdatei zwischenspeichern, da diese beim Entfernen eines Objekts verloren gehen.
 
 Änderungen an den Metadaten der Seite sind unproblematisch. Auch ein Wechsel des ausgewählten Layouts (vgl. Abb. 4.2, 4) ist möglich. Dabei ist allerdings zu bedenken, dass sich ein solcher Layout-Wechsel auf die Organisation der Inhalte auf der Ausstellungsseite auswirkt.
- 
-Omeka verhält sich bei einem Layout-Wechsel insofern „robust“, als es bestehende Inhalte den Inhaltselementen des neuen Layouts zuordnet. Dabei kann es zu unerwünschten, chaotischen Veränderungen bei den Eingabemasken kommen, vor allem, wenn Inhaltselemente aus den zweispaltigen Bereichen unterhalb der Objekte im neuen Template keine Entsprechung haben.
+
+Die Software Omeka verhält sich bei einem Layout-Wechsel insofern „robust“, als es bestehende Inhalte den Inhaltselementen des neuen Layouts zuordnet. Dabei kann es zu unerwünschten, chaotischen Veränderungen bei den Eingabemasken kommen, vor allem, wenn Inhaltselemente aus den zweispaltigen Bereichen unterhalb der Objekte im neuen Template keine Entsprechung haben.
 
 ##### Praxistipp: Layouts und Layout-Wechsel
 
@@ -183,7 +181,7 @@ Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text
 
 !!!note "Der Spaltenumbruch muss automatisch erfolgen"
 
-    Es ist sinnlos, den Spaltenumbruch durch Zeilenumbrüche, Absätze, Leerzeilen oder mit ähnlichen „Manipulationen“ erzwingen zu wollen, er würde nur für genau die Fensterbreite passen, in der Sie das Frontend gerade betrachten. Wenn Sie dieses Fenster groß und klein ziehen, wird Ihnen dieser Zusammenhang sofort anschaulich.
+    Es ist sinnlos, den Spaltenumbruch durch Zeilenumbrüche, Absätze, Leerzeilen oder mit ähnlichen „Manipulationen“ erzwingen zu wollen, er würde dann nur für genau die Fensterbreite passen, in der Sie das Frontend gerade betrachten. Wenn Sie dieses Fenster groß und klein ziehen, wird Ihnen dieser Zusammenhang sofort anschaulich.
 
 !![Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift][B-4-19]
 
@@ -203,7 +201,7 @@ Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig geset
 
 ##### Praxistipp: Keep it short and simple!
 
-Die zuletzt beschriebene Layoutvariante mit einer Textspalte links neben und einer Spalte rechts unter den Objekten plus zweispaltigen Textblöcken im unteren Bereich der Ausstellungsseite ist die komplexeste Zusammenstellung von Texten und Bildern, die das Online-Tool ermöglicht - komplex für Sie bei der Erstellung, aber eben auch für die Nutzerin oder den Nutzer. Fragen Sie sich deshalb bitte immer, bevor Sie diese Möglichkeit nutzen, ob Sie die Inhalte nicht besser auf mehrere Ausstellungsseiten aufteilen. Kurze, einfach strukturierte Seiten lassen sich besser erfassen und machen den Besuch Ihrer virtuellen Ausstellung weniger anstrengend. Wenn Sie durch die Aufteilung dieselben Objekte auf mehreren Seiten einbinden müssen, ist das kein Problem.
+Die zuletzt beschriebene Layoutvariante mit einer Textspalte links neben und einer Spalte rechts unter den Objekten plus zweispaltigen Textblöcken im unteren Bereich der Ausstellungsseite ist die komplexeste Zusammenstellung von Texten und Bildern, die das Online-Tool ermöglicht - komplex für Sie bei der Erstellung, aber eben auch für die Nutzerin oder den Nutzer. Fragen Sie sich deshalb bitte immer, bevor Sie diese Möglichkeit nutzen, ob Sie die Inhalte nicht besser auf mehrere Ausstellungsseiten aufteilen. Kurze, einfach strukturierte Seiten lassen sich besser erfassen und machen den Besuch Ihrer virtuellen Ausstellung mehr vergnüglich als fordernd. Wenn Sie durch eine solche Aufteilung dieselben Objekte auf mehreren Seiten einbinden müssen, ist das technisch kein Problem und unter Umständen auch inhaltlich bereichernd.
 
 #### B.4.4.5 Der Apparat – Literatur, Team, Inhalt
 
@@ -244,7 +242,3 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt 4.1) ist hi
 [B-4-20]: img/B-4-20.jpg "Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte"
 [B-4-21]: img/B-4-21.jpg "Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis"
 [B-4-22]: img/B-4-22.jpg "Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis"
-
-
-
-
