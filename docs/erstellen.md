@@ -1,6 +1,6 @@
 ## B.2 Objekte in einer DDBstudio-Ausstellung anlegen
 
-Die Grundbausteine einer DDBstudio-Ausstellung sind die Objekte, die ‚Exponate‘ der virtuellen Ausstellung. Aus Sicht der NutzerInnen, die Ihre Ausstellung im Internet besuchen, sind Objekte die Medien (Bilder, Videos, Audio-Clips, 3D-Objekte), die Sie auf den Ausstellungsseiten präsentieren. Das Datenmodell von der Ausstellungs-Software ist hier etwas differenzierter: Ein Objekt bezeichnet hier nicht einfach das Digitalisat eines realen Objekts, sondern es beschreibt das reale Objekt (z. B. ein Buch, ein archivalisches Dokument) vermittels Metadaten. Die Entsprechung zu einem Objekt in einer DDBstudio-Ausstellung in einer vordigitalen Bibliothek wäre eine Karteikarte im Katalog – also nicht das Medium selbst. 
+Die Grundbausteine einer DDBstudio-Ausstellung sind die Objekte, die ‚Exponate‘ der virtuellen Ausstellung. Aus Sicht der NutzerInnen, die Ihre Ausstellung im Internet besuchen, sind Objekte die Medien (Bilder, Videos, Audio-Clips, 3D-Objekte), die Sie auf den Ausstellungsseiten präsentieren. Das Datenmodell der Ausstellungs-Software ist etwas differenzierter: Ein Objekt bezeichnet hier nicht einfach das Digitalisat eines realen Objekts, sondern es beschreibt das reale Objekt (z. B. ein Buch, ein archivalisches Dokument) vermittels Metadaten. Die Entsprechung in einer vordigitalen Bibliothek zu einem Objekt in einer DDBstudio-Ausstellung wäre eine Karteikarte im Katalog – also nicht das Medium selbst. 
 Wenn Sie das Objekt mit Hilfe von Metadaten beschrieben haben, sollten Sie es in einem zweiten Schritt mit (meist) einer Dateien verknüpfen, die dieses Objekt digital repräsentiert. Im klassischen Fall eines digitalisierten Realbestandes sind dies Scans oder Fotos, es kann sich aber auch um ein Video, eine Tonaufnahme oder ein 3D-Modell handeln. Objekt und Digitalisat(e) sind also logisch getrennte Einheiten – das gilt auch für genuin digitale Objekte wie etwa Videos oder Tonaufnahmen.
 
 ## B.2.1. Objekte hinzufügen
@@ -21,7 +21,7 @@ Wenn Sie die Metadaten eines bereits angelegten Objekts ergänzen oder ändern m
 
 !![Abb. B.2.3 Objekt bearbeiten][B-2-3]
 
-Die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek arbeiten mit einem speziell zu diesem Zweck zusammengestellten Metadatenschema (s. Anhang Abschnitt C.1), das die notwendigen Angaben für unterschiedliche Objektkategorien wie Texte, Bilder, Filme, kunstgewerbliche Gegenstände etc. zusammenfasst. Die Werte mancher Felder werden bei der Ausgabe im Frontend direkt ausgeben, andere erzeugen nur einen Link oder dienen der Einbindung von Daten, etwa eines Vimeo-Videos. Nicht alle Felder müssen ausgefüllt werden; nicht ausgefüllte Felder werden bei der Ausgabe ignoriert. Pflichtfelder sind in der grauen Box über dem Eingabefeld als solche gekennzeichnet, außerdem finden Sie dort eine kurze Erläuterung bzw. Beispiele, mit welchen Informationen das Feld zu befüllen ist. Hinweise zu den einzelnen Feldern der Eingabemaske finden Sie außerdem im Anhang (Abschnitt C.1). 
+Die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek arbeiten mit einem speziell zu diesem Zweck zusammengestellten Metadatenschema (s. Anhang Abschnitt C.1), das die notwendigen Angaben für unterschiedliche Objektkategorien wie Texte, Bilder, Filme, kunstgewerbliche Gegenstände etc. zusammenfasst. Die Werte mancher Felder werden bei der Ausgabe im Frontend direkt ausgeben, andere erzeugen nur einen Link oder dienen der Einbindung von Daten, etwa eines Vimeo-Videos. Nicht alle Felder müssen ausgefüllt werden; nicht ausgefüllte Felder werden bei der Ausgabe ignoriert. Pflichtfelder sind in der grauen Box über dem Eingabefeld als solche gekennzeichnet, außerdem finden Sie dort bei den meisten Feldern eine kurze Erläuterung bzw. Beispiele, mit welchen Informationen das Feld zu befüllen ist. Hinweise zu den einzelnen Feldern der Eingabemaske finden Sie außerdem im Anhang (Abschnitt C.1). 
 
 Wenn Sie fertig sind, sichern Sie Ihre Eingabe mit einem Klick auf das Bedienfeld „Änderungen übernehmen“(Abb. B.2.4, <span class="red-circle">1</span>).
 
@@ -38,7 +38,7 @@ Um die Bearbeitung fortsetzen zu können, rufen Sie über die Schaltfläche „B
 ### B.2.3.1 Verknüpfen mit einer Bild- oder Audiodatei
 
 Sie können nun eine Datei mit dem Objekt verknüpfen. Wenn es sich um eine Bilddatei handelt, wird sie im Frontend als Vorschaubild und in der Lightbox im Großformat angezeigt. Verknüpfen Sie eine Audiodatei mit dem Objekt, erscheint auf der Ausstellungsseite ein entsprechendes Symbol, über das ein Audioplayer geöffnet wird, mit dem die Nutzer den Audioclip anhören können.
-Angaben zu verwendbaren Bild- und Audio-Dateiformaten finden Sie im Anhang (XXX).
+Welche Bild- und Audio-Dateiformate Sie verwenden können, finden Sie direkt im Backend erläutert. Die wichtigste Information: Sie können keine PDF-Dateien einbinden.
 
 !![Abb. B.2.6 Tab „Dateien“ der Seite „Objekt … bearbeiten“][B-2-6]
 
@@ -64,7 +64,7 @@ Die Verknüpfung mit dem Objekt erfolgt nun über das Metadatenfeld „Videoquel
 
 In der Dialogbox „Video-Shortcode bearbeiten“ (Abb. B.2.9) stellen Sie zunächst die Videoplattform ein (<span class="red-circle">1</span>), dann die ID des Videos (<span class="red-circle">2</span>) auf der betreffenden Plattform. Die ID können Sie auf Vimeo über den Button „Teilen“ abrufen. Tragen Sie bitte nur die ID selbst in das Feld ein, nicht die Domain der Plattform (also **ohne** https://vimeo.com/).
 
-Über die Felder „Startzeit“ und „Stoppzeit“ (<span class="red-circle">3</span>, <span class="red-circle">4</span>) können Sie festlegen, dass in der Ausstellung nur eine bestimmte Sequenz aus dem Video abgespielt wird. Mit „Übernehmen“ bestätigen Sie Ihre Eingaben. Gespeichert werden sie erst beim Speichern des Obejekts.
+Über die Felder „Startzeit“ und „Stoppzeit“ (<span class="red-circle">3</span>, <span class="red-circle">4</span>) können Sie festlegen, dass in der Ausstellung nur eine bestimmte Sequenz aus dem Video abgespielt wird. Mit „Übernehmen“ bestätigen Sie Ihre Eingaben, gespeichert werden sie erst beim Speichern des Objekts.
 
 !![Abb. B.2.9 Dialogbox „Video-Shortcode bearbeiten“][B-2-9]
 
@@ -78,13 +78,13 @@ Es besteht aber auch die Möglichkeit, solche Objekte außerhalb des Layout-Rahm
 
 Legen Sie für ein Konvolut, das Sie mit dem Bookviewer darstellen möchten, immer ein eigenes Objekt an, auch wenn Sie beispielsweise dessen  einzelne Blätter bereits als Objekt angelegt haben.
 
-Nachdem Sie im Tab „Dateien“ das Objekt mit einer ersten Datei verknüpft haben, können Sie im Kasten „Neue Dateien hinzufügen“ die nächste Abbildung einbinden (Abb. B.2.11, <span class="red-circle">1</span>). Über die Schaltfläche „Weitere Datei hinzufügen“ (<span class="red-circle">2</span>) erzeugen Sie einen neuen „Durchsuchen…“ Button für die nächste Grafik-Datei.
+Nachdem Sie im Tab „Dateien“ das Objekt mit einer ersten Datei verknüpft haben, können Sie im Kasten „Neue Dateien hinzufügen“ die nächste Abbildung einbinden (Abb. B.2.11, <span class="red-circle">1</span>). Über die Schaltfläche „Weitere Datei hinzufügen“ (<span class="red-circle">2</span>) erzeugen Sie einen neuen „Durchsuchen…“-Button für die nächste Grafik-Datei.
 
 !![Abb. B.2.11 Hinzufügen weiterer Dateien zu einem Objekt][B-2-11]
 
-Der letzte Schritt ist nun, einen Link zu erzeugen, mit dem Sie den Bookviewer mit diesem Objekt in Ihre Ausstellung einbinden können. Der Link zum Bookviewer hat die folgende Struktur: [Slug Ihrer Ausstellung]/viewer/show/[ID des Objekts]/#page/n0/mode/2up. Die beiden variablen Bestandteile (Slug und ID) finden Sie leicht, wenn Sie im Backend in die Adresszeile Ihres Browsers schauen: Der Slug schließt unmittelbar an die Domainendung „.de/“ an, die ID ist die Zahl am Ende der URL. In unserem Beilspiel ergibt sich so der relative Link: „kuratorenhandbuch/viewer/show/2/#page/n0/mode/2up“. 
+Der letzte Schritt ist nun, einen Link zu erzeugen, mit dem Sie den Bookviewer mit diesem Objekt in Ihre Ausstellung einbinden können. Der Link zum Bookviewer hat die folgende Struktur: [Slug Ihrer Ausstellung]/viewer/show/[ID des Objekts]/#page/n0/mode/2up. Die beiden variablen Bestandteile (Slug und ID) finden Sie leicht, wenn Sie im Backend in die Adresszeile Ihres Browsers schauen: Der Slug schließt unmittelbar an die Domainendung „.de/“ an, die ID ist die Zahl am Ende der URL. In unserem Beispiel ergibt sich so der relative Link: „kuratorenhandbuch/viewer/show/2/#page/n0/mode/2up“. 
 
-Sie können nun noch die Darstellungsoptionen im Viewer ändern, indem Sie die die Parameter „n0“ und „2up“ ändern. „n1“ schlägt initial die Seite 2 der Folge auf, „n5“ die Seite 6 usw. Analog dazu zeigt „1up“ Einzelseiten, „2up“ jeweils zwei Seiten usw.
+Sie können nun noch die Darstellungsoptionen im Viewer ändern, indem Sie die Parameter „n0“ und „2up“ ändern. „n1“ schlägt initial die Seite 2 der Folge auf, „n5“ die Seite 6 usw. Analog dazu zeigt „1up“ Einzelseiten, „2up“ jeweils zwei Seiten usw.
 
 ### B.2.3.4 3D-Objekte einbinden
 
@@ -106,7 +106,7 @@ DDBstudio bietet Ihnen mehrere Möglichkeiten, ein bestimmtes Objekt in der List
 
 !![Abb. B.2.14 Die Suchmaske der Objektsuche][B-2-14]
 
-Die Eingabe in „In allen Feldern suchen“ (<span class="red-circle">a</span>)funktioniert als Freitextsuche in den Metadaten. „Suche auf bestimmte Felder eingrenzen“ (<span class="red-circle">b</span>) ermöglicht es Ihnen, in bestimmten Metadatenfeldern zu suchen (linke Auswahlliste) und dabei logische Operatoren wie „enthält nicht“ oder „ist leer“ zu verwenden (rechte Auswahlliste). Wenn Ihnen die ID des Objekts oder der Objekts bekannt ist, können Sie den dritten Suchschlitz verwenden (<span class="red-circle">c</span>). Die Suche nach dem Kriterium der Sichtbarkeit im Frontend (<span class="red-circle">d</span>) kann nützlich sein, wenn bei der Abnahme der Ausstellung durch Ihre Ansprechpersonen bei der Deutschen Digitalen Bibliothek bestimmte Objekte auf „nicht sichtbar“ gestellt wurden (etwa, weil die Lizenzauszeichnung fehlt) und Sie gezielt diese Objekte nacharbeiten möchten. 
+Die Eingabe in „In allen Feldern suchen“ (<span class="red-circle">a</span>) funktioniert als Freitextsuche in den Metadaten. „Suche auf bestimmte Felder eingrenzen“ (<span class="red-circle">b</span>) ermöglicht es Ihnen, in bestimmten Metadatenfeldern zu suchen (linke Auswahlliste) und dabei logische Operatoren wie „enthält nicht“ oder „ist leer“ zu verwenden (rechte Auswahlliste). Wenn Ihnen die ID des Objekts oder der Objekte bekannt ist, können Sie den dritten Suchschlitz verwenden (<span class="red-circle">c</span>). Die Suche nach dem Kriterium der Sichtbarkeit im Frontend (<span class="red-circle">d</span>) kann nützlich sein, wenn bei der Abnahme der Ausstellung durch Ihre Ansprechperson bei der Deutschen Digitalen Bibliothek bestimmte Objekte auf „nicht sichtbar“ gestellt wurden (etwa, weil die Lizenzauszeichnung fehlt) und Sie gezielt diese Objekte nacharbeiten möchten. 
 
 [B-2-1]: img/B-2-1.jpg "Die Rubrik „Objekte“"
 [B-2-2]: img/B-2-2.jpg "Abb. B.2.2 Seite „Neues Objekt hinzufügen“"
