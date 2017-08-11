@@ -6,13 +6,6 @@ site_author: 'Deutsche Digitale Bibliothek, Culture to Go & Grandgeorg Websoluti
 # Copyright
 copyright: 'Copyright &copy; 2017 Deutsche Digitale Bibliothek, Culture to Go, Grandgeorg Websolutions'
 
-# Layout wording
-wording_next: 'vor'
-wording_previous: 'zurück'
-wording_built_with: 'Erstellt mit'
-wording_built_using: 'unter Verwendung eines'
-wording_built_theme: 'Themes'
-wording_theme_by: 'von'
 
 # Structure
 pages:
@@ -38,6 +31,13 @@ extra:
   palette:
     primary: 'blue grey'
     accent: 'blue grey'
+  # Layout wording
+  wording_next: 'vor'
+  wording_previous: 'zurück'
+  wording_built_with: 'Erstellt mit'
+  wording_built_using: 'unter Verwendung eines'
+  wording_built_theme: 'Themes'
+  wording_theme_by: 'von'
 
 extra_css:
     - css/extra.css
