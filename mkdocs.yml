@@ -6,6 +6,14 @@ site_author: 'Deutsche Digitale Bibliothek, Culture to Go & Grandgeorg Websoluti
 # Copyright
 copyright: 'Copyright &copy; 2017 Deutsche Digitale Bibliothek, Culture to Go, Grandgeorg Websolutions'
 
+# Layout wording
+wording_next: 'vor'
+wording_previous: 'zurück'
+wording_built_with: 'Erstellt mit'
+wording_built_using: 'unter Verwendung eines'
+wording_built_theme: 'Themes'
+wording_theme_by: 'von'
+
 # Structure
 pages:
     - Start: index.md
@@ -15,7 +23,7 @@ pages:
     - B Virtuelle Ausstellungen Erstellen:
       - 1. Das Omeka Backend: backend.md
       - 2. Objekte in Omeka: erstellen.md
-      - 3. Die Ausstellung anlegen: ausstellung_anlegen.md 
+      - 3. Die Ausstellung anlegen: ausstellung_anlegen.md
       - 4. Ausstellungsseiten anlegen: seiten_anlegen.md
     - C Anhang: anhang.md
 
