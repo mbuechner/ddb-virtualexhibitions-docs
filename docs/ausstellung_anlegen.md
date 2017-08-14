@@ -16,7 +16,7 @@ Im Feld „Slug“ (Abb. 3.2, <span class="red-circle">2</span>) geben Sie an, m
 
 Die folgenden Felder können Sie nutzen, um ergänzende Inhalte am rechten Rand Ihrer Ausstellung (Widgets in der Marginalspalte) zu platzieren. Dazu stehen drei Kästen zur Verfügung, vor dem untersten Kasten können Sie zusätzlich ein Logo für Ihre Ausstellung einbinden.
 
-Das erste Widget („Oberster Kasten in der Marginalspalte“, Abb. B.3.3, <span class="red-circle">1</span>) ist für Angaben zu den beteiligten Institutionen reserviert. In der Regel steht hier:
+Das erste Widget („Oberster Kasten in der rechten Marginalspalte“, Abb. B.3.3, <span class="red-circle">1</span>) ist für Angaben zu den beteiligten Institutionen reserviert. In der Regel steht hier:
 
 „Eine virtuelle Ausstellung der Deutschen Digitalen Bibliothek
 
@@ -32,7 +32,7 @@ Das zweite Widget („Mittlerer Kasten in der rechten Marginalspalte“, <span c
 
 Im Feld „Logo der Ausstellung“ (Abb. B.3.4, <span class="red-circle">1</span>) können Sie auf Wunsch eine Grafikdatei (.jpg, .gif oder .png) mit dem Logo Ihrer Institution hochladen – maximale Breite: 160px, maximale Höhe: 100px. Bei Problemen mit der Lesbarkeit Ihres Logos in dieser Größe setzen Sie sich bitte mit Ihrer Ansprechperson bei der Deutschen Digitalen Bibliothek in Verbindung.
 
-Das unterste Inhaltswidget (<span class="red-circle">2</span>) soll den Nutzerinnen und Nutzern einen schnellen Zugriff auf Informationen zur virtuellen Ausstellung geben. Im Beispiel der Ausstellung „Zu Mythen und Monumenten“ ist dies eine Liste von drei Textlinks zu den Seiten „Literaturhinweise“, „Ausstellungsteam“ und „Inhalt“. Da Sie in Ihrer Ausstellung noch keine Seiten angelegt haben und noch nicht mit dem Texteditor vertraut sind, sollten Sie dieses Feld erst später ausfüllen.
+Das letzte Widget („Unterster Kasten in der rechten Marginalspalte“, <span class="red-circle">2</span>) soll den Nutzerinnen und Nutzern einen schnellen Zugriff auf Informationen zur virtuellen Ausstellung geben. Im Beispiel der Ausstellung „Zu Mythen und Monumenten“ ist dies eine Liste von drei Textlinks zu den Seiten „Literaturhinweise“, „Ausstellungsteam“ und „Inhalt“. Da Sie in Ihrer Ausstellung noch keine Seiten angelegt haben und noch nicht mit dem Texteditor vertraut sind, sollten Sie dieses Feld erst später ausfüllen.
 
 !![Abb. B.3.4 Eingabefelder zu Ausstellungslogo und unterem Widget][B-3-4]
 
