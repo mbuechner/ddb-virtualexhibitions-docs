@@ -1,7 +1,8 @@
 ## B.2 Objekte in einer DDBstudio-Ausstellung anlegen
 
-Die Grundbausteine einer DDBstudio-Ausstellung sind die Objekte, die ‚Exponate‘ der virtuellen Ausstellung. Aus Sicht der NutzerInnen, die Ihre Ausstellung im Internet besuchen, sind Objekte die Medien (Bilder, Videos, Audio-Clips, 3D-Objekte), die Sie auf den Ausstellungsseiten präsentieren. Das Datenmodell der Ausstellungs-Software ist etwas differenzierter: Ein Objekt bezeichnet hier nicht einfach das Digitalisat eines realen Objekts, sondern es beschreibt das reale Objekt (z. B. ein Buch, ein archivalisches Dokument) vermittels Metadaten. Die Entsprechung in einer vordigitalen Bibliothek zu einem Objekt in einer DDBstudio-Ausstellung wäre eine Karteikarte im Katalog – also nicht das Medium selbst. 
-Wenn Sie das Objekt mit Hilfe von Metadaten beschrieben haben, sollten Sie es in einem zweiten Schritt mit (meist) einer Dateien verknüpfen, die dieses Objekt digital repräsentiert. Im klassischen Fall eines digitalisierten Realbestandes sind dies Scans oder Fotos, es kann sich aber auch um ein Video, eine Tonaufnahme oder ein 3D-Modell handeln. Objekt und Digitalisat(e) sind also logisch getrennte Einheiten – das gilt auch für genuin digitale Objekte wie etwa Videos oder Tonaufnahmen.
+Die Grundbausteine einer DDBstudio-Ausstellung sind die Objekte, die ‚Exponate‘ der virtuellen Ausstellung. Aus Sicht der NutzerInnen, die Ihre Ausstellung im Internet besuchen, sind Objekte die Medien (Bilder, Videos, Audio-Clips, 3D-Objekte), die Sie auf den Ausstellungsseiten präsentieren. Das Datenmodell der Ausstellungs-Software ist etwas differenzierter: Ein Objekt bezeichnet hier nicht einfach das Digitalisat eines realen Objekts, sondern es beschreibt das reale Objekt (z. B. ein Buch, ein archivalisches Dokument) vermittels Metadaten. Die Entsprechung in einer vordigitalen Bibliothek zu einem Objekt in einer DDBstudio-Ausstellung wäre eine Karteikarte im Katalog – also nicht das Medium selbst.
+
+Wenn Sie das Objekt mit Hilfe von Metadaten beschrieben haben, sollten Sie es in einem zweiten Schritt mit einer Datei verknüpfen, die dieses Objekt digital repräsentiert. Im klassischen Fall eines digitalisierten Realbestandes sind dies Scans oder Fotos, es kann sich aber auch um ein Video, eine Tonaufnahme oder ein 3D-Modell handeln. Objekt und Digitalisat(e) sind also logisch getrennte Einheiten – das gilt auch für genuin digitale Objekte wie etwa Videos oder Tonaufnahmen.
 
 ## B.2.1. Objekte hinzufügen
 
@@ -37,7 +38,7 @@ Um die Bearbeitung fortsetzen zu können, rufen Sie über die Schaltfläche „B
 
 ### B.2.3.1 Verknüpfen mit einer Bild- oder Audiodatei
 
-Sie können nun eine Datei mit dem Objekt verknüpfen. Wenn es sich um eine Bilddatei handelt, wird sie im Frontend als Vorschaubild und in der Lightbox im Großformat angezeigt. Verknüpfen Sie eine Audiodatei mit dem Objekt, erscheint auf der Ausstellungsseite ein entsprechendes Symbol, über das ein Audioplayer geöffnet wird, mit dem die Nutzer den Audioclip anhören können.
+Sie können nun eine Datei mit dem Objekt verknüpfen. Wenn es sich um eine Bilddatei handelt, wird sie im Frontend als Vorschaubild und in der Lightbox im Großformat angezeigt. Verknüpfen Sie eine Audiodatei mit dem Objekt, erscheint auf der Ausstellungsseite ein entsprechendes Symbol, über das ein Audioplayer geöffnet wird, mit dem die NutzerInnen den Audioclip anhören können.
 Welche Bild- und Audio-Dateiformate Sie verwenden können, finden Sie direkt im Backend erläutert. Die wichtigste Information: Sie können keine PDF-Dateien einbinden.
 
 !![Abb. B.2.6 Tab „Dateien“ der Seite „Objekt … bearbeiten“][B-2-6]
@@ -58,7 +59,7 @@ Die Software sieht auch die Möglichkeit vor, Videodateien direkt mit einem Obje
 
 In einem ersten Schritt müssen Ihre Videodateien bei einer der beiden unterstützten Videoplattformen hochgeladen werden: In der Deutschen Digitalen Bibliothek (DDB) oder auf Vimeo. Wenden Sie sich dazu bitte an Ihre Ansprechperson bei der Deutschen Digitalen Bibliothek.
 
-Die Verknüpfung mit dem Objekt erfolgt nun über das Metadatenfeld „Videoquelle“ (Abb. B.2.8), wo ein „Shortcode“ eingetragen wird. Über die Schaltfläche „Video-Shortcode-Helfer“ (<span class="red-circle">1</span>) können Sie die notwendigen Angaben bequem über Dialogfelder eingeben.
+Die Verknüpfung mit dem Objekt erfolgt nun über das Metadatenfeld „Videoquelle“ (Abb. B.2.8), wo ein so genannter Shortcode eingetragen wird. Über die Schaltfläche „Video-Shortcode-Helfer“ (<span class="red-circle">1</span>) können Sie die notwendigen Angaben bequem über Dialogfelder eingeben.
 
 !![Abb. B.2.8 Einbindung eines Videos über das Metadatenfeld „Videoquelle“][B-2-8]
 
@@ -72,11 +73,11 @@ In der Dialogbox „Video-Shortcode bearbeiten“ (Abb. B.2.9) stellen Sie zunä
 
 Die Software sieht vor, dass Objekte mit beliebig vielen Dateien verknüpft werden können. Nun wird in der Frontend-Darstellung auf den Ausstellungsseiten immer nur eine Datei angezeigt. Erst wenn die NutzerInnen das Objekt in der Lightbox aufrufen, werden auch die weiteren Abbildungen ausgegeben. In Ausnahmefällen kann das sinnvoll sein, normalerweise sollten aber alle gezeigten Abbildungen auf den Ausstellungsseiten selbst erscheinen. Wollen Sie also beispielsweise mehrere Seiten eines Dokuments anzeigen, legen Sie für jede Seite ein eigenes Objekt an und verknüpfen diese mit den entsprechenden Grafikdateien.
 
-Es besteht aber auch die Möglichkeit, solche Objekte außerhalb des Layout-Rahmens der Ausstellung in einem „Bookviewer“ anzeigen zu lassen, der das Blättern durch die verschiedenen Seiten eines Dokuments, die Blätter einer Grafikfolge etc. ermöglicht. Der Bookviewer öffnet sich in einem neuen Fenster, das er ganz ausfüllt. Nutzerinnen und Nutzer können hier die Seiten des Heftes durchblättern und sich so das gesamte umfangreiche Dokument anschauen (Abb. B.2.10).
+Es besteht aber auch die Möglichkeit, solche Objekte außerhalb des Layout-Rahmens der Ausstellung in einem  so genannten Bookviewer anzeigen zu lassen, der das Blättern durch die verschiedenen Seiten eines Dokuments, die Blätter einer Grafikfolge etc. ermöglicht. Der Bookviewer öffnet sich in einem neuen Fenster, das er ganz ausfüllt. Nutzerinnen und Nutzer können hier die z. B. Seiten des Objektes durchblättern und sich so das gesamte umfangreiche Dokument anschauen (Abb. B.2.10).
 
 !![Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments][B-2-10]
 
-Legen Sie für ein Konvolut, das Sie mit dem Bookviewer darstellen möchten, immer ein eigenes Objekt an, auch wenn Sie beispielsweise dessen  einzelne Blätter bereits als Objekt angelegt haben.
+Legen Sie für ein Konvolut, das Sie mit dem Bookviewer darstellen möchten, immer ein eigenes Objekt an, auch wenn Sie beispielsweise dessen  einzelne Blätter bereits als Objekte angelegt haben.
 
 Nachdem Sie im Tab „Dateien“ das Objekt mit einer ersten Datei verknüpft haben, können Sie im Kasten „Neue Dateien hinzufügen“ die nächste Abbildung einbinden (Abb. B.2.11, <span class="red-circle">1</span>). Über die Schaltfläche „Weitere Datei hinzufügen“ (<span class="red-circle">2</span>) erzeugen Sie einen neuen „Durchsuchen…“-Button für die nächste Grafik-Datei.
 
@@ -102,7 +103,7 @@ Für das Einfügen von 3D-Dateien steht auf der Seite „Objekt … bearbeiten�
 
 ## B.2.4 Objekte suchen
 
-DDBstudio bietet Ihnen mehrere Möglichkeiten, ein bestimmtes Objekt in der Liste der angelegten Objekte schnell und komfortabel zu finden. Über den Button „Objekte suchen“ über der Objektliste gelangen Sie auf die Seite „Objekte suchen“ (Abb. B.2.14).
+DDBstudio bietet Ihnen mehrere Möglichkeiten, ein bestimmtes Objekt in der Liste der angelegten Objekte schnell und komfortabel zu finden. Mit Hilfe des Buttons „Objekte suchen“ über der Objektliste gelangen Sie auf die Seite „Objekte suchen“ (Abb. B.2.14).
 
 !![Abb. B.2.14 Die Suchmaske der Objektsuche][B-2-14]
 
