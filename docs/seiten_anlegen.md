@@ -6,11 +6,13 @@ Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausste
 
 !![Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“][B-4-1]
 
-Auf der Seite „Seite hinzufügen“ gelangen Sie zunächst zu einer Eingabemaske für die Metadaten der Ausstellungsseite (Abb. B.4.2). Der Titel (<span class="red-circle">1</span>) erscheint in der Frontend-Ausgabe links oben über den Inhalten der Seite, direkt unter der grafischen Seitennavigation. Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolge an, die am Ende der URL erscheinen soll, wenn ein Nutzer die Ausstellungsseite in seinem Browser aufruft. Bitte beachten Sie unbedingt die Regeln und Konventionen, die wir im Abschnitt zu den Metadaten der Ausstellung erläutert haben (Abschnitt 3). Es empfiehlt sich, hier aussagekräftige Begriffe zu verwenden, um die Auffindbarkeit der Inhalte für Suchmaschinen zu optimieren. Sie können dieses Feld auch leer lassen, dann erstellt Omeka, sobald sie „Änderungen übernehmen“ klicken (<span class="red-circle">3</span>) einen Slug aus dem Titel der Seite, den Sie bei Bedarf später anpassen können.
+Auf der Seite „Seite hinzufügen“ gelangen Sie zunächst zu einer Eingabemaske für die Metadaten der Ausstellungsseite (Abb. B.4.2). Der Titel (<span class="red-circle">1</span>) erscheint in der Frontend-Ausgabe links oben über den Inhalten der Seite, direkt unter der grafischen Seitennavigation. 
+
+Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolge an, die am Ende der URL erscheinen soll, wenn die NutzerInnen die Ausstellungsseiten in ihrem Browser aufrufen. Bitte beachten Sie unbedingt die Regeln und Konventionen, die wir im Abschnitt zu den Metadaten der Ausstellung erläutert haben (Abschnitt 3). Es empfiehlt sich, hier aussagekräftige Begriffe zu verwenden, um die Auffindbarkeit der Inhalte für Suchmaschinen zu optimieren. Sie können dieses Feld auch leer lassen, dann erstellt Omeka, sobald Sie „Änderungen übernehmen“ klicken (<span class="red-circle">3</span>) einen Slug aus dem Titel der Seite; Sie können ihn bei Bedarf später anpassen.
 
 !![Abb. B.4.2 Die Metadaten der Ausstellungsseite - Titel und Slug ][B-4-2]
 
-Das Feld „Widget Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bietet Ihnen die Möglichkeit, in der rechten Sidebar der Ausstellungsseite einen Kasten mit Inhalten zu platzieren. Er erscheint über dem ersten Inhaltswidget der Ausstellung und ggf. über dem zweiten Inhaltswidget (vgl. Abb. A.2, d).
+Das Feld „Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bietet Ihnen die Möglichkeit, in der rechten Sidebar der Ausstellungsseite einen Kasten mit Inhalten zu platzieren. Er erscheint über dem ersten Inhaltswidget der Ausstellung und ggf. über dem zweiten Inhaltswidget (vgl. Abb. A.2, d).
 
 Gedacht ist dieser Bereich für Querverlinkungen und weiterführende Informationen. Für alle wesentlichen Informationen verwenden Sie bitte den Inhaltsbereich der Seite.
 
