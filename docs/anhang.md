@@ -38,13 +38,13 @@ Offizielle Bezeichnung der Institution, die das Objekt besitzt
 Internet-Präsenz der Institution, die das Objekt besitzt  
 **Ausgabe** als Ziel hinter dem verlinkten Namen der Institution: Objekt-Detailseite; Lightbox
 
-##### URL des Objekts in der DDB
+##### Link zum Objekt in der DDB
 
 URL des Objekts im Portal der DDB. Wichtig: Die korrekte URL erhalten Sie nur, indem Sie das Objekt in der Deutschen Digitalen Bibliothek aufrufen und dort auf der Objektseite auf den Link „Link auf diese Seite“ klicken, der direkt über dem Titel des Objekts zu finden ist.  
 **Ausgabe**: Objekt-Detailseite  
 **Anmerkung**: Wenn das Objekt in der Deutschen Digitalen Bibliothek zu finden ist, bitte unbedingt dieses Feld benutzen (und **nicht** das Feld „Link zum Objekt bei der datengebenden Institution“). Bitte kopieren Sie **nicht** die aktuelle URL aus der Adresszeile Ihres Browsers, sondern verwenden Sie immer die stabile URL, die stets in etwa so aussieht: https://www.deutsche-digitale-bibliothek.de/item/XNVHWXKSHKH6O5SYXM22ZBW25PQG4JFE.
 
-##### URL des Objekts bei der datengebenden Institution
+##### Link zum Objekt bei der datengebenden Institution
 
 URL des Objektss in der Datenbank oder auf der Website der Institution, die das Objekt besitzt   
 **Ausgabe**: Objekt-Detailseite; Lightbox (Ziel des Links „zum Objekt“)  
