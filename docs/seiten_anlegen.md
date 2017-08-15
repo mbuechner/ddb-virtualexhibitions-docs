@@ -112,7 +112,7 @@ Das Einfügen eines Objekts erfolgt über die Schaltfläche „Objekt hinzufüge
 
 Sie können die Liste aller Objekte durchblättern, um das gewünschte Objekt auszuwählen und über die Schaltfläche „Ausgewähltes Objekt hinzufügen“ in die Ausstellungsseite einzubinden.
 
-Nach dem Einfügen des Objekts ist die Anzeige des Objekt-Inhaltselements erweitert (Abb. B.4.15). Oben links erscheint der Titel des Objekts und Vorschaubild (<span class="red-circle">a</span>). Darunter bietet ein Editor die Möglichkeit, eine Bildunterschrift einzufügen (<span class="red-circle">b</span>). Wenn Sie das Objekt von Ihrer Ausstellungs-Seite wieder entfernen möchten, klicken Sie auf die Schaltfläche „Dieses Objekt entfernen“ (<span class="red-circle">c</span>). Vorsicht: Das Objekt wird sofort und endgültig gelöscht, ohne dass Sie noch einmal um eine Bestätigung gebeten werden.
+Nach dem Einfügen des Objekts ist die Anzeige des Objekt-Inhaltselements erweitert (Abb. B.4.16). Oben links erscheint der Titel des Objekts und Vorschaubild (<span class="red-circle">a</span>). Darunter bietet ein Editor die Möglichkeit, eine Bildunterschrift einzufügen (<span class="red-circle">b</span>). Wenn Sie das Objekt von Ihrer Ausstellungs-Seite wieder entfernen möchten, klicken Sie auf die Schaltfläche „Dieses Objekt entfernen“ (<span class="red-circle">c</span>). Vorsicht: Das Objekt wird sofort und endgültig gelöscht, ohne dass Sie noch einmal um eine Bestätigung gebeten werden.
 
 !![Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild][B-4-16]
 
@@ -126,7 +126,7 @@ Denken Sie bitte auch daran zu überprüfen, wie die Angaben zu den Objekten ers
 
 ##### Praxistipp: Frontend-Tabs immer wieder schließen
 
-Wenn Sie von der Frontend-Darstellung ins Backend zurückwechseln, Änderungen an der Seite vornehmen, diese abspeichern (<span class="red-circle">2</span>) und wieder auf „Öffentliche Seite anzeigen“ (<span class="red-circle">3</span>) klicken, öffnet sich ein weiterer Browser-Tab mit der aktualisierten Vorschau. Nach einer Reihe von Wiederholungen verlieren Sie leicht den Überblick, welche Frontend-Darstellung dem aktuellen Stand Ihrer editorischen Arbeit entspricht. Wir empfehlen deshalb, den Vorschau-Tab immer gleich wieder zu schließen, nachdem Sie die Frontend-Ausgabe überprüft haben.
+Wenn Sie von der Frontend-Darstellung ins Backend zurückwechseln, Änderungen an der Seite vornehmen, diese abspeichern (<span class="red-circle">1</span>) und wieder auf „Seite anzeigen“ (<span class="red-circle">2</span>) klicken, öffnet sich ein weiterer Browser-Tab mit der aktualisierten Vorschau. Nach einer Reihe von Wiederholungen verlieren Sie leicht den Überblick, welche Frontend-Darstellung dem aktuellen Stand Ihrer editorischen Arbeit entspricht. Wir empfehlen deshalb, den Vorschau-Tab immer gleich wieder zu schließen, nachdem Sie die Frontend-Ausgabe überprüft haben.
 
 Sie können nach Abschluss Ihrer Arbeiten an der aktuellen Seite einfach eine neue Seite anlegen, indem Sie auf die Schaltfläche „Änderungen übernehmen und neue Seite hinzufügen“ (<span class="red-circle">3</span>) klicken. Oder Sie wechseln auf die Ausstellungsseite zurück – am einfachsten durch einen Klick auf den Ausstellungstitel in der Breadcrumb-Navigation am oberen Rand des Formulars – und fügen neue Seiten hinzu, wie bei der ersten Seite über die Schaltfläche „Neue Seiten hinzufügen“ (Abb. 4.1).
 
@@ -134,16 +134,16 @@ Sie können nach Abschluss Ihrer Arbeiten an der aktuellen Seite einfach eine ne
 
 #### B.4.4.1 Änderung der Reihenfolge
 
-Die von Ihnen bereits angelegten Seiten erscheinen auf der Seite „Ausstellung …“ als beigefarbene, mit dem Seitentitel beschriftete Balken. Mit diesen Balken können Sie die Anordnung Ihrer Seiten ganz einfach und intuitiv per „Drag & Drop“ anpassen. 
-Fahren Sie dazu mit dem Mauszeiger über den Balken der betreffenden Seite (nicht über den Titel oder das „x“). Der Zeiger Ihrer Maus ändert sich dabei von einem einfachen Pfeil zu einem Vier-Wege-Pfeil. Halten Sie nun die linke Maustaste gedrückt, können Sie den Balken verschieben (Abb. 4.15, 1). 
+Die von Ihnen bereits angelegten Seiten erscheinen auf der Seite „Ausstellung …“ als blassgraue, mit dem Seitentitel beschriftete Balken. Mit diesen Balken können Sie die Anordnung Ihrer Seiten ganz einfach und intuitiv per „Drag & Drop“ anpassen. 
+Fahren Sie dazu mit dem Mauszeiger über den Balken der betreffenden Seite (nicht über den Titel oder das „x“). Der Zeiger Ihrer Maus ändert sich dabei von einem einfachen Pfeil zu einem Vier-Wege-Pfeil. Wenn Sie nun die linke Maustaste gedrückt halten, können Sie den Balken verschieben (Abb. 4.17). 
 
-!![Abb. B.4.16 Sortieren der Ausstellungsseiten durch Drag and Drop][B-4-16]
+!![Abb. B.4.17 Sortieren der Ausstellungsseiten per Drag and Drop][B-4-17]
 
-Positionieren Sie den Balken an die gewünschte Stelle und geben die linke Maustaste wieder frei. Die geänderte Reihenfolge wird nun angezeigt – Sie haben die Seiten umsortiert. Diese Änderungen werden allerdings erst übernommen, wenn Sie Ihre Ausstellung speichern. Vergessen Sie also nicht, nach dem Umsortieren auf die Schaltfläche „Änderungen übernehmen“ (2) zu klicken.
+Positionieren Sie den Balken an die gewünschte Stelle und geben die linke Maustaste wieder frei. Die geänderte Reihenfolge wird nun angezeigt – Sie haben die Seiten umsortiert. Diese Änderungen werden allerdings erst übernommen, wenn Sie Ihre Ausstellung speichern. Vergessen Sie also nicht, nach dem Umsortieren auf die Schaltfläche „Änderungen übernehmen“ (<span class="red-circle">1</span>) zu klicken.
 
 #### B.4.4.2 Seiten löschen
 
-Um eine Seite aus Ihrer Ausstellung zu entfernen, können Sie in der der Seitenliste auf das „x“ am rechten Rand des entsprechenden Balkens klicken (Abb. 4.17, a - 1). Die Seite ist dann zum Löschen vorgemerkt – der Balken ist nun braun hinterlegt und aus dem „x“ ist ein Rückgängigmachen-Pfeil geworden (b). Erst nachdem Sie Ihre Eingaben mit „Änderungen übernehmen“ (2) gespeichert haben, wird die Seite – dann allerdings unwiderruflich – gelöscht und der Balken verschwindet aus der Liste. Wenn Sie im braunen Balken auf das Pfeilsymbol klicken oder die Seite „Ausstellung …“ verlassen, ohne gespeichert zu haben, bleiben die zur Löschung vorgemerkten Seiten erhalten.
+Um eine Seite aus Ihrer Ausstellung zu entfernen, können Sie in der der Seitenliste auf das „x“ am rechten Rand des entsprechenden Balkens klicken (Abb. 4.18, <span class="red-circle">1</span>). Die Seite ist dann zum Löschen vorgemerkt – der Balken ist nun braun hinterlegt und aus dem „x“ ist ein Rückgängigmachen-Pfeil geworden. Erst nachdem Sie Ihre Eingaben mit „Änderungen übernehmen“ (<span class="red-circle">2</span>) gespeichert haben, wird die Seite – dann allerdings unwiderruflich – gelöscht und der Balken verschwindet aus der Liste. Wenn Sie im braunen Balken auf das Pfeilsymbol klicken oder die Seite „Ausstellung …“ verlassen, ohne gespeichert zu haben, bleiben die zur Löschung vorgemerkten Seiten erhalten.
 
 !![Abb. B.4.18 Seiten aus der Seitenliste löschen][B-4-18]
 
@@ -151,15 +151,15 @@ Um eine Seite aus Ihrer Ausstellung zu entfernen, können Sie in der der Seitenl
 
 Als webbasiertes Content-Management-System ist die Ausstellungs-Software sehr flexibel, was den Workflow bei der Erstellung von virtuellen Ausstellungen angeht. Sie können die Ausstellung Seite für Seite erarbeiten oder beispielsweise erst alle Seiten anlegen und diese später und in beliebiger Reihenfolge mit Objekten und Texten befüllen. Und selbstverständlich bleiben alle Inhalte bis zur Veröffentlichung auf der Website der Deutschen Digitalen Bibliothek editierbar. 
 
-Solange Sie bestehende Seiteninhalte editieren oder neue hinzufügen, gelten die Hinweise, die wir im Kapitel „Inhalte einstellen“ gegeben haben.
+Solange Sie bestehende Seiteninhalte editieren oder neue hinzufügen, gelten die Hinweise, die Sie im Abschnitt „Inhalte einstellen“ (B.4.3) gelesen haben.
 
-Leider bietet die Software kein einfaches Verfahren, um die Anordnung der Objekte auf der Seite zu verändern, also etwa ein Galeriebild zum Hauptbild zu machen, die Reihenfolge der Galeriebilder anzupassen oder ein neues Galeriebild zwischenzuschieben. Anzahl und Anordnung der Inhaltselemente (vgl. Abb. 4.20, die in blauen Kästchen durchnummerierten Boxen) ist fix, Sie können Sie nur mit Objekten belegen oder diese entfernen.
+Leider bietet die Software kein einfaches Verfahren, um die Anordnung der Objekte auf der Seite zu verändern, also etwa ein Galeriebild zum Hauptbild zu machen, die Reihenfolge der Galeriebilder anzupassen oder ein neues Galeriebild zwischenzuschieben. Anzahl und Anordnung der Inhaltselemente (vgl. Abb. B.4.19 und B.4.20, die in blauen Kästchen durchnummerierten Boxen) ist fix, Sie können Sie nur mit Objekten belegen oder diese entfernen.
 
 Um es an einem Beispiel zu verdeutlichen: Wenn Sie in einer Galerie mit 7 Objekten an Stelle 4 ein neues Objekt einfügen möchten, entfernen Sie an Stelle 4, 5, 6 und 7 die Objekte, fügen anschließend an Stelle 4 das neue und an Stelle 5, 6, 7 und 8 die folgenden Objekte ein. 
 
 Es empfiehlt sich also, beim Anlegen von Objektsequenzen gründlich zu planen und systematisch vorzugehen. Andererseits ist das Entfernen und Hinzufügen von Objekten mit wenigen Klicks erledigt, lassen Sie sich also nicht zu sehr in Ihrer Experimentierfreude oder Ihrem Optimierungsbedürfnis einschränken. Wenn die Änderungen Hauptbilder betreffen, sollten Sie bereits eingestellte Bildunterschriften in einer Textdatei zwischenspeichern, da diese beim Entfernen eines Objekts verloren gehen.
 
-Änderungen an den Metadaten der Seite sind unproblematisch. Auch ein Wechsel des ausgewählten Layouts (vgl. Abb. 4.2, 4) ist möglich. Dabei ist allerdings zu bedenken, dass sich ein solcher Layout-Wechsel auf die Organisation der Inhalte auf der Ausstellungsseite auswirkt.
+Änderungen an den Metadaten der Seite sind unproblematisch. Auch ein Wechsel des ausgewählten Layouts (vgl. Abb. 4.2, 3) ist möglich. Dabei ist allerdings zu bedenken, dass sich ein solcher Layout-Wechsel auf die Organisation der Inhalte auf der Ausstellungsseite auswirkt.
 
 Die Software Omeka verhält sich bei einem Layout-Wechsel insofern „robust“, als es bestehende Inhalte den Inhaltselementen des neuen Layouts zuordnet. Dabei kann es zu unerwünschten, chaotischen Veränderungen bei den Eingabemasken kommen, vor allem, wenn Inhaltselemente aus den zweispaltigen Bereichen unterhalb der Objekte im neuen Template keine Entsprechung haben.
 
@@ -167,13 +167,13 @@ Die Software Omeka verhält sich bei einem Layout-Wechsel insofern „robust“,
 
 Am einfachsten ist es, wenn Sie ohne Layout-Wechsel auskommen. Machen Sie sich bereits in der Planungsphase mit den verfügbaren Layouts vertraut und wählen Sie ein geeignetes Layout für die betreffende Seite.
 
-Der Wechsel zwischen verwandten Layouts (z.B. Layout 1 und 2, Layout 4 und 6) bereitet in der Regel keine Probleme.
+Der Wechsel zwischen verwandten Layouts (z. B. Layout 1 und 2, Layout 4 und 6) bereitet in der Regel keine Probleme.
 
 Hat ein Layout-Wechsel das Schema der Eingabefelder auf unerwünschte Weise verändert, empfehlen wir, die Seite mit dem gewünschten Layout neu anzulegen, mit den Inhalten zu befüllen und die alte Seite zu löschen.
 
 #### B.4.4.4 Zweispaltiger Texte
 
-Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text links, Objekte rechts oder umgekehrt (bei Layout 5 alternierend). Das Layout 3 (Galerie) präsentiert die Textblöcke und die Bildergalerie jeweils über die gesamte Breite des Content-Bereichs. Da Textzeilen von mehr als 100 Zeichen Länge mühsam zu lesen währen, ist der Text hier zweispaltig gesetzt. Die Aufteilung auf die beiden Spalten erfolgt im Browser des Nutzers automatisch, wobei sich der Spaltenumbruch an die – durch die Breite des Browserfensters bedingte – Breite des Content-Bereichs anpasst. 
+Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text links, Objekte rechts oder umgekehrt (bei Layout 5 alternierend). Das Layout 3 (Galerie) präsentiert die Textblöcke und die Bildergalerie jeweils über die gesamte Breite des Content-Bereichs. Da Textzeilen von mehr als 100 Zeichen Länge mühsam zu lesen wären, ist der Text hier zweispaltig gesetzt. Die Aufteilung auf die beiden Spalten erfolgt im Browser des Nutzers automatisch, wobei sich der Spaltenumbruch an die – durch die Breite des Browserfensters bedingte – Breite des Content-Bereichs anpasst. 
 
 !!!note "Der Spaltenumbruch muss automatisch erfolgen"
 
@@ -181,7 +181,7 @@ Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text
 
 !![Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift][B-4-19]
 
-Für die Eingabe des zweispaltigen Textblocks **unter** der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. B.4.19, <span class="red-circle">1</span>). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert. Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollten Sie dem Text der Überschrift ein Überschriften-Format zuweisen. Im Folgenden Feld (Abb. B.4.19, <span class="red-circle">2</span>) können Sie den Text eingeben, der - wie der Text oberhalb der Vorschaubilder-Galerie - im Frontend automatisch zweispaltig ausgegeben wird.
+Für die Eingabe des zweispaltigen Textblocks **unter** der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. B.4.19, <span class="red-circle">1</span>). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert. Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollten Sie dem Text der Überschrift ein Überschriften-Format zuweisen. Im folgenden Feld (<span class="red-circle">2</span>) können Sie den Text eingeben, der – wie der Text oberhalb der Vorschaubilder-Galerie – im Frontend automatisch zweispaltig ausgegeben wird.
 
 ##### Praxistipp: Halten Sie zweispaltige Textblöcke kurz!
 
@@ -197,13 +197,13 @@ Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig geset
 
 ##### Praxistipp: Keep it short and simple!
 
-Die zuletzt beschriebene Layoutvariante mit einer Textspalte links neben und einer Spalte rechts unter den Objekten plus zweispaltigen Textblöcken im unteren Bereich der Ausstellungsseite ist die komplexeste Zusammenstellung von Texten und Bildern, die das Online-Tool ermöglicht - komplex für Sie bei der Erstellung, aber eben auch für die Nutzerin oder den Nutzer. Fragen Sie sich deshalb bitte immer, bevor Sie diese Möglichkeit nutzen, ob Sie die Inhalte nicht besser auf mehrere Ausstellungsseiten aufteilen. Kurze, einfach strukturierte Seiten lassen sich besser erfassen und machen den Besuch Ihrer virtuellen Ausstellung mehr vergnüglich als fordernd. Wenn Sie durch eine solche Aufteilung dieselben Objekte auf mehreren Seiten einbinden müssen, ist das technisch kein Problem und unter Umständen auch inhaltlich bereichernd.
+Die zuletzt beschriebene Layoutvariante mit einer Textspalte links neben und einer Spalte rechts unter den Objekten plus zweispaltigen Textblöcken im unteren Bereich der Ausstellungs-Seite ist die komplexeste Zusammenstellung von Texten und Bildern, die das Online-Tool ermöglicht – komplex für Sie bei der Erstellung, aber eben auch für die Nutzerin oder den Nutzer. Fragen Sie sich deshalb bitte immer, bevor Sie diese Möglichkeit nutzen, ob Sie die Inhalte nicht besser auf mehrere Ausstellungs-Seiten aufteilen. Kurze, einfach strukturierte Seiten lassen sich besser erfassen und machen den Besuch Ihrer virtuellen Ausstellung mehr vergnüglich als fordernd. Wenn Sie durch eine solche Aufteilung dieselben Objekte auf mehreren Seiten einbinden müssen, ist das technisch kein Problem und unter Umständen auch inhaltlich bereichernd.
 
 #### B.4.4.5 Der Apparat – Literatur, Team, Inhalt
 
 Als letzten Teil einer Ausstellung ist ein Apparat mit ergänzenden Informationen, der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt.
 
-Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungsseiten mit einer kurzen Einleitung (Abb. B.4.21, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.22, <span class="red-circle">1</span>) versehen.
+Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungs-Seiten mit einer kurzen Einleitung (Abb. B.4.21, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.22, <span class="red-circle">1</span>) versehen.
 
 !![Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis][B-4-21]
 
@@ -227,14 +227,13 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt 4.1) ist hi
 [B-4-9]: img/B-4-9.jpg "Abb. B.4.9 Layout 6 – Bilder rechts"
 [B-4-10]: img/B-4-10.jpg "Abb. B.4.10 Layout 7 – große, fortlaufende Bilder rechts"
 [B-4-11]: img/B-4-11.jpg "Abb. B.4.11 Layout 8 – kleine, fortlaufende Bilder rechts"
-[B-4-12]: img/B-4-12.jpg "Abb. B.4.12 Die Seite „Inhalt der Seite … bearbeiten“"
-[B-4-13]: img/B-4-13.jpg "Der Texteditor"
+[B-4-13]: img/B-4-13.jpg "Abb. B.4.13 Der Texteditor"
 [B-4-14]: img/B-4-14.jpg "Abb. B.4.14 Objekt hinzufügen"
 [B-4-15]: img/B-4-15.jpg "Abb. B.4.15 Dialogfenster „Objekt hinzufügen“"
 [B-4-16]: img/B-4-16.jpg "Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild"
-[B-4-17]: img/B-4-17.jpg "Abb. 4.17 Abb. B.4.16 Sortieren der Ausstellungsseiten durch Drag and Drop"
+[B-4-17]: img/B-4-17.jpg "Abb. B.4.17 Sortieren der Ausstellungsseiten durch Drag and Drop"
 [B-4-18]: img/B-4-18.jpg "Abb. B.4.18 Seiten aus der Seitenliste löschen"
-[B-4-19]: img/B-4-19.jpg "Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift"
+[B-4-19]: img/B-4-19.jpg "Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten – unterer Textblock mit Überschrift"
 [B-4-20]: img/B-4-20.jpg "Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte"
 [B-4-21]: img/B-4-21.jpg "Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis"
 [B-4-22]: img/B-4-22.jpg "Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis"
