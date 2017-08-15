@@ -12,7 +12,7 @@ Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolg
 
 !![Abb. B.4.2 Die Metadaten der Ausstellungsseite - Titel und Slug ][B-4-2]
 
-Das Feld „Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bietet Ihnen die Möglichkeit, in der rechten Sidebar der Ausstellungsseite einen Kasten mit Inhalten zu platzieren. Er erscheint über dem ersten Inhaltswidget der Ausstellung und ggf. über dem zweiten Inhaltswidget (vgl. Abb. A.2, d).
+Das Feld „Widget Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bietet Ihnen die Möglichkeit, in der rechten Sidebar der Ausstellungsseite einen Kasten mit Inhalten zu platzieren. Er erscheint über dem ersten Inhaltswidget der Ausstellung und ggf. über dem zweiten Inhaltswidget (vgl. Abb. A.2, d).
 
 Gedacht ist dieser Bereich für Querverlinkungen und weiterführende Informationen. Für alle wesentlichen Informationen verwenden Sie bitte den Inhaltsbereich der Seite.
 
@@ -24,7 +24,7 @@ Nun wählen Sie ein Seitenlayout für Ihre Ausstellungsseite aus (<span class="r
 
 ### B.4.2 Die Layouts für Ausstellungsseiten
 
-Wie wir in Abschnitt A gesehen haben (vgl. Abb. A.7), bietet Ihnen das die Ausstellungs-Software der Deutschen Digitalen Bibliothek eine Palette von Layouts, die Objekte und Textblöcke auf unterschiedliche Weise miteinander kombinieren.
+Wie wir in Abschnitt A gesehen haben (vgl. Abb. A.7), bietet Ihnen die Ausstellungs-Software der Deutschen Digitalen Bibliothek eine Palette von Layouts, die Objekte und Textblöcke auf unterschiedliche Weise miteinander kombinieren.
 
 Bei der Planung Ihrer Ausstellung können Sie sich an den Seiten der bestehenden [virtuellen Ausstellungen der Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/content/ausstellungen) orientieren. Sie vermitteln einen guten Eindruck über die Möglichkeiten der einzelnen Layout-Optionen.
 
@@ -37,7 +37,7 @@ Dieses Layout (Abb. B.4.4) kombiniert Text in der linken Spalte mit einer Zusamm
 
 !![Abb. B.4.4 Layout 1 – Seite mit Bild rechts und Vorschaubildern][B-4-]
 
-Klicken die NutzerInnen auf eines der Objekte, öffnet sich die Lightbox mit einer Großansicht des Bildes bzw. einem Audio- oder Video-Player (vgl. Abb. A.5). Das Verhalten von Haupt- und Galerieobjekten ist – und das gilt für alle Layouts – in dieser Hinsicht identisch.
+Klicken die NutzerInnen auf eines der Objekte, öffnet sich die Lightbox mit einer Großansicht des Bildes bzw. einem Audio- oder Video-Player (vgl. Abb. A.5). Das Verhalten von Haupt- und Galerie-Objekten ist – und das gilt für alle Layouts – in dieser Hinsicht identisch.
 
 Layout 1 bietet zudem die Möglichkeit, die rechte Spalte mit Text zu versehen. Er erscheint dann unterhalb der Objekte. Bei größeren Textmengen können Sie so zweispaltige Textlayouts realisieren. Was dabei zu beachten ist, werden wir in Abschnitt 4.5 erläutern.
 
@@ -59,7 +59,7 @@ Ein reines Galerie-Format bietet Layout 3 (Abb. B.4.6). Bis zu 24 Objekte ersche
 
 Bei den bisher vorgestellten Layouts waren die Seiten aus in sich geschlossenen Text- und Objektblöcken aufgebaut. Layout 4 (Abb. B.4.7) ermöglicht Ihnen, jedem gezeigten Objekt je einen Text zuzuordnen. In diesem Fall erscheint das Objekt in der linken, der zugehörige Text in der rechten Spalte. Wie sich das auf die Gewichtung von Text zu Bild auswirkt, können Sie unter Layout 6 detaillierter nachlesen. 
 
-Nehmen die Texte weniger Raum ein, als die Höhe der Abbildung vorgibt, entsteht Weißraum unter dem Text (siehe das abgebildete – fiktive – Beispiel). Damit bekommt der Text eher den Charakter einer erweiterten Bildlegende oder eines Kommentars zur Abbildung. Sollten Sie Wert auf ein geschlossenes Seitenlayout legen, müssen Sie hier Textlängen und Bildgrößen aufeinander abstimmen.
+Nehmen die Texte weniger Raum ein, als die Höhe der Abbildung vorgibt, entsteht Weißraum unter dem Text (siehe das abgebildete – fiktive – Beispiel). Damit bekommt der Text eher den Charakter einer erweiterten Bildlegende oder eines Kommentars zur Abbildung. Wenn Sie Wert auf ein geschlossenes Seitenlayout legen, müssen Sie hier Textlängen und Bildgrößen aufeinander abstimmen.
 
 Ist der Text umfangreicher, rücken umgekehrt die Objekte in der linken Spalte auseinander. 
 
@@ -67,13 +67,13 @@ Ist der Text umfangreicher, rücken umgekehrt die Objekte in der linken Spalte a
 
 ##### Layout 5: Seite mit Bildern abwechselnd links und rechts
 
-Was die Zuordnung von Objekt und Text angeht, folgt Layout 5 (Abb. B.4.8) dem gleichen Prinzip wie Layout 4, nur, dass mit jedem eingebundenen Objekt die Position von Objekt und Text zwischen links und rechts wechselt. Ist hier der Text zu einem Objekt sehr viel kürzer oder länger als der neben dem Objekt zur Verfügung stehende Raum vorgibt, entsteht ein ausgesprochen unruhiges Erscheinungsbild der Seite. Wir empfehlen dieses Layout nur zu verwenden, wenn Proportionen der Objektabbildungen und die Längen der Beschreibungstexte relativ einheitlich sind bzw. wenn Sie in der Lage sind, beide aufeinander abzustimmen.
+Was die Zuordnung von Objekt und Text angeht, folgt Layout 5 (Abb. B.4.8) dem gleichen Prinzip wie Layout 4, allerdings wechselt mit jedem eingebundenen Objekt die Position von Objekt und Text zwischen links und rechts. Ist hier der Text zu einem Objekt sehr viel kürzer oder länger als der neben dem Objekt zur Verfügung stehende Raum, entsteht ein ausgesprochen unruhiges Erscheinungsbild. Wir empfehlen, dieses Layout nur zu verwenden, wenn die Proportionen der Objektabbildungen und die Längen der Beschreibungstexte relativ einheitlich sind bzw. wenn Sie in der Lage sind, beide aufeinander abzustimmen.
 
 !![Abb. B.4.8 Layout 5 – Seite mit Bildern abwechselnd links und rechts][B-4-8]
 
 ##### Layout 6: Seite mit Bildern rechts
 
-Layout 6 (Abb. B.4.9) unterscheidet sich von Layout 4 nur durch die Position der Objekte, die hier auf der rechten Seite erscheinen. Texte und Objekte sind auch hier einander direkt zugeordnet. In Anbetracht der für europäische Sehgewohnheiten üblichen Leserichtung von links nach rechts kann man davon ausgehen, dass der links positionierte Text für den Nutzer hier dominanter ist als bei Layout 4. Wenn Sie also, was bei dem gezeigten Beispiel inhaltlich der Fall ist, einen Text mit Abbildungen versehen wollen, bietet sich Layout 6 an. Wenn dagegen Abbildungen durch Texte erläutert werden sollen, ist das Schema von Layout 4 vielleicht etwas besser geeignet.
+Layout 6 (Abb. B.4.9) unterscheidet sich von Layout 4 nur dadurch, dass die Objekte hier auf der rechten Seite erscheinen. Texte und Objekte sind auch hier einander direkt zugeordnet. In Anbetracht der für europäische Sehgewohnheiten üblichen Leserichtung von links nach rechts kann man davon ausgehen, dass der links positionierte Text für den Nutzer hier dominanter ist als bei Layout 4. Wenn Sie also einen Text mit Abbildungen versehen wollen, was im gezeigten Beispiel der Fall ist, bietet sich Layout 6 an. Wenn dagegen Abbildungen durch Texte erläutert werden sollen, ist das Schema von Layout 4 vielleicht etwas besser geeignet.
 
 !![Abb. B.4.9 Layout 6 – Seite mit Bildern rechts][B-4-9]
 
@@ -93,17 +93,15 @@ Demselben Prinzip wie Layout 7 folgt Layout 8 (Abb. B.4.11), mit dem Unterschied
 
 ### B.4.3 Inhalte einstellen
 
-Nach der Auswahl eines Layouts (Abb. B.4.2, <span class="red-circle">XXX</span>) und dem Speichern über „Änderungen übernehmen“ wechselt die Ansicht auf die Seite „Inhalt der Seite … bearbeiten“ (Abb. 4.11). Hier können Sie die einzelnen Inhaltsbereiche befüllen. Texte – Textblöcke, Bildlegenden, Zwischenüberschriften für zweispaltige Texte – geben Sie direkt in die entsprechenden Felder ein, Objekte wählen Sie über die Schaltflächen „Objekt hinzufügen“ aus. Leere Inhaltselemente werden bei der Ausgabe im Frontend ignoriert. Sie können also etwa nur einen Text einstellen und auf die Einbindung von Objekten verzichten oder bei Layout 1 (vgl. Abb. 4.3) das Hauptbild oder die Bildergalerie weglassen.
+Nach der Auswahl eines Layouts (Abb. B.4.2) und dem Speichern über „Änderungen übernehmen“ wechselt die Ansicht auf die Seite „Inhalt der Seite … bearbeiten“ (Abb. 4.11). Hier können Sie die einzelnen Inhaltsbereiche befüllen. Texte – Textblöcke, Bildlegenden, Zwischenüberschriften für zweispaltige Texte – geben Sie direkt in die entsprechenden Felder ein, Objekte wählen Sie über die Schaltflächen „Objekt hinzufügen“ aus. Leere Inhaltselemente werden bei der Ausgabe im Frontend ignoriert. Sie können also etwa nur einen Text einstellen und auf die Einbindung von Objekten verzichten oder im Layout 1 (vgl. Abb. 4.3) das Hauptbild oder die Bildergalerie weglassen.
 
-Für die Texteingabe steht Ihnen ein Editor zur Verfügung (Abb. 4.12), mit dem Sie Ihre Texte formatieren können. Über die Bedien-Elemente am oberen Rand (a) über dem Texteingabefeld (b) können Sie u. a. 
-* Überschriften in verschiedenen Hierarchiestufen vergeben (Überschrift 1-6), 
+Für die Texteingabe steht Ihnen ein Editor zur Verfügung (Abb. 4.12), mit dem Sie Ihre Texte formatieren können. Über die Bedien-Elemente am oberen Rand (<span class="red-circle">a</span>) über dem Texteingabefeld (<span class="red-circle">b</span>) können Sie u. a. 
+* Überschriften in verschiedenen Hierarchiestufen vergeben (Überschrift 1 bis 4), 
 * Fett- und Kursiv-Satz vornehmen, 
 * Listen erstellen und 
 * externe oder interne Links setzen. 
-Über die genauen Formatierungsmöglichkeiten informiert Abschnitt XXX im Anhang.
 
-
-Für die Texteingabe steht Ihnen ein Editor zur Verfügung (Abb. 4.13), mit dem Sie Ihre Texte formatieren können. Über die Bedienelemente am oberen Rand (<span class="red-circle">a</span>) über dem Texteingabefeld (<span class="red-circle">b</span>) können Sie u.a. Überschriften in verschiedenen Hierarchiestufen vergeben (Überschrift 1-4), Fettungen und Kursivsetzungen vornehmen, Listen erstellen und externe oder interne Links setzen. Über die genauen Formatierungsmöglichkeiten informiert Abschnitt XXX im Anhang.
+Über die genauen Formatierungsmöglichkeiten informiert der Abschnitt C.2 im Anhang.
 
 !![Abb. B.4.13 Der Texteditor][B-4-13]
 
@@ -114,25 +112,23 @@ Das Einfügen eines Objekts erfolgt über die Schaltfläche „Objekt hinzufüge
 
 Sie können die Liste aller Objekte durchblättern, um das gewünschte Objekt auszuwählen und über die Schaltfläche „Ausgewähltes Objekt hinzufügen“ in die Ausstellungsseite einzubinden.
 
-Nach dem Einfügen des Objekts ist die Anzeige des Objekt-Inhaltselements erweitert (Abb. 4.14). Oben links erscheint der Titel des Objekts und ein Vorschaubild (a). Darunter bietet ein Editor die Möglichkeit, eine Bildunterschrift einzufügen (b). Wenn Sie das Objekt von Ihrer Ausstellungsseite wieder entfernen möchten, klicken Sie auf die Schaltfläche „Dieses Objekt entfernen“ (c). Vorsicht: Das Objekt wird sofort und endgültig von dieser Ausstellungsseite gelöscht, ohne dass Sie noch einmal um eine Bestätigung gebeten werden.
-
-Nach dem Einfügen des Objekts ist die Anzeige des Objekt-Inhaltselements erweitert (Abb. B.4.16). Oben links erscheint der Titel des Objekts und Vorschaubild (<span class="red-circle">a</span>). Darunter bietet ein Editor die Möglichkeit, eine Bildunterschrift (Legende) einzufügen (<span class="red-circle">b</span>). Wenn Sie das Objekt von Ihrer Ausstellungsseite wieder entfernen möchten, klicken Sie auf die Schaltfläche „Dieses Objekt entfernen“ (<span class="red-circle">c</span>). Vorsicht: Das Objekt wird sofort und endgültig gelöscht, ohne dass Sie noch einmal um eine Bestätigung gebeten werden.
+Nach dem Einfügen des Objekts ist die Anzeige des Objekt-Inhaltselements erweitert (Abb. B.4.15). Oben links erscheint der Titel des Objekts und Vorschaubild (<span class="red-circle">a</span>). Darunter bietet ein Editor die Möglichkeit, eine Bildunterschrift einzufügen (<span class="red-circle">b</span>). Wenn Sie das Objekt von Ihrer Ausstellungs-Seite wieder entfernen möchten, klicken Sie auf die Schaltfläche „Dieses Objekt entfernen“ (<span class="red-circle">c</span>). Vorsicht: Das Objekt wird sofort und endgültig gelöscht, ohne dass Sie noch einmal um eine Bestätigung gebeten werden.
 
 !![Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild][B-4-16]
 
 !!!note "Bildlegenden werden nur bei Hauptbildern ausgegeben"
 
-    Omeka sieht für jedes eingebundene Objekt die Möglichkeit vor, eine Bildlegende einzugeben. In der Frontend-Ausgabe werden allerdings nur bei Hauptbildern diese Bildlegenden auch angezeigt, bei allen Vorschaubildern werden sie auf den Ausstellungsseiten einfach ignoriert. Hauptbilder sind Objekte, deren verknüpfte Dateien (also in der Regel die Abbildung des Objekts) in den Originalproportionen, nicht als quadratisches Vorschaubild angezeigt werden. Ist eine Bildlegende vorhanden, wird sie im Textfeld der Lightbox (s. Abb. A.4) unter dem Objekttitel angezeigt.
+    Omeka sieht für jedes eingebundene Objekt die Möglichkeit vor, eine Bildunterschrift einzugeben. In der Frontend-Ausgabe werden allerdings nur bei Hauptbildern diese Bildunterschriften auch angezeigt, bei allen Vorschaubildern werden sie auf den Ausstellungs-Seiten einfach ignoriert. Hauptbilder sind Objekte, deren verknüpfte Dateien (in der Regel eine Abbildung des Objekts) in den Originalproportionen angezeigt werden, nicht als quadratisches Vorschaubild. Ist eine Bildunterschrift vorhanden, wird sie im Textfeld der Lightbox (s. Abb. A.4) unter dem Objekt-Titel angezeigt.
 
-Nachdem Sie alle Texte eigegeben und alle Objekte eingebunden haben, sollten Sie sich das Ergebnis im Frontend anschauen. Speichern Sie dazu Ihre Eingaben zunächst über die Schaltfläche „Änderungen übernehmen“ (Abb. B.4.16, <span class="red-circle">1</span>) ab, und klicken dann auf die Schaltfläche „Seite anzeigen“ (<span class="red-circle">2</span>). Es öffnet sich ein neuer Browser-Tab mit der Frontend-Darstellung Ihrer Ausstellungsseite.
+Nachdem Sie alle Texte eingegeben und alle Objekte eingebunden haben, sollten Sie sich das Ergebnis im Frontend anschauen. Speichern Sie dazu Ihre Eingaben zunächst über die Schaltfläche „Änderungen übernehmen“ (Abb. B.4.16, <span class="red-circle">1</span>) ab und klicken Sie dann auf die Schaltfläche „Seite anzeigen“ (<span class="red-circle">2</span>). Es öffnet sich ein neuer Browser-Tab mit der Frontend-Darstellung Ihrer Ausstellungs-Seite.
 
-Denken Sie bitte auch daran, die Ausgaben zu den Objekten zu überprüfen, die in der Lightbox erscheinen. Klicken Sie dazu auf das erste Objekt der Seite und blättern in der Lightbox alle Objekte durch. Zu jedem Objekt sollten Sie vor der Veröffentlichung auch die Angaben Korrektur lesen, die sich hinter dem ©-Icon der Lightbox verbergen.
+Denken Sie bitte auch daran zu überprüfen, wie die Angaben zu den Objekten erscheinen, die in der Lightbox ausgegeben werden. Klicken Sie dazu auf das erste Objekt der Seite und blättern in der Lightbox alle Objekte durch. Zu jedem Objekt sollten Sie vor der Veröffentlichung auch die Angaben Korrektur lesen, die sich hinter dem ©-Icon der Lightbox verbergen.
 
 ##### Praxistipp: Frontend-Tabs immer wieder schließen
 
-Wenn Sie von der Frontend-Darstellung ins Omeka-Backend zurückwechseln, Änderungen an der Seite vornehmen, diese abspeichern (2) und wieder auf „Öffentliche Seite anzeigen“ (3) klicken, öffnet sich ein neuer, weiterer Browser-Tab mit der aktualisierten Vorschau. Nach einer Reihe von Wiederholungen verlieren Sie leicht den Überblick, welche Frontend-Darstellung dem aktuellen Stand Ihrer editorischen Arbeit entspricht. Wir empfehlen deshalb, den Vorschau-Tab immer gleich wieder zu schließen, nachdem Sie die Frontend-Ausgabe überprüft haben.
+Wenn Sie von der Frontend-Darstellung ins Backend zurückwechseln, Änderungen an der Seite vornehmen, diese abspeichern (<span class="red-circle">2</span>) und wieder auf „Öffentliche Seite anzeigen“ (<span class="red-circle">3</span>) klicken, öffnet sich ein weiterer Browser-Tab mit der aktualisierten Vorschau. Nach einer Reihe von Wiederholungen verlieren Sie leicht den Überblick, welche Frontend-Darstellung dem aktuellen Stand Ihrer editorischen Arbeit entspricht. Wir empfehlen deshalb, den Vorschau-Tab immer gleich wieder zu schließen, nachdem Sie die Frontend-Ausgabe überprüft haben.
 
-Sie können nach Abschluss Ihrer Arbeiten an der aktuellen Seite einfach eine neue Seite anlegen, indem Sie auf die Schaltfläche „Speichern und Seite hinzufügen“ (Abb. 4.11, 4) klicken. Oder Sie wechseln auf die Ausstellungsseite zurück – am einfachsten durch einen Klick auf den Ausstellungstitel in der Breadcrumb-Navigation am oberen Rand des Formulars – und fügen neue Seiten hinzu, wie bei der ersten Seite über die Schaltfläche „Seiten hinzufügen“ (Abb. 4.1, 1).
+Sie können nach Abschluss Ihrer Arbeiten an der aktuellen Seite einfach eine neue Seite anlegen, indem Sie auf die Schaltfläche „Änderungen übernehmen und neue Seite hinzufügen“ (<span class="red-circle">3</span>) klicken. Oder Sie wechseln auf die Ausstellungsseite zurück – am einfachsten durch einen Klick auf den Ausstellungstitel in der Breadcrumb-Navigation am oberen Rand des Formulars – und fügen neue Seiten hinzu, wie bei der ersten Seite über die Schaltfläche „Neue Seiten hinzufügen“ (Abb. 4.1).
 
 ### B.4.4 Seiten arrangieren und bearbeiten
 
@@ -141,13 +137,11 @@ Sie können nach Abschluss Ihrer Arbeiten an der aktuellen Seite einfach eine ne
 Die von Ihnen bereits angelegten Seiten erscheinen auf der Seite „Ausstellung …“ als beigefarbene, mit dem Seitentitel beschriftete Balken. Mit diesen Balken können Sie die Anordnung Ihrer Seiten ganz einfach und intuitiv per „Drag & Drop“ anpassen. 
 Fahren Sie dazu mit dem Mauszeiger über den Balken der betreffenden Seite (nicht über den Titel oder das „x“). Der Zeiger Ihrer Maus ändert sich dabei von einem einfachen Pfeil zu einem Vier-Wege-Pfeil. Halten Sie nun die linke Maustaste gedrückt, können Sie den Balken verschieben (Abb. 4.15, 1). 
 
-!![Abb. B.4.15 Sortieren der Ausstellungsseiten durch Drag and Drop][B-4-15]
+!![Abb. B.4.16 Sortieren der Ausstellungsseiten durch Drag and Drop][B-4-16]
 
 Positionieren Sie den Balken an die gewünschte Stelle und geben die linke Maustaste wieder frei. Die geänderte Reihenfolge wird nun angezeigt – Sie haben die Seiten umsortiert. Diese Änderungen werden allerdings erst übernommen, wenn Sie Ihre Ausstellung speichern. Vergessen Sie also nicht, nach dem Umsortieren auf die Schaltfläche „Änderungen übernehmen“ (2) zu klicken.
 
-!![Abb. B.4.17 Sortieren der Ausstellungsseiten durch Drag and Drop][B-4-17]
-
-#### B.4.4.2 Seiten Löschen
+#### B.4.4.2 Seiten löschen
 
 Um eine Seite aus Ihrer Ausstellung zu entfernen, können Sie in der der Seitenliste auf das „x“ am rechten Rand des entsprechenden Balkens klicken (Abb. 4.17, a - 1). Die Seite ist dann zum Löschen vorgemerkt – der Balken ist nun braun hinterlegt und aus dem „x“ ist ein Rückgängigmachen-Pfeil geworden (b). Erst nachdem Sie Ihre Eingaben mit „Änderungen übernehmen“ (2) gespeichert haben, wird die Seite – dann allerdings unwiderruflich – gelöscht und der Balken verschwindet aus der Liste. Wenn Sie im braunen Balken auf das Pfeilsymbol klicken oder die Seite „Ausstellung …“ verlassen, ohne gespeichert zu haben, bleiben die zur Löschung vorgemerkten Seiten erhalten.
 
@@ -189,7 +183,7 @@ Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text
 
 Für die Eingabe des zweispaltigen Textblocks **unter** der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. B.4.19, <span class="red-circle">1</span>). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert. Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollten Sie dem Text der Überschrift ein Überschriften-Format zuweisen. Im Folgenden Feld (Abb. B.4.19, <span class="red-circle">2</span>) können Sie den Text eingeben, der - wie der Text oberhalb der Vorschaubilder-Galerie - im Frontend automatisch zweispaltig ausgegeben wird.
 
-##### PRAXISTIPP: Halten Sie zweispaltige Textblöcke kurz!
+##### Praxistipp: Halten Sie zweispaltige Textblöcke kurz!
 
 Das mehrspaltige Textlayout ist uns im Printbereich aus Zeitschriften, Katalogen oder Broschüren vertraut. Auf Webseiten ist es (noch) eher die Ausnahme. Das hat einen guten Grund: Im Web fehlt eine feste Beziehung zwischen Sichtfeld (Viewport) und Paginierung. Bei der Darstellung im Browser der NutzerInnen können die unteren Teile der Spalten leicht unter den unteren Rand des Browserfensters geraten. Die NutzerInnen lesen dann den oberen Teil der linken Spalte, scrollen nach unten, lesen weiter, bis sie am Spaltenende angekommen sind, scrollen wieder nach oben, beginnen mit der rechten Spalte usw. Achten Sie deshalb darauf, dass zweispaltige Textblöcke nach Möglichkeit auch bei schmalen Browserfenstern noch ganz auf einen Bildschirm passen. Bei längeren Texten sollten Sie die Möglichkeit nutzen, sie auf einen Textblock ober- und einen unterhalb der Vorschaubilder-Galerie aufzuteilen.
 
@@ -233,11 +227,12 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt 4.1) ist hi
 [B-4-9]: img/B-4-9.jpg "Abb. B.4.9 Layout 6 – Bilder rechts"
 [B-4-10]: img/B-4-10.jpg "Abb. B.4.10 Layout 7 – große, fortlaufende Bilder rechts"
 [B-4-11]: img/B-4-11.jpg "Abb. B.4.11 Layout 8 – kleine, fortlaufende Bilder rechts"
-[B-4-13]: img/B-4-13.jpg "Abb. B.4.13 Der Texteditor"
+[B-4-12]: img/B-4-12.jpg "Abb. B.4.12 Die Seite „Inhalt der Seite … bearbeiten“"
+[B-4-13]: img/B-4-13.jpg "Der Texteditor"
 [B-4-14]: img/B-4-14.jpg "Abb. B.4.14 Objekt hinzufügen"
 [B-4-15]: img/B-4-15.jpg "Abb. B.4.15 Dialogfenster „Objekt hinzufügen“"
 [B-4-16]: img/B-4-16.jpg "Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild"
-[B-4-17]: img/B-4-17.jpg "Abb. B.4.17 Sortieren der Ausstellungsseiten durch Drag and Drop"
+[B-4-17]: img/B-4-17.jpg "Abb. 4.17 Abb. B.4.16 Sortieren der Ausstellungsseiten durch Drag and Drop"
 [B-4-18]: img/B-4-18.jpg "Abb. B.4.18 Seiten aus der Seitenliste löschen"
 [B-4-19]: img/B-4-19.jpg "Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift"
 [B-4-20]: img/B-4-20.jpg "Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte"
