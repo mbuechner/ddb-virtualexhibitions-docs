@@ -12,7 +12,7 @@ Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolg
 
 !![Abb. B.4.2 Die Metadaten der Ausstellungsseite - Titel und Slug ][B-4-2]
 
-Das Feld „Widget Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bietet Ihnen die Möglichkeit, in der rechten Sidebar der Ausstellungsseite einen Kasten mit Inhalten zu platzieren. Er erscheint über dem ersten Inhaltswidget der Ausstellung und ggf. über dem zweiten Inhaltswidget (vgl. Abb. A.2, d).
+Das Feld „Widget Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bietet Ihnen die Möglichkeit, in der rechten Marginalspalte von genauer dieser einzelnen Ausstellungs-Seite einen Kasten mit Inhalten zu platzieren. Er erscheint unter dem obersten Widget der Ausstellung und ggf. über dem mittleren Widget (vgl. Abb. A.2, d).
 
 Gedacht ist dieser Bereich für Querverlinkungen und weiterführende Informationen. Für alle wesentlichen Informationen verwenden Sie bitte den Inhaltsbereich der Seite.
 
