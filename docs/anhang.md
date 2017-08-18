@@ -84,9 +84,8 @@ Zeitangabe zur Herstellung, zur Laufzeit, Erscheinungsdatum ...
 
 ##### Ort
 
-Herstellungs- oder Erscheinungsort, historische Bezeichnung des Orts, wenn der im Titel genannte Ort nicht der tatsächlich dargestellte Ort ist ...
+Herstellungs- oder Erscheinungsort, historische Bezeichnung des Orts, wenn der im Titel genannte Ort nicht der tatsächlich dargestellte Ort ist ...    
 **Ausgabe**: Objekt-Detailseite
-
 
 ##### Maße/Umfang
 
@@ -172,21 +171,21 @@ Kursiv-Satz bietet sich bei Titeln von Werken oder Publikationen an (Abb. C.2).
 
 !![Abb. C.2 Texteditor: Text kursiv setzen][C-2]
 
-##### Liste (ungeordnet)
+##### Liste (unsortiert)
 
 Mit diesem Icon (Abb. C.3) können Sie Listen in Ihren Text einfügen. Die Liste wird durch Einrückungen und Listenpunkte (Bullet Points) formatiert. Das Aufzählungs-Symbol können Sie nicht verändern, da es auf Template-Ebene festgelegt ist.
 
 Listen sind Absatzformatierungen, die Listenpunkte müssen also zunächst Absätze sein. Markieren Sie dann alle Absätze (durch „Enter“ getrennte Zeilen) und machen Sie sie durch einen Klick auf das Listen-Icon zur Liste. Alternativ können Sie einfach den ersten Absatz als Liste formatieren – mit der Enter-Eingabe wird der folgende Absatz automatisch als Listenabsatz formatiert. Um die Listenformatierung zu entfernen, markieren Sie die gesamte Liste und klicken erneut auf das Listen-Icon.
 
 
-!![Abb. C.3 Texteditor: Ungeordnete Liste][C-3]
+!![Abb. C.3 Texteditor: Unsortierte Liste][C-3]
 
-##### Liste (nummeriert)
+##### Liste (sortiert)
 
-Nummerierte (geordnete) Listen unterscheiden sich von den ungeordneten nur dadurch, dass an Stelle des Listenpunkts eine Ordnungszahl erscheint (Abb. C.4). Auch auf das Format der Nummerierung haben Sie keinen Einfluss.
+Nummerierte (sortierte) Listen unterscheiden sich von den unsortierten nur dadurch, dass an Stelle des Listenpunkts eine Ordnungszahl erscheint (Abb. C.4). Auch auf das Format der Nummerierung haben Sie keinen Einfluss.
 
 
-!![Abb. C.4 Texteditor: Geordnete Liste][C-4]
+!![Abb. C.4 Texteditor: Sortierte Liste][C-4]
 
 ##### Links einfügen
 
@@ -196,7 +195,7 @@ Nummerierte (geordnete) Listen unterscheiden sich von den ungeordneten nur dadur
 
 Beim Klick auf das Kettensymbol öffnet sich eine Eingabemaske, in der Sie die zur Verlinkung notwendigen Einstellungen vornehmen können (Abb. C.6). 
 
-Bei Links auf andere Seiten Ihrer Ausstellung, setzen Sie so genannte **relative** Links. Dazu gehen Sie auf die betreffende Seite, kopieren die URL aus der Adresszeile Ihres Browsers und entfernen alles bis zur Top-Level-Domain „.de“. Ein relativer Link sieht dann beispielsweise so aus: „/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto“. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „Im selben Fenster öffnen“.
+Bei Links auf andere Seiten Ihrer Ausstellung setzen Sie so genannte **relative** Links. Dazu gehen Sie auf die betreffende Seite, kopieren die URL aus der Adresszeile Ihres Browsers und entfernen alles bis zur Top-Level-Domain „.de“. Ein relativer Link sieht dann beispielsweise so aus: „/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto“. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „Im selben Fenster öffnen“.
 
 Bei Links auf Seiten außerhalb Ihrer Ausstellung setzen Sie **absolute** Links, die Sie direkt aus der Adresszeile Ihres Browsers übernehmen können. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „In neuem Fenster öffnen“. 
 
@@ -204,8 +203,8 @@ Bei Links auf Seiten außerhalb Ihrer Ausstellung setzen Sie **absolute** Links,
 
 ##### Zitatblock
 
-Das Template der virtuellen Ausstellungen sieht die Möglichkeit vor, hervorgehobene Zitate auf den Seiten zu platzieren. Ein Beispiel finden Sie unter auf den Seiten der Ausstellung [„Zu Mythen und Monumenten“](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/konrad-theodor-preuss). 
-Um einen Absatz also einen solchen Zitatblock zu gestalten, platzieren Sie den Cursor im betreffenden Absatz (oder markieren diesen ganz) und klicken auf das Icon mit dem **einzelnen** blauen Anführungszeichen (Abb. C.7). 
+Das Template der virtuellen Ausstellungen sieht die Möglichkeit vor, hervorgehobene Zitate auf den Seiten zu platzieren. Ein Beispiel finden Sie auf den Seiten der Ausstellung [„Zu Mythen und Monumenten“](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/konrad-theodor-preuss). 
+Um einen Absatz als einen solchen Zitatblock zu gestalten, platzieren Sie den Cursor im betreffenden Absatz (oder markieren diesen ganz) und klicken auf das Icon mit dem **einzelnen** blauen Anführungszeichen (Abb. C.7). 
 Die Formatierung sieht bereits Anführungszeichen vor (ein großes, symbolhaftes, öffnendes Anführungszeichen oben links), bitte verwenden Sie keine weiteren Anführungszeichen zur Kennzeichnung des Zitats.
 
 !![Abb. C.7 Texteditor: Text als Zitatblock setzen][C-7]
@@ -252,10 +251,10 @@ Zum Schließen der Vollbild-Ansicht klicken Sie einfach noch einmal auf das ents
 
 [C-1]: img/C-1.jpg "Abb. C.1 Texteditor: Text fett setzen"
 [C-2]: img/C-2.jpg "Abb. C.2 Texteditor: Text kursiv setzen"
-[C-3]: img/C-3.jpg "Abb. C.3 Texteditor: Ungeordente Liste"
-[C-4]: img/C-4.jpg "Abb. C.4 Texteditor: Geordnete Liste"
+[C-3]: img/C-3.jpg "Abb. C.3 Texteditor: unsortierte Liste"
+[C-4]: img/C-4.jpg "Abb. C.4 Texteditor: sortierte Liste"
 [C-5]: img/C-5.jpg "Abb. C.5 Texteditor: einen Link setzen"
-[C-6]: img/C-6.jpg "Abb. C.6 Texteditor: Dialogcenter zum Setzen eines Links"
+[C-6]: img/C-6.jpg "Abb. C.6 Texteditor: Eingabemaske zum Setzen eines Links"
 [C-7]: img/C-7.jpg "Abb. C.7 Texteditor: Text als Zitatblock setzen"
 [C-8]: img/C-8.jpg "Abb. C.8 Texteditor: Quellenangabe Zitatblock"
 [C-9]: img/C-9.jpg "Abb. C.9 Texteditor: Überschriften"
