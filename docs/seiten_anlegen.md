@@ -103,18 +103,19 @@ Für die Texteingabe steht Ihnen ein Editor zur Verfügung (Abb. 4.12), mit dem 
 
 Über die genauen Formatierungsmöglichkeiten informiert der Abschnitt C.2 im Anhang.
 
-!![Abb. B.4.13 Der Texteditor][B-4-13]
+!![Abb. B.4.12 Der Texteditor][B-4-12]
 
 Das Einfügen eines Objekts erfolgt über die Schaltfläche „Objekt hinzufügen“ (Abb. B.4.14, <span class="red-circle">a</span>) des jeweiligen Inhaltselements. Zum Auswählen des Objekts öffnet sich das Dialogfenster „Objekt hinzufügen“ (Abb. B.4.15).
 
-!![Abb. B.4.14 Objekt hinzufügen][B-4-14]
-!![Abb. B.4.15 Dialogfenster „Objekt hinzufügen“][B-4-15]
+!![Abb. B.4.13 Objekt hinzufügen][B-4-13]
+
+!![Abb. B.4.14 Dialogfenster „Objekt hinzufügen“][B-4-14]
 
 Sie können die Liste aller Objekte durchblättern, um das gewünschte Objekt auszuwählen und über die Schaltfläche „Ausgewähltes Objekt hinzufügen“ in die Ausstellungsseite einzubinden.
 
 Nach dem Einfügen des Objekts ist die Anzeige des Objekt-Inhaltselements erweitert (Abb. B.4.16). Oben links erscheint der Titel des Objekts und Vorschaubild (<span class="red-circle">a</span>). Darunter bietet ein Editor die Möglichkeit, eine Bildunterschrift einzufügen (<span class="red-circle">b</span>). Wenn Sie das Objekt von Ihrer Ausstellungs-Seite wieder entfernen möchten, klicken Sie auf die Schaltfläche „Dieses Objekt entfernen“ (<span class="red-circle">c</span>). Vorsicht: Das Objekt wird sofort und endgültig gelöscht, ohne dass Sie noch einmal um eine Bestätigung gebeten werden.
 
-!![Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild][B-4-16]
+!![Abb. B.4.15 Inhaltselement Objekt – hier ein Hauptbild][B-4-15]
 
 !!!note "Bildlegenden werden nur bei Hauptbildern ausgegeben"
 
@@ -137,7 +138,7 @@ Sie können nach Abschluss Ihrer Arbeiten an der aktuellen Seite einfach eine ne
 Die von Ihnen bereits angelegten Seiten erscheinen auf der Seite „Ausstellung …“ als blassgraue, mit dem Seitentitel beschriftete Balken. Mit diesen Balken können Sie die Anordnung Ihrer Seiten ganz einfach und intuitiv per „Drag & Drop“ anpassen. 
 Fahren Sie dazu mit dem Mauszeiger über den Balken der betreffenden Seite (nicht über den Titel oder das „x“). Der Zeiger Ihrer Maus ändert sich dabei von einem einfachen Pfeil zu einem Vier-Wege-Pfeil. Wenn Sie nun die linke Maustaste gedrückt halten, können Sie den Balken verschieben (Abb. 4.17). 
 
-!![Abb. B.4.17 Sortieren der Ausstellungsseiten per Drag and Drop][B-4-17]
+!![Abb. B.4.16 Sortieren der Ausstellungsseiten per Drag and Drop][B-4-16]
 
 Positionieren Sie den Balken an die gewünschte Stelle und geben die linke Maustaste wieder frei. Die geänderte Reihenfolge wird nun angezeigt – Sie haben die Seiten umsortiert. Diese Änderungen werden allerdings erst übernommen, wenn Sie Ihre Ausstellung speichern. Vergessen Sie also nicht, nach dem Umsortieren auf die Schaltfläche „Änderungen übernehmen“ (<span class="red-circle">1</span>) zu klicken.
 
@@ -145,7 +146,7 @@ Positionieren Sie den Balken an die gewünschte Stelle und geben die linke Maust
 
 Um eine Seite aus Ihrer Ausstellung zu entfernen, können Sie in der der Seitenliste auf das „x“ am rechten Rand des entsprechenden Balkens klicken (Abb. 4.18, <span class="red-circle">1</span>). Die Seite ist dann zum Löschen vorgemerkt – der Balken ist nun braun hinterlegt und aus dem „x“ ist ein Rückgängigmachen-Pfeil geworden. Erst nachdem Sie Ihre Eingaben mit „Änderungen übernehmen“ (<span class="red-circle">2</span>) gespeichert haben, wird die Seite – dann allerdings unwiderruflich – gelöscht und der Balken verschwindet aus der Liste. Wenn Sie im braunen Balken auf das Pfeilsymbol klicken oder die Seite „Ausstellung …“ verlassen, ohne gespeichert zu haben, bleiben die zur Löschung vorgemerkten Seiten erhalten.
 
-!![Abb. B.4.18 Seiten aus der Seitenliste löschen][B-4-18]
+!![Abb. B.4.17 Seiten aus der Seitenliste löschen][B-4-17]
 
 #### B.4.4.3 Änderungen auf bestehenden Seiten
 
@@ -179,7 +180,7 @@ Bei den meisten Layouts sind Texte und Objekte auf zwei Spalten aufgeteilt: Text
 
     Es ist sinnlos, den Spaltenumbruch durch Zeilenumbrüche, Absätze, Leerzeilen oder mit ähnlichen „Manipulationen“ erzwingen zu wollen, er würde dann nur für genau die Fensterbreite passen, in der Sie das Frontend gerade betrachten. Wenn Sie dieses Fenster groß und klein ziehen, wird Ihnen dieser Zusammenhang sofort anschaulich.
 
-!![Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift][B-4-19]
+!![Abb. B.4.18 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten - unterer Textblock mit Überschrift][B-4-18]
 
 Für die Eingabe des zweispaltigen Textblocks **unter** der Bildergalerie steht Ihnen ein spezielles Feld für die Überschrift des Blocks zur Verfügung (Abb. B.4.19, <span class="red-circle">1</span>). Normalerweise werden Überschriften im Textfeld eingegeben und per Auswahlliste als Überschrift einer bestimmten Ebene formatiert. Da die Überschrift hier aber über beide Spalten des Textblocks laufen soll, erfolgt die Eingabe separat. Auch hier sollten Sie dem Text der Überschrift ein Überschriften-Format zuweisen. Im folgenden Feld (<span class="red-circle">2</span>) können Sie den Text eingeben, der – wie der Text oberhalb der Vorschaubilder-Galerie – im Frontend automatisch zweispaltig ausgegeben wird.
 
@@ -191,7 +192,7 @@ Bei sehr kleinen Fensterbreiten (z. B. von mobilen Browsern) sorgt das responsiv
 
 Eine andere Form von zweispaltiger Textanordnung bieten die Layouts 1, 2, 6 und 7. Hier lässt sich in der rechten Spalte unterhalb der Objekte ein Textblock einfügen (Abb. B.4.20, <span class="red-circle">1</span>). 
 
-!![Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte][B-4-20]
+!![Abb. B.4.19 Texteingabe für die rechte Spalte unterhalb der Objekte][B-4-19]
 
 Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig gesetzte Textblöcke mit automatischem Spaltenumbruch im unteren Teil der Ausstellungsseite einzufügen, analog zum Galerie-Layout 3 mit über die ganze Breite des Inhalts-Bereichs laufenden Überschriften. Auch hier finden Sie die entsprechenden Eingabefelder unterhalb der Schaltflächen zur Einbindung von Objekten (vgl. Abb. B.4.19). 
 
@@ -205,9 +206,9 @@ Als letzten Teil einer Ausstellung ist ein Apparat mit ergänzenden Informatione
 
 Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungs-Seiten mit einer kurzen Einleitung (Abb. B.4.21, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.22, <span class="red-circle">1</span>) versehen.
 
-!![Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis][B-4-21]
+!![Abb. B.4.20 Texteingabe Einleitung zum Inhaltsverzeichnis][B-4-20]
 
-!![Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis][B-4-22]
+!![Abb. B.4.21 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis][B-4-21]
 
 Für die anderen Seiten des Apparats verwenden Sie das Layout 1 (ohne Objekte einzubinden) oder Layout 3 für zweispaltige Texte.
 
@@ -227,13 +228,13 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt 4.1) ist hi
 [B-4-9]: img/B-4-9.jpg "Abb. B.4.9 Layout 6 – Bilder rechts"
 [B-4-10]: img/B-4-10.jpg "Abb. B.4.10 Layout 7 – große, fortlaufende Bilder rechts"
 [B-4-11]: img/B-4-11.jpg "Abb. B.4.11 Layout 8 – kleine, fortlaufende Bilder rechts"
-[B-4-13]: img/B-4-13.jpg "Abb. B.4.13 Der Texteditor"
-[B-4-14]: img/B-4-14.jpg "Abb. B.4.14 Objekt hinzufügen"
-[B-4-15]: img/B-4-15.jpg "Abb. B.4.15 Dialogfenster „Objekt hinzufügen“"
-[B-4-16]: img/B-4-16.jpg "Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild"
-[B-4-17]: img/B-4-17.jpg "Abb. B.4.17 Sortieren der Ausstellungsseiten durch Drag and Drop"
-[B-4-18]: img/B-4-18.jpg "Abb. B.4.18 Seiten aus der Seitenliste löschen"
-[B-4-19]: img/B-4-19.jpg "Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten – unterer Textblock mit Überschrift"
-[B-4-20]: img/B-4-20.jpg "Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte"
-[B-4-21]: img/B-4-21.jpg "Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis"
-[B-4-22]: img/B-4-22.jpg "Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis"
+[B-4-12]: img/B-4-12.jpg "Abb. B.4.13 Der Texteditor"
+[B-4-13]: img/B-4-13.jpg "Abb. B.4.14 Objekt hinzufügen"
+[B-4-14]: img/B-4-14.jpg "Abb. B.4.15 Dialogfenster „Objekt hinzufügen“"
+[B-4-15]: img/B-4-15.jpg "Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild"
+[B-4-16]: img/B-4-16.jpg "Abb. B.4.17 Sortieren der Ausstellungsseiten durch Drag and Drop"
+[B-4-17]: img/B-4-17.jpg "Abb. B.4.18 Seiten aus der Seitenliste löschen"
+[B-4-18]: img/B-4-18.jpg "Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten – unterer Textblock mit Überschrift"
+[B-4-19]: img/B-4-19.jpg "Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte"
+[B-4-20]: img/B-4-20.jpg "Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis"
+[B-4-21]: img/B-4-21.jpg "Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis"
