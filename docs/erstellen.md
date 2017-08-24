@@ -93,7 +93,7 @@ Neben Bildern, Audiodateien und Videos können Sie auch 3D-Objekte in Ihre Ausst
 
 !![Abb. B.2.12 Der Player zur Anzeige eines 3D-Objekts in der Lightbox][B-2-12]
 
-Ein Klick auf das Laufrad (oben rechts) öffnet die Lightbox mit einem 3D-Viewer, in dem sich das historische Objekt bzw. sein 3D-Modell von allen Seiten betrachten lässt{FN: Eine Übersicht (auf Englisch) der im 3D-Viewer verfügbaren Navigationsbefehle finden Sie unter http://x3dom.org/download/1.5.1/docs/html/navigation.html.}.
+Ein Klick auf das Laufrad (oben rechts) öffnet die Lightbox mit einem 3D-Viewer, in dem sich das historische Objekt bzw. sein 3D-Modell von allen Seiten betrachten lässt. Eine Übersicht (auf Englisch) der im 3D-Viewer verfügbaren Navigationsbefehle finden Sie [hier](http://x3dom.org/download/1.5.1/docs/html/navigation.html).
 Für das Einfügen von 3D-Dateien steht auf der Seite „Objekt … bearbeiten“ ein eigener Reiter zur Verfügung (Abb. B.2.13, <span class="red-circle">1</span>). Sie benötigen drei Dateien für die Darstellung eines 3D-Objekt im 3D-Player: 
 * eine .X3D-Datei als räumliches Modell, 
 * eine .jpg-Datei als Textur 

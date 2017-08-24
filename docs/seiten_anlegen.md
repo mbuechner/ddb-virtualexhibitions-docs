@@ -35,7 +35,7 @@ Im Folgenden ein kurzer Überblick über die acht verfügbaren Layouts.
 Dieses Layout (Abb. B.4.4) kombiniert Text in der linken Spalte mit einer Zusammenstellung von Objekten in der rechten Spalte. Bei den Objekten ist das erste Objekt hervorgehoben. Es (genau genommen: das dem Objekt zugeordnete Bild) erscheint spaltenbreit und in seinen Originalproportionen. Darunter wird eine Galerie mit weiteren Objekten angezeigt. Die Bilder dieser Galerie-Objekte werden von Omeka automatisch zu kleinen quadratischen Vorschaubildern skaliert und beschnitten. Die Bilder sind in Zeilen von drei Vorschaubildern angeordnet. Sie können maximal zwölf Galerie-Objekte pro Seite einstellen. 
 
 
-!![Abb. B.4.4 Layout 1 – Seite mit Bild rechts und Vorschaubildern][B-4-]
+!![Abb. B.4.4 Layout 1 – Seite mit Bild rechts und Vorschaubildern][B-4-4]
 
 Klicken die NutzerInnen auf eines der Objekte, öffnet sich die Lightbox mit einer Großansicht des Bildes bzw. einem Audio- oder Video-Player (vgl. Abb. A.5). Das Verhalten von Haupt- und Galerie-Objekten ist – und das gilt für alle Layouts – in dieser Hinsicht identisch.
 

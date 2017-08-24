@@ -5,7 +5,7 @@ Die mit DDBstudio erstellten Ausstellungen werden auf dem Portal der Deutschen D
 
 In Abb. A.2 sehen Sie die Startseite der Ausstellung „Das Kino des Ersten Weltkriegs“, die uns im Folgenden als Beispiel dienen soll.
 
-Ihre Ausstellung erscheint im Portal der Deutschen Digitalen Bibliothek eingebettet zwischen dem Kopfbereich und Fußbereich, die in ähnlicher Form{FN 1} auch auf allen anderen Seiten des Portals angezeigt werden (Abb. A.2, <span class="red-circle">a</span>, Abb. A.3, <span class="red-circle">b</span>).
+Ihre Ausstellung erscheint im Portal der Deutschen Digitalen Bibliothek eingebettet zwischen dem Kopfbereich und Fußbereich, die in ähnlicher Form auch auf allen anderen Seiten des Portals angezeigt werden (Abb. A.2, <span class="red-circle">a</span>, Abb. A.3, <span class="red-circle">b</span>).
 
 !![Abb. A.2 Die Elemente einer Ausstellungsseite][A-2]
 
