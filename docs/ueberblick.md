@@ -9,7 +9,8 @@ Ihre Ausstellung erscheint im Portal der Deutschen Digitalen Bibliothek eingebet
 
 !![Abb. A.2 Die Elemente einer Ausstellungsseite][A-2]
 
-Unter der Wellenlinie, die den DDB-Kopfbereich abschließt (<span class="red-circle">a</span>), erscheint zunächst ein Navigationsbereich mit zwei Elementen: 
+Unter der Wellenlinie, die den DDB-Kopfbereich abschließt (<span class="red-circle">a</span>), erscheint zunächst ein Navigationsbereich mit zwei Elementen:
+
 * Einer Breadcrumb-Navigation, die anzeigt, wo sich die aufgerufene Seite in der Seitenhierarchie des Portals befindet und den Nutzerinnen und Nutzern erlaubt, die übergeordneten Seiten anzuklicken,
 * sowie einer grafischen Navigation durch die Ausstellungsseiten (<span class="red-circle">b</span>). Die aktuelle Seite ist durch ein etwas größeres Vorschaubild und die fehlende Abschattung hervorgehoben. Durch Pfeilsymbole lässt sich der „Filmstreifen“ der Vorschaubilder verschieben. Ein Klick auf das Vorschaubild führt zur betreffenden Seite. 
 
@@ -17,7 +18,8 @@ Am unteren Ende jeder Ausstellungsseite erscheint direkt über dem DDB-Fußberei
 
 !![Abb. A.3 Der Fußbereich der Ausstellungsseite][A-3]
 
-Der von Ihnen zu gestaltende Bereich der virtuellen Ausstellung setzt sich aus verschiedenen Elementen zusammen, die von Omeka nach bestimmten Layout-Vorlagen und abhängig von der Browsergröße der Nutzerinnen und Nutzer für die Ausgabe arrangiert werden. Im gezeigten Beispiel (Abb. A.4) sind dies: 
+Der von Ihnen zu gestaltende Bereich der virtuellen Ausstellung setzt sich aus verschiedenen Elementen zusammen, die von Omeka nach bestimmten Layout-Vorlagen und abhängig von der Browsergröße der Nutzerinnen und Nutzer für die Ausgabe arrangiert werden. Im gezeigten Beispiel (Abb. A.4) sind dies:
+
 * Überschrift und Text der Ausstellungsseite, 
 * die auf der Ausstellungsseite gezeigten Objekte, die hier als Hauptbild und als Bildergalerie mit quadratischen Vorschaubildern angezeigt werden. 
 Die Elemente (Widgets) in der rechten Sidebar erscheinen auf allen Seiten der Ausstellung.
@@ -33,6 +35,7 @@ Die Lightbox enthält neben der großformatigen Objektdarstellung eine Reihe von
 Das „x“ in der rechten unteren Ecke schließt die Lightbox. Die Nutzerinnen und Nutzer können zum Schließen auch einfach auf den abgedunkelten Bereich außerhalb der Box klicken oder die Escape-Taste auf ihrer Tastatur drücken.
 
 Es gibt zwei Arten von Detail-Seiten zu den einzelnen Objekten:
+
 * Detailseiten im Portal der Deutschen Digitalen Bibliothek
 * Detailseiten im Rahmen der aktuellen virtuellen Ausstellung.
 Welcher Typ von Detail-Seite bei einem Klick auf „zum Objekt“ aufgerufen wird, hängt davon ab, ob das betreffende Objekt bereits im Datenbestand der Deutschen Digitalen Bibliothek vorhanden ist.

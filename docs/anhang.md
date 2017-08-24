@@ -233,8 +233,8 @@ Die Schaltfläche „HTML“ (Abb. C.10) gibt Ihnen Zugang zu dem Quellcode im H
 
 Hier einige typische Anwendungsfälle:
 
--   beim Kopieren aus einer Vorlage (Word, Webseite) wurden unerwünschte Formatierungen eingeschleppt
--   beim Löschen von Text wurde die hierarchische Staffelung von HTML-Tags gestört, indem z. B. ein schließendes Tag versehentlich gelöscht wurde
+* beim Kopieren aus einer Vorlage (Word, Webseite) wurden unerwünschte Formatierungen eingeschleppt
+* beim Löschen von Text wurde die hierarchische Staffelung von HTML-Tags gestört, indem z. B. ein schließendes Tag versehentlich gelöscht wurde
 
 In aller Regel kommen Sie aber ohne den HTML-Modus aus. Wenn Sie über die nötige Expertise verfügen, kann er die Arbeit beschleunigen – notwendig ist er nicht.
 

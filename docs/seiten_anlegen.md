@@ -95,8 +95,9 @@ Demselben Prinzip wie Layout 7 folgt Layout 8 (Abb. B.4.11), mit dem Unterschied
 
 Nach der Auswahl eines Layouts (Abb. B.4.2) und dem Speichern über „Änderungen übernehmen“ wechselt die Ansicht auf die Seite „Inhalt der Seite … bearbeiten“ (Abb. 4.11). Hier können Sie die einzelnen Inhaltsbereiche befüllen. Texte – Textblöcke, Bildlegenden, Zwischenüberschriften für zweispaltige Texte – geben Sie direkt in die entsprechenden Felder ein, Objekte wählen Sie über die Schaltflächen „Objekt hinzufügen“ aus. Leere Inhaltselemente werden bei der Ausgabe im Frontend ignoriert. Sie können also etwa nur einen Text einstellen und auf die Einbindung von Objekten verzichten oder im Layout 1 (vgl. Abb. 4.3) das Hauptbild oder die Bildergalerie weglassen.
 
-Für die Texteingabe steht Ihnen ein Editor zur Verfügung (Abb. 4.12), mit dem Sie Ihre Texte formatieren können. Über die Bedien-Elemente am oberen Rand (<span class="red-circle">a</span>) über dem Texteingabefeld (<span class="red-circle">b</span>) können Sie u. a. 
-* Überschriften in verschiedenen Hierarchiestufen vergeben (Überschrift 1 bis 4), 
+Für die Texteingabe steht Ihnen ein Editor zur Verfügung (Abb. 4.12), mit dem Sie Ihre Texte formatieren können. Über die Bedien-Elemente am oberen Rand (<span class="red-circle">a</span>) über dem Texteingabefeld (<span class="red-circle">b</span>) können Sie u. a.
+
+* Überschriften in verschiedenen Hierarchiestufen vergeben (Überschrift 1 bis 4),
 * Fett- und Kursiv-Satz vornehmen, 
 * Listen erstellen und 
 * externe oder interne Links setzen. 
