@@ -1,5 +1,5 @@
 # A. Im Überblick – Virtuelle Ausstellungen der Deutschen Digitalen Bibliothek
-Die mit DDBstudio erstellten Ausstellungen werden auf dem Portal der Deutschen Digitalen Bibliothek veröffentlicht. Zur Ausstellung gelangen die Nutzerinnen und Nutzer, wenn sie in der Hauptnavigation unter „Entdecken“ den Menüpunkt „Ausstellungen“ aufrufen und in der Liste der Ausstellungen auf den Titel oder „Weiterlesen“ klicken (Abb. A.1)
+Die mit DDBstudio erstellten Ausstellungen werden auf dem Portal der Deutschen Digitalen Bibliothek veröffentlicht. Zur Ausstellung gelangen die Nutzerinnen und Nutzer, wenn sie in der Hauptnavigation unter „Entdecken“ den Menüpunkt „Ausstellungen“ aufrufen und in der Liste der Ausstellungen auf den Titel oder „Weiterlesen“ klicken (Abb. A.1).
 
 !![Abb. A.1 Die Liste der virtuellen Ausstellungen der Deutschen Digitalen Bibliothek][A-1]
 
@@ -12,7 +12,7 @@ Ihre Ausstellung erscheint im Portal der Deutschen Digitalen Bibliothek eingebet
 Unter der Wellenlinie, die den DDB-Kopfbereich abschließt (<span class="red-circle">a</span>), erscheint zunächst ein Navigationsbereich mit zwei Elementen:
 
 * Einer Breadcrumb-Navigation, die anzeigt, wo sich die aufgerufene Seite in der Seitenhierarchie des Portals befindet und den Nutzerinnen und Nutzern erlaubt, die übergeordneten Seiten anzuklicken,
-* sowie einer grafischen Navigation durch die Ausstellungsseiten (<span class="red-circle">b</span>). Die aktuelle Seite ist durch ein etwas größeres Vorschaubild und die fehlende Abschattung hervorgehoben. Durch Pfeilsymbole lässt sich der „Filmstreifen“ der Vorschaubilder verschieben. Ein Klick auf das Vorschaubild führt zur betreffenden Seite. 
+* sowie einer grafischen Navigation durch die Ausstellungsseiten (<span class="red-circle">b</span>). Die aktuelle Seite ist durch ein etwas größeres Vorschaubild und die fehlende Abschattung hervorgehoben. Durch Pfeilsymbole lässt sich der ‚Filmstreifen‘ der Vorschaubilder verschieben. Ein Klick auf das Vorschaubild führt zur betreffenden Seite. 
 
 Am unteren Ende jeder Ausstellungsseite erscheint direkt über dem DDB-Fußbereich zudem eine textliche Blätternavigation (Abb. A.3, <span class="red-circle">a</span>). Alle Navigationselemente erzeugt das Omeka-Tool automatisch (Vorschaubilder können Sie auf Wunsch auswählen), die eigentliche Gestaltung der Ausstellungs-Seiten beschränkt sich auf den Content-Bereich (Abb. A.2 <span class="red-circle">c</span>) und die Sidebar am rechten Rand (<span class="red-circle">d</span>).
 
@@ -26,7 +26,7 @@ Die Elemente (Widgets) in der rechten Sidebar erscheinen auf allen Seiten der Au
 
 !![Abb. A.4 Die Elemente des Inhaltsbereichs][A-4]
 
-Für alle Objekte auf Ausstellungsseiten gilt, für beschnittene Vorschaubilder (Thumbnails) wie für großformatige Abbildung in den Originalproportionen des Objekts gleichermaßen: Ein Klick auf das Bild öffnet eine so genannte „Lightbox“, in der die Abbildung in einer Größe erscheint, die die Dimensionen des Browserfensters optimal ausnutzt; gleichzeitig wird die Seite im Hintergrund abgedunkelt (Abb. A.5).
+Für alle Objekte auf Ausstellungsseiten – für beschnittene Vorschaubilder (Thumbnails) wie für großformatige Abbildung in den Originalproportionen des Objekts – gilt: Ein Klick auf das Bild öffnet eine „Lightbox“, in der die Abbildung in einer Größe erscheint, die die Dimensionen des Browserfensters optimal ausnutzt; gleichzeitig wird die Seite im Hintergrund abgedunkelt (Abb. A.5).
 
 Die Lightbox enthält neben der großformatigen Objektdarstellung eine Reihe von objektbezogenen Informationen und Navigationselementen. Sind mehrere Objekte auf der Ausstellungsseite eingebunden, erscheint links unten in der Lightbox eine Navigationseinheit, mit der man durch alle Objekte der Seite blättern kann, ohne die Lightbox schließen zu müssen. Der Info-Button öffnet und schließt die Anzeige von Titel und Beschreibung, die in einem halbtransparenten Streifen am unteren Bildrand eingeblendet werden kann. Beim Aufruf der Lightbox ist dieser Info-Streifen zunächst eingeblendet; er kann über das „x“ an seinem oberen rechten Rand geschlossen werden. Das Copyright-Symbol blendet Informationen zu den urheberrechtlichen Bedingungen ein, unter denen das Objekt in der Ausstellung veröffentlicht wird. Das Kettensymbol mit dem Textlink „zum Objekt“ führt zu einer Detail-Seite, auf der alle öffentlichen Metadaten zu diesem Objekt zusammengestellt sind.
 
@@ -38,6 +38,7 @@ Es gibt zwei Arten von Detail-Seiten zu den einzelnen Objekten:
 
 * Detailseiten im Portal der Deutschen Digitalen Bibliothek
 * Detailseiten im Rahmen der aktuellen virtuellen Ausstellung.
+
 Welcher Typ von Detail-Seite bei einem Klick auf „zum Objekt“ aufgerufen wird, hängt davon ab, ob das betreffende Objekt bereits im Datenbestand der Deutschen Digitalen Bibliothek vorhanden ist.
 
 Die virtuellen Ausstellungen der Deutschen Digitalen sind als eine Möglichkeit gedacht, die dort verfügbaren Objekte in thematischen Zusammenhängen zu präsentieren und damit für das interessierte Publikum besser zugänglich zu machen. Insofern ist es der „Normalfall“, dass die in der virtuellen Ausstellung gezeigten Objekte bereits in der Deutschen Digitalen Bibliothek vorhanden sind. Abb. A.6 zeigt die Objektseite zu einem solchen Exponat in der Ausstellung „Zu Mythen und Monumenten. Die Forschungsreise von Konrad Theodor Preuss nach Kolumbien (1913−1919)“. Die Nutzerinnen und Nutzer haben – in einem neuen Browserfenster – den Rahmen der virtuellen Ausstellung verlassen und befinden sich nun auf dem Portal der Deutschen Digitalen Bibliothek. Die angezeigte Abbildung und die Metadaten stammen aus dem Datenbestand der Deutschen Digitalen Bibliothek und können von Ihnen als KuratorInnen im Rahmen der Erstellung Ihrer Ausstellung nicht direkt verändert werden. Schließen Nutzerinnen und Nutzer das Browserfenster (bzw. den Browser-Tab), befinden sie sich wieder auf der Ausstellungsseite, auf der das Objekt eingebunden war.
