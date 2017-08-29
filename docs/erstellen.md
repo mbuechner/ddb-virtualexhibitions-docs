@@ -8,12 +8,12 @@ Wenn Sie das Objekt mit Hilfe von Metadaten beschrieben haben, sollten Sie es in
 
 Um Objekte auf einer Ausstellungsseite einbinden zu können, müssen sie bereits angelegt worden sein. Dies geschieht in der Rubrik „Objekte“, wo Sie auch alle Objekte der Ausstellung zentral verwalten (Abb. B.2.1, <span class="red-circle">1</span>).
 
-!![Abb. B.2.1 Die Rubrik "Objekte"][B-2-1]
+!![Abb. B.2.1 Die Rubrik „Objekte“][B-2-1]
 
 Über die Schaltfläche „Neues Objekt hinzufügen“ (<span class="red-circle">2</span>) kann ein neues Objekt angelegt werden.
 Die Seite „Neues Objekt hinzufügen“ (Abb. B.2.2) bietet am oberen Rand drei Tabs, über die sich die verschiedenen Eingabemasken aufrufen lassen, mit denen die Daten und Verknüpfungen zum betreffenden Objekt erfasst werden. Ein Klick auf die Schaltfläche „Objekt hinzufügen“ (<span class="red-circle">1</span>) legt das neue Objekt in der Datenbank an. Zuvor müssen Sie allerdings noch einige Metadatenfelder zum Objekt ausfüllen, denn es handelt sich um Pflichtfelder.  
 
-!![Abb. B.2.2 Seite Neues Objekt hinzufügen][B-2-2]
+!![Abb. B.2.2 Seite „Neues Objekt hinzufügen“][B-2-2]
 
 
 ## B.2.2 Das Objekt mit Metadaten versehen
@@ -24,7 +24,7 @@ Wenn Sie die Metadaten eines bereits angelegten Objekts ergänzen oder ändern m
 
 Die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek arbeiten mit einem speziell zu diesem Zweck zusammengestellten Metadatenschema (s. Anhang Abschnitt C.1), das die notwendigen Angaben für unterschiedliche Objektkategorien wie Texte, Bilder, Filme, kunstgewerbliche Gegenstände etc. zusammenfasst. Die Werte mancher Felder werden bei der Ausgabe im Frontend direkt ausgeben, andere erzeugen nur einen Link oder dienen der Einbindung von Daten, etwa eines Vimeo-Videos. Nicht alle Felder müssen ausgefüllt werden; nicht ausgefüllte Felder werden bei der Ausgabe ignoriert. Pflichtfelder sind in der grauen Box über dem Eingabefeld als solche gekennzeichnet, außerdem finden Sie dort bei den meisten Feldern eine kurze Erläuterung bzw. Beispiele, mit welchen Informationen das Feld zu befüllen ist. Hinweise zu den einzelnen Feldern der Eingabemaske finden Sie außerdem im Anhang (Abschnitt C.1). 
 
-Wenn Sie fertig sind, sichern Sie Ihre Eingabe mit einem Klick auf das Bedienfeld „Änderungen übernehmen“(Abb. B.2.4, <span class="red-circle">1</span>).
+Wenn Sie fertig sind, sichern Sie Ihre Eingabe mit einem Klick auf das Bedienfeld „Änderungen übernehmen“ (Abb. B.2.4, <span class="red-circle">1</span>).
 
 !![Abb. B.2.4 Metadaten des Objekts auf der Seite „Objekt … bearbeiten“][B-2-4]
 
@@ -34,7 +34,7 @@ Leider gibt es in der verwendeten Ausstellungs-Software keine Möglichkeit, bei 
 
 Um die Bearbeitung fortsetzen zu können, rufen Sie über die Schaltfläche „Bearbeiten“ (<span class="red-circle">1</span>) wieder die Seite „Objekt … bearbeiten“ auf und wählen dort den Tab „Metadaten des Objekts“ (vgl. Abb. B.2.4). Das ist sicherlich etwas umständlich, die zwei Klicks sind aber gut investiert, und wir empfehlen dringend, bei komplexen Eingaben gelegentlich zwischenzuspeichern.
 
-## B.2.3 Das Objekt mit Datein verknüpfen
+## B.2.3 Das Objekt mit Dateien verknüpfen
 
 ### B.2.3.1 Verknüpfen mit einer Bild- oder Audiodatei
 
@@ -73,7 +73,7 @@ In der Dialogbox „Video-Shortcode bearbeiten“ (Abb. B.2.9) stellen Sie zunä
 
 Die Software sieht vor, dass Objekte mit beliebig vielen Dateien verknüpft werden können. Nun wird in der Frontend-Darstellung auf den Ausstellungsseiten immer nur eine Datei angezeigt. Erst wenn die NutzerInnen das Objekt in der Lightbox aufrufen, werden auch die weiteren Abbildungen ausgegeben. In Ausnahmefällen kann das sinnvoll sein, normalerweise sollten aber alle gezeigten Abbildungen auf den Ausstellungsseiten selbst erscheinen. Wollen Sie also beispielsweise mehrere Seiten eines Dokuments anzeigen, legen Sie für jede Seite ein eigenes Objekt an und verknüpfen diese mit den entsprechenden Grafikdateien.
 
-Es besteht aber auch die Möglichkeit, solche Objekte außerhalb des Layout-Rahmens der Ausstellung in einem  so genannten Bookviewer anzeigen zu lassen, der das Blättern durch die verschiedenen Seiten eines Dokuments, die Blätter einer Grafikfolge etc. ermöglicht. Der Bookviewer öffnet sich in einem neuen Fenster, das er ganz ausfüllt. Nutzerinnen und Nutzer können hier die z. B. Seiten des Objektes durchblättern und sich so das gesamte umfangreiche Dokument anschauen (Abb. B.2.10).
+Es besteht aber auch die Möglichkeit, solche Objekte außerhalb des Layout-Rahmens der Ausstellung in einem  so genannten Bookviewer anzeigen zu lassen, der das Blättern durch die Seiten eines Dokuments, die Blätter einer Grafikfolge etc. ermöglicht. Der Bookviewer öffnet sich in einem neuen Fenster, das er ganz ausfüllt (Abb. B.2.10).
 
 !![Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments][B-2-10]
 
@@ -83,7 +83,7 @@ Nachdem Sie im Tab „Dateien“ das Objekt mit einer ersten Datei verknüpft ha
 
 !![Abb. B.2.11 Hinzufügen weiterer Dateien zu einem Objekt][B-2-11]
 
-Der letzte Schritt ist nun, einen Link zu erzeugen, mit dem Sie den Bookviewer mit diesem Objekt in Ihre Ausstellung einbinden können. Der Link zum Bookviewer hat die folgende Struktur: [Slug Ihrer Ausstellung]/viewer/show/[ID des Objekts]/#page/n0/mode/2up. Die beiden variablen Bestandteile (Slug und ID) finden Sie leicht, wenn Sie im Backend in die Adresszeile Ihres Browsers schauen: Der Slug schließt unmittelbar an die Domainendung „.de/“ an, die ID ist die Zahl am Ende der URL. In unserem Beispiel ergibt sich so der relative Link: „kuratorenhandbuch/viewer/show/2/#page/n0/mode/2up“. 
+Der letzte Schritt ist nun, einen Link zu erzeugen, mit dem Sie den Bookviewer mit diesem Objekt in Ihre Ausstellung einbinden können. Den Link zum Bookviewer finden Sie auf der Seite „Objekt ...“ (vgl. Abb. B.2.5) in der rechten Spalte im untersten Kasten.
 
 Sie können nun noch die Darstellungsoptionen im Viewer ändern, indem Sie die Parameter „n0“ und „2up“ ändern. „n1“ schlägt initial die Seite 2 der Folge auf, „n5“ die Seite 6 usw. Analog dazu zeigt „1up“ Einzelseiten, „2up“ jeweils zwei Seiten usw.
 
@@ -93,7 +93,7 @@ Neben Bildern, Audiodateien und Videos können Sie auch 3D-Objekte in Ihre Ausst
 
 !![Abb. B.2.12 Der Player zur Anzeige eines 3D-Objekts in der Lightbox][B-2-12]
 
-Ein Klick auf das Laufrad (oben rechts) öffnet die Lightbox mit einem 3D-Viewer, in dem sich das historische Objekt bzw. sein 3D-Modell von allen Seiten betrachten lässt. Eine Übersicht (auf Englisch) der im 3D-Viewer verfügbaren Navigationsbefehle finden Sie [hier](http://x3dom.org/download/1.5.1/docs/html/navigation.html).
+Ein Klick auf das Laufrad (oben rechts) öffnet die Lightbox mit einem 3D-Viewer, in dem sich das historische Objekt bzw. sein 3D-Modell von allen Seiten betrachten lässt (Abb.B.2.12). Eine Übersicht (auf Englisch) der im 3D-Viewer verfügbaren Navigationsbefehle finden Sie [hier](http://x3dom.org/download/1.5.1/docs/html/navigation.html).
 Für das Einfügen von 3D-Dateien steht auf der Seite „Objekt … bearbeiten“ ein eigener Reiter zur Verfügung (Abb. B.2.13, <span class="red-circle">1</span>). Sie benötigen drei Dateien für die Darstellung eines 3D-Objekt im 3D-Player:
 
 * eine .X3D-Datei als räumliches Modell, 
