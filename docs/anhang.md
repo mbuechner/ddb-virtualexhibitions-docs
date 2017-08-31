@@ -36,7 +36,7 @@ Offizielle Bezeichnung der Institution, die das Objekt besitzt
 ##### URL der Institution
 
 Internet-Präsenz der Institution, die das Objekt besitzt  
-**Ausgabe** als Ziel hinter dem verlinkten Namen der Institution: Objekt-Detailseite; Lightbox
+**Ausgabe**: als Ziel hinter dem verlinkten Namen der Institution: Objekt-Detailseite; Lightbox
 
 ##### Link zum Objekt in der DDB
 
@@ -46,13 +46,13 @@ URL des Objekts im Portal der DDB. Wichtig: Die korrekte URL erhalten Sie nur, i
 
 ##### Link zum Objekt bei der datengebenden Institution
 
-URL des Objektss in der Datenbank oder auf der Website der Institution, die das Objekt besitzt   
+URL des Objekts in der Datenbank oder auf der Website der Institution, die das Objekt besitzt   
 **Ausgabe**: Objekt-Detailseite; Lightbox (Ziel des Links „zum Objekt“)  
 **Anmerkung**: Bitte **nur** dann ausfüllen, wenn das Objekt **nicht** in der Deutschen Digitalen Bibliothek zu finden ist. Andernfalls unbedingt leer lassen!
 
 ##### Rechtsstatus*
 
-Angabe von Lizenz oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste.    
+Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste.    
 **Ausgabe** (als Lizenz-Piktogramm): Objekt-Detailseite; Lightbox (aufrufbar über das (c) -Symbol) 
 **Anmerkung**: Die Shortcodes erzeugen in der Lightbox und auf der Detailseite Piktogramme, die mit einer Seite verlinkt sind, auf der die betreffende Lizenz beschrieben ist.
 
@@ -69,7 +69,7 @@ Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z. B. erschienen in ..
 
 ##### Thema
 
-Thema, Konext, Indexbegriff, Ort ...  
+Thema, Kontext, Indexbegriff, Ort ...  
 **Ausgabe**: Objekt-Detailseite
 
 ##### Beteiligte Personen und Organisationen
@@ -141,7 +141,7 @@ Damit die Imagemap auch nach dem Umzug vom Entwicklungs- auf den Live-Server noc
 href="/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto"
 ````
 
-Wenn Sie möchten, dass das verlinkte Objekt direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und und hängen an die URL den Zusatz „?lbitem“ + plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte?). Die URL sieht dann beispielsweise so aus:
+Wenn Sie möchten, dass das verlinkte Objekt direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und hängen an die URL den Zusatz „?lbitem“ + plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte?). Die URL sieht dann beispielsweise so aus:
 
 ````
 href="/tanz/exhibits/show/das-gedaechtnis-des-tanzes/moderne-taenze?lbitem=4"
@@ -178,14 +178,14 @@ Mit diesem Icon (Abb. C.3) können Sie Listen in Ihren Text einfügen. Die Liste
 Listen sind Absatzformatierungen, die Listenpunkte müssen also zunächst Absätze sein. Markieren Sie dann alle Absätze (durch „Enter“ getrennte Zeilen) und machen Sie sie durch einen Klick auf das Listen-Icon zur Liste. Alternativ können Sie einfach den ersten Absatz als Liste formatieren – mit der Enter-Eingabe wird der folgende Absatz automatisch als Listenabsatz formatiert. Um die Listenformatierung zu entfernen, markieren Sie die gesamte Liste und klicken erneut auf das Listen-Icon.
 
 
-!![Abb. C.3 Texteditor: Unsortierte Liste][C-3]
+!![Abb. C.3 Texteditor: unsortierte Liste][C-3]
 
 ##### Liste (sortiert)
 
 Nummerierte (sortierte) Listen unterscheiden sich von den unsortierten nur dadurch, dass an Stelle des Listenpunkts eine Ordnungszahl erscheint (Abb. C.4). Auch auf das Format der Nummerierung haben Sie keinen Einfluss.
 
 
-!![Abb. C.4 Texteditor: Sortierte Liste][C-4]
+!![Abb. C.4 Texteditor: sortierte Liste][C-4]
 
 ##### Links einfügen
 
@@ -195,11 +195,11 @@ Nummerierte (sortierte) Listen unterscheiden sich von den unsortierten nur dadur
 
 Beim Klick auf das Kettensymbol öffnet sich eine Eingabemaske, in der Sie die zur Verlinkung notwendigen Einstellungen vornehmen können (Abb. C.6). 
 
-Bei Links auf andere Seiten Ihrer Ausstellung setzen Sie so genannte **relative** Links. Dazu gehen Sie auf die betreffende Seite, kopieren die URL aus der Adresszeile Ihres Browsers und entfernen alles bis zur Top-Level-Domain „.de“. Ein relativer Link sieht dann beispielsweise so aus: „/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto“. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „Im selben Fenster öffnen“.
+Bei Links auf andere Seiten Ihrer Ausstellung setzen Sie als so genannte **relative** Links. Dazu gehen Sie auf die betreffende Seite, kopieren die URL aus der Adresszeile Ihres Browsers und entfernen alles bis zur Top-Level-Domain „.de“. Ein relativer Link sieht dann beispielsweise so aus: „/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto“. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „Im selben Fenster öffnen“.
 
 Bei Links auf Seiten außerhalb Ihrer Ausstellung setzen Sie **absolute** Links, die Sie direkt aus der Adresszeile Ihres Browsers übernehmen können. Im Auswahlmenü „Fenster“ wählen Sie den Eintrag „In neuem Fenster öffnen“. 
 
-!![Abb. C.6 Texteditor: Dialogcenter zum Setzen eines Links][C-6]
+!![Abb. C.6 Texteditor: Dialogfenster zum Setzen eines Links][C-6]
 
 ##### Zitatblock
 
@@ -254,7 +254,7 @@ Zum Schließen der Vollbild-Ansicht klicken Sie einfach noch einmal auf das ents
 [C-3]: img/C-3.jpg "Abb. C.3 Texteditor: unsortierte Liste"
 [C-4]: img/C-4.jpg "Abb. C.4 Texteditor: sortierte Liste"
 [C-5]: img/C-5.jpg "Abb. C.5 Texteditor: einen Link setzen"
-[C-6]: img/C-6.jpg "Abb. C.6 Texteditor: Eingabemaske zum Setzen eines Links"
+[C-6]: img/C-6.jpg "Abb. C.6 Texteditor: Dialogfenster zum Setzen eines Links"
 [C-7]: img/C-7.jpg "Abb. C.7 Texteditor: Text als Zitatblock setzen"
 [C-8]: img/C-8.jpg "Abb. C.8 Texteditor: Quellenangabe Zitatblock"
 [C-9]: img/C-9.jpg "Abb. C.9 Texteditor: Überschriften"
