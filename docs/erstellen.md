@@ -8,7 +8,7 @@ Wenn Sie das Objekt mit Hilfe von Metadaten beschrieben haben, sollten Sie es in
 
 Um Objekte auf einer Ausstellungsseite einbinden zu können, müssen sie bereits angelegt worden sein. Dies geschieht in der Rubrik „Objekte“, wo Sie auch alle Objekte der Ausstellung zentral verwalten (Abb. B.2.1, <span class="red-circle">1</span>).
 
-!![Abb. B.2.1 Die Rubrik „Objekte“][B-2-1]
+!![Abb. B.2.1 Die Rubrik „Objekte“][B-2-1] 
 
 Über die Schaltfläche „Neues Objekt hinzufügen“ (<span class="red-circle">2</span>) kann ein neues Objekt angelegt werden.
 Die Seite „Neues Objekt hinzufügen“ (Abb. B.2.2) bietet am oberen Rand drei Tabs, über die sich die verschiedenen Eingabemasken aufrufen lassen, mit denen die Daten und Verknüpfungen zum betreffenden Objekt erfasst werden. Ein Klick auf die Schaltfläche „Objekt hinzufügen“ (<span class="red-circle">1</span>) legt das neue Objekt in der Datenbank an. Zuvor müssen Sie allerdings noch einige Metadatenfelder zum Objekt ausfüllen, denn es handelt sich um Pflichtfelder.  
@@ -22,7 +22,7 @@ Wenn Sie die Metadaten eines bereits angelegten Objekts ergänzen oder ändern m
 
 !![Abb. B.2.3 Objekt bearbeiten][B-2-3]
 
-Die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek arbeiten mit einem speziell zu diesem Zweck zusammengestellten Metadatenschema (s. Anhang Abschnitt C.1), das die notwendigen Angaben für unterschiedliche Objektkategorien wie Texte, Bilder, Filme, kunstgewerbliche Gegenstände etc. zusammenfasst. Die Werte mancher Felder werden bei der Ausgabe im Frontend direkt ausgeben, andere erzeugen nur einen Link oder dienen der Einbindung von Daten, etwa eines Vimeo-Videos. Nicht alle Felder müssen ausgefüllt werden; nicht ausgefüllte Felder werden bei der Ausgabe ignoriert. Pflichtfelder sind in der grauen Box über dem Eingabefeld als solche gekennzeichnet, außerdem finden Sie dort bei den meisten Feldern eine kurze Erläuterung bzw. Beispiele, mit welchen Informationen das Feld zu befüllen ist. Hinweise zu den einzelnen Feldern der Eingabemaske finden Sie außerdem im Anhang (Abschnitt C.1). 
+Die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek arbeiten mit einem speziell zu diesem Zweck zusammengestellten Metadatenschema (s. Anhang [Abschnitt C.1][1]), das die notwendigen Angaben für unterschiedliche Objektkategorien wie Texte, Bilder, Filme, kunstgewerbliche Gegenstände etc. zusammenfasst. Die Werte mancher Felder werden bei der Ausgabe im Frontend direkt ausgeben, andere erzeugen nur einen Link oder dienen der Einbindung von Daten, etwa eines Vimeo-Videos. Nicht alle Felder müssen ausgefüllt werden; nicht ausgefüllte Felder werden bei der Ausgabe ignoriert. Pflichtfelder sind in der grauen Box über dem Eingabefeld als solche gekennzeichnet, außerdem finden Sie dort bei den meisten Feldern eine kurze Erläuterung bzw. Beispiele, mit welchen Informationen das Feld zu befüllen ist. Hinweise zu den einzelnen Feldern der Eingabemaske finden Sie außerdem im Anhang ([Abschnitt C.1][1]). 
 
 Wenn Sie fertig sind, sichern Sie Ihre Eingabe mit einem Klick auf das Bedienfeld „Änderungen übernehmen“ (Abb. B.2.4, <span class="red-circle">1</span>).
 
@@ -30,7 +30,7 @@ Wenn Sie fertig sind, sichern Sie Ihre Eingabe mit einem Klick auf das Bedienfel
 
 Leider gibt es in der verwendeten Ausstellungs-Software keine Möglichkeit, bei der Bearbeitung der Metadaten die schon vorgenommenen Eingaben zu speichern, ohne die Seite „Objekt … bearbeiten“ zu verlassen und auf die Seite „Objekt …“ zu gelangen (Abb. B.2.5).
 
-!![Abb. B.2.5 Seite „Objekt ...“][B-2-5]
+!![Abb. B.2.5 Seite „Objekt ...“ <a href="/impressum/index.html#rechtehinweis-abbildungen" target="_blank">©</a>][B-2-5]
 
 Um die Bearbeitung fortsetzen zu können, rufen Sie über die Schaltfläche „Bearbeiten“ (<span class="red-circle">1</span>) wieder die Seite „Objekt … bearbeiten“ auf und wählen dort den Tab „Metadaten des Objekts“ (vgl. Abb. B.2.4). Das ist sicherlich etwas umständlich, die zwei Klicks sind aber gut investiert, und wir empfehlen dringend, bei komplexen Eingaben gelegentlich zwischenzuspeichern.
 
@@ -75,7 +75,7 @@ Die Software sieht vor, dass Objekte mit beliebig vielen Dateien verknüpft werd
 
 Es besteht aber auch die Möglichkeit, solche Objekte außerhalb des Layout-Rahmens der Ausstellung in einem  so genannten Bookviewer anzeigen zu lassen, der das Blättern durch die Seiten eines Dokuments, die Blätter einer Grafikfolge etc. ermöglicht. Der Bookviewer öffnet sich in einem neuen Fenster, das er ganz ausfüllt (Abb. B.2.10).
 
-!![Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments][B-2-10]
+!![Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments <a href="/impressum/index.html#rechtehinweis-abbildungen" target="_blank">©</a>][B-2-10]
 
 Legen Sie für ein Konvolut, das Sie mit dem Bookviewer darstellen möchten, immer ein eigenes Objekt an, auch wenn Sie beispielsweise dessen  einzelne Blätter bereits als Objekte angelegt haben.
 
@@ -91,7 +91,7 @@ Sie können nun noch die Darstellungsoptionen im Viewer ändern, indem Sie die P
 
 Neben Bildern, Audiodateien und Videos können Sie auch 3D-Objekte in Ihre Ausstellung einbinden. Ein Beispiel finden Sie in der virtuellen Ausstellung zur Geschichte Karlsruhes auf [Seite 11](http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/karl-drais---erfinder-des-zweirads).
 
-!![Abb. B.2.12 Der Player zur Anzeige eines 3D-Objekts in der Lightbox][B-2-12]
+!![Abb. B.2.12 Der Player zur Anzeige eines 3D-Objekts in der Lightbox <a href="/impressum/index.html#rechtehinweis-abbildungen" target="_blank">©</a>][B-2-12]
 
 Ein Klick auf das Laufrad (oben rechts) öffnet die Lightbox mit einem 3D-Viewer, in dem sich das historische Objekt bzw. sein 3D-Modell von allen Seiten betrachten lässt (Abb.B.2.12). Eine Übersicht (auf Englisch) der im 3D-Viewer verfügbaren Navigationsbefehle finden Sie [hier](http://x3dom.org/download/1.5.1/docs/html/navigation.html).
 Für das Einfügen von 3D-Dateien steht auf der Seite „Objekt … bearbeiten“ ein eigener Reiter zur Verfügung (Abb. B.2.13, <span class="red-circle">1</span>). Sie benötigen drei Dateien für die Darstellung eines 3D-Objekt im 3D-Player:
@@ -124,4 +124,6 @@ Die Eingabe in „In allen Feldern suchen“ (<span class="red-circle">a</span>)
 [B-2-12]: img/B-2-12.jpg "Abb. B.2.13 Der Player zur Anzeige eines 3D-Objekts in der Lightbox"
 [B-2-13]: img/B-2-13.jpg "Abb. B.2.14 3D-Objekte einbinden"
 [B-2-14]: img/B-2-14.jpg "Die Suchmaske der Objektsuche"
+
+[1]: /anhang/index.html#c1-metadaten "zum Abschnitt C.1 Metadaten"
 

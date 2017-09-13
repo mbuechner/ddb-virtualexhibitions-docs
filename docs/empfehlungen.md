@@ -4,7 +4,7 @@
 
 Liebe Kuratorinnen und Kuratoren, 
 
-die Wahl des Themas Ihrer virtuellen Ausstellung, der gezeigten Objekte sowie der Ausgestaltung von Layout und Text liegt, wie gesagt, bei Ihnen. Im Folgenden möchten wir Ihnen dennoch einige redaktionellen Empfehlungen und Hinweise geben, die wir aus unserer bisherigen Zusammenarbeit mit KuratorInnen gewonnen haben und die Ihnen bei der Erstellung Ihrer eigenen virtuellen Ausstellung behilflich sein sollen. 
+Sie können, wie bereits erwähnt, das Thema Ihrer virtuellen Ausstellung frei wählen, ebenso die Ausgestaltung von Layout und Text und – in einem gewissen Rahmen – die gezeigten Objekte. Im Folgenden möchten wir Ihnen dennoch einige redaktionellen Empfehlungen und Hinweise geben, die wir aus unserer bisherigen Zusammenarbeit mit KuratorInnen gewonnen haben und die Ihnen bei der Erstellung Ihrer eigenen virtuellen Ausstellung behilflich sein sollen. 
 
 -    Eine virtuelle Ausstellung ist nicht das gleiche wie eine physische Ausstellung! Auch wenn die virtuelle Ausstellung auf einer physischen Ausstellung beruht oder ein ähnliches Thema behandelt, bedenken Sie immer: Texte und Objekte sollten an die spezifischen Erfordernisse des Mediums Internet angepasst sein.
 -    Überlegen Sie sich vor Beginn der Arbeit, wer die Zielgruppe Ihrer virtuellen Ausstellung ist. Dies beeinflusst nicht nur das Thema, sondern kann sich auch auf die verwendeten Objekte auswirken: Wenn Ihre Zielgruppe vor allem mobile Endgeräte benutzt, sollten Sie etwa darauf verzichten, allzu große Objekte mit langen Ladezeiten zu verwenden.
