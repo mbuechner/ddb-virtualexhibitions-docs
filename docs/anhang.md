@@ -119,14 +119,14 @@ Fördermittelgeber, Förderprogramm
 
 ##### Videoquelle
 
-Sie können Videos aus der DDB oder von Vimeo nutzen. Optional können Sie einen Ausschnitt des Videos zeigen. Bitte nutzen Sie den Video-Shortcode-Helfer (siehe Abschnitt B.2.3.2).  
+Sie können Videos aus der DDB oder von Vimeo nutzen. Optional können Sie einen Ausschnitt des Videos zeigen. Bitte nutzen Sie den Video-Shortcode-Helfer (s. [Abschnitt B.2.3.2][1]).  
 **Ausgabe**: als Video in einem Player (Ausstellungseite und Objekt-Detailseite)
 
 ##### Imagemap
 
 HTML-Code einer verweissensitiven Grafik  
 **Ausgabe**: erzeugt Imagemap (Ausstellungsseite und Objekt-Detailseite)  
-**Anmerkung**: Imagemaps sind verweis-sensitive Grafiken, bei denen bestimmte Regionen auf eine interne oder externe URL verlinken. Ein Beispiel finden Sie auf der Seite [„Die Forschungsreise nach Kolumbien“](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/forschungsreise-nach-kolumbien) der Ausstellung „Zu Mythen und Monumenten“. Wenn Sie die historische Kolumbienkarte in der Lightbox aufrufen, verlinken die roten Markierungen auf andere Seiten dieser virtuellen Ausstellung. So können Sie auch auf Objektebene Querverweise in Ihre Ausstellung einbinden. Wie Sie den HTML-Code für eine Imagemap erzeugen, ist auf der Seite [SelfHTML](https://wiki.selfhtml.org/wiki/HTML/Multimedia_und_Grafiken/verweissensitive_Grafiken) ausführlich und gut verständlich erklärt. Zu beachten ist allerdings, dass Sie im Feld „Imagemap“ nicht das Bild (Image), sondern lediglich die Karte (Map), also die Codierung der klickbaren Bereiche einfügen. Das Bild wird – wie bei anderen Objekten auch – über den Tab „Datei“ mit dem Objekt verknüpft (siehe oben Abschnitt B.2.3). Der einzufügende Code beginnt also mit
+**Anmerkung**: Imagemaps sind verweis-sensitive Grafiken, bei denen bestimmte Regionen auf eine interne oder externe URL verlinken. Ein Beispiel finden Sie auf der Seite [„Die Forschungsreise nach Kolumbien“](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/forschungsreise-nach-kolumbien) der Ausstellung „Zu Mythen und Monumenten“. Wenn Sie die historische Kolumbienkarte in der Lightbox aufrufen, verlinken die roten Markierungen auf andere Seiten dieser virtuellen Ausstellung. So können Sie auch auf Objektebene Querverweise in Ihre Ausstellung einbinden. Wie Sie den HTML-Code für eine Imagemap erzeugen, ist auf der Seite [SelfHTML](https://wiki.selfhtml.org/wiki/HTML/Multimedia_und_Grafiken/verweissensitive_Grafiken) ausführlich und gut verständlich erklärt. Zu beachten ist allerdings, dass Sie im Feld „Imagemap“ nicht das Bild (Image), sondern lediglich die Karte (Map), also die Codierung der klickbaren Bereiche einfügen. Das Bild wird – wie bei anderen Objekten auch – über den Tab „Datei“ mit dem Objekt verknüpft (s. oben [Abschnitt B.2.3][2]). Der einzufügende Code beginnt also mit
 ```
 <map name=“ImageMap“>
 ``` 
@@ -262,3 +262,6 @@ Zum Schließen der Vollbild-Ansicht klicken Sie einfach noch einmal auf das ents
 [C-11]: img/C-11.jpg "Abb. C.11 Texteditor: HTML Quellcode bearbeiten"
 [C-12]: img/C-12.jpg "Abb. C.12 Texteditor: Vollbild-Modus aufrufen"
 [C-13]: img/C-13.jpg "Abb. C.13 Texteditor: im Vollbild-Modus arbeiten"
+
+[1]: /erstellen/index.html#b232-verknupfung-mit-einer-videodatei "zum Abschnitt B.2.3.2"
+[2]: /erstellen/index.html#b23-das-objekt-mit-dateien-verknupfen "zum Abschnitt B.2.3"

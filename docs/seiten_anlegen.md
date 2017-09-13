@@ -2,13 +2,13 @@
 
 ### B.4.1 Seite anlegen
 
-Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen (zu der bereits vorhandenen Seite „Inhalt der Ausstellung“ siehe unten Abschnitt B.4.4.5), klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
+Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen (zu der bereits vorhandenen Seite „Inhalt der Ausstellung“ s. unten [Abschnitt B.4.4.5][3]), klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
 
 !![Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“][B-4-1]
 
 Auf der Seite „Seite hinzufügen“ gelangen Sie zunächst zu einer Eingabemaske für die Metadaten der Ausstellungsseite (Abb. B.4.2). Der Titel (<span class="red-circle">1</span>) erscheint in der Frontend-Ausgabe links oben über den Inhalten der Seite, direkt unter der grafischen Seitennavigation. 
 
-Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolge an, die am Ende der URL erscheinen soll, wenn die NutzerInnen die Ausstellungsseiten in ihrem Browser aufrufen. Bitte beachten Sie unbedingt die Regeln und Konventionen, die wir im Abschnitt zu den Metadaten der Ausstellung erläutert haben (siehe Abschnitt B.3.1). Es empfiehlt sich, hier aussagekräftige Begriffe zu verwenden, um die Auffindbarkeit der Inhalte für Suchmaschinen zu optimieren. Sie können dieses Feld auch leer lassen, dann erstellt Omeka, sobald Sie „Änderungen übernehmen“ klicken (<span class="red-circle">3</span>) einen Slug aus dem Titel der Seite; Sie können ihn bei Bedarf später anpassen.
+Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolge an, die am Ende der URL erscheinen soll, wenn die NutzerInnen die Ausstellungsseiten in ihrem Browser aufrufen. Bitte beachten Sie unbedingt die Regeln und Konventionen, die wir im Abschnitt zu den Metadaten der Ausstellung erläutert haben (s. [Abschnitt B.3.1][1]). Es empfiehlt sich, hier aussagekräftige Begriffe zu verwenden, um die Auffindbarkeit der Inhalte für Suchmaschinen zu optimieren. Sie können dieses Feld auch leer lassen, dann erstellt Omeka, sobald Sie „Änderungen übernehmen“ klicken (<span class="red-circle">3</span>) einen Slug aus dem Titel der Seite; Sie können ihn bei Bedarf später anpassen.
 
 !![Abb. B.4.2 Die Metadaten der Ausstellungsseite - Titel und Slug ][B-4-2]
 
@@ -24,7 +24,7 @@ Nun wählen Sie ein Seitenlayout für Ihre Ausstellungsseite aus (<span class="r
 
 ### B.4.2 Die Layouts für Ausstellungsseiten
 
-Wie wir in Abschnitt A gesehen haben (vgl. Abb. A.8), bietet Ihnen die Ausstellungs-Software der Deutschen Digitalen Bibliothek eine Palette von Layouts, die Objekte und Textblöcke auf unterschiedliche Weise miteinander kombinieren.
+Wie wir in [Abschnitt A][4] gesehen haben (vgl. Abb. A.8), bietet Ihnen die Ausstellungs-Software der Deutschen Digitalen Bibliothek eine Palette von Layouts, die Objekte und Textblöcke auf unterschiedliche Weise miteinander kombinieren.
 
 Bei der Planung Ihrer Ausstellung können Sie sich an den Seiten der bestehenden [virtuellen Ausstellungen der Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/content/ausstellungen) orientieren. Sie vermitteln einen guten Eindruck über die Möglichkeiten der einzelnen Layout-Optionen.
 
@@ -39,7 +39,7 @@ Dieses Layout (Abb. B.4.4) kombiniert Text in der linken Spalte mit einer Zusamm
 
 Klicken die NutzerInnen auf eines der Objekte, öffnet sich die Lightbox mit einer Großansicht des Bildes bzw. einem Audio- oder Video-Player (vgl. Abb. A.5). Das Verhalten von Haupt- und Galerie-Objekten ist – und das gilt für alle Layouts – in dieser Hinsicht identisch.
 
-Layout 1 bietet zudem die Möglichkeit, die rechte Spalte mit Text zu versehen. Er erscheint dann unterhalb der Objekte. Bei größeren Textmengen können Sie so zweispaltige Textlayouts realisieren. Zur Arbeit mit zweispaltigen Texten siehe Abschnitt B.4.4.4.
+Layout 1 bietet zudem die Möglichkeit, die rechte Spalte mit Text zu versehen. Er erscheint dann unterhalb der Objekte. Bei größeren Textmengen können Sie so zweispaltige Textlayouts realisieren. Zur Arbeit mit zweispaltigen Texten s. [Abschnitt B.4.4.4][2].
 
 Für alle Layouts gilt: Sie können Elemente auslassen, die Frontend-Ausgabe passt sich dann automatisch an, es entstehen also keine „Lücken“. Verzichten Sie z. B. auf das Hauptbild, erscheint in der rechten Spalte nur die Objekt-Galerie. 
 
@@ -51,7 +51,7 @@ Von Layout 1 unterscheidet sich Layout 2 (Abb. B.4.5) lediglich durch die Form, 
 
 ##### Layout 3: Vorschaubilder-Galerie mit optionalem Text oben und unten
 
-Ein reines Galerie-Format bietet Layout 3 (Abb. B.4.6). Bis zu 24 Objekte erscheinen hier in Zeilen zu maximal sechs quadratischen Vorschaubildern nebeneinander. Über und unter dieser Galerie kann jeweils zweispaltiger Text eingefügt werden. Zur Arbeit mit zweispaltigen Texten siehe Abschnitt B.4.4.4.
+Ein reines Galerie-Format bietet Layout 3 (Abb. B.4.6). Bis zu 24 Objekte erscheinen hier in Zeilen zu maximal sechs quadratischen Vorschaubildern nebeneinander. Über und unter dieser Galerie kann jeweils zweispaltiger Text eingefügt werden. Zur Arbeit mit zweispaltigen Texten s. [Abschnitt B.4.4.4][2].
 
 !![Abb. B.4.6 Layout 3 – Vorschaubilder-Galerie mit optionalem Text oben und unten][B-4-6]
 
@@ -215,7 +215,7 @@ Für die anderen Seiten des Apparats verwenden Sie das Layout 1 (ohne Objekte ei
 
 Sie können den Apparat gerne um weitere Seiten ergänzen. So gibt es beispielsweise in der virtuellen Ausstellung zur Geschichte Karlsruhes ([„Vom Privilegienbrief zum Bundesverfassungsgericht“](http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/) ein [Glossar](http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/glossar) zu in den Ausstellungstexten erwähnten historischen Fachbegriffen.
 
-Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt B.4.1) ist hier kein Ausschnitt einer Objektabbildung (es handelt sich ja um reine Textseiten), sondern ein speziell formatierter Schriftzug mit dem Seitentitel. Diese Vorschaubilder werden vom Team der Deutschen Digitalen Bibliothek erzeugt und eingestellt, Sie können das betreffende Metadatenfeld einfach leer lassen.
+Das Vorschaubild für die grafische Seitennavigation (vgl. [Abschnitt B.4.1][5]) ist hier kein Ausschnitt einer Objektabbildung (es handelt sich ja um reine Textseiten), sondern ein speziell formatierter Schriftzug mit dem Seitentitel. Diese Vorschaubilder werden vom Team der Deutschen Digitalen Bibliothek erzeugt und eingestellt, Sie können das betreffende Metadatenfeld einfach leer lassen.
 
 
 [B-4-1]: img/B-4-1.jpg "Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“"
@@ -239,3 +239,9 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. Abschnitt B.4.1) ist 
 [B-4-19]: img/B-4-19.jpg "Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte"
 [B-4-20]: img/B-4-20.jpg "Abb. B.4.21 Texteingabe Einleitung zum Inhaltsverzeichnis"
 [B-4-21]: img/B-4-21.jpg "Abb. B.4.22 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis"
+
+[1]: /ausstellung_anlegen/index.html#b31-die-metadaten-der-ausstellung "zu Abschnitt B.3.1"
+[2]: /seiten_anlegen/index.html#b444-zweispaltiger-texte "zu Abschnitt B.4.4.4"
+[3]: /seiten_anlegen/index.html#b445-der-apparat-literatur-team-inhalt "zu Abschnitt B.4.4.5"
+[4]: /ueberblick/index.html "zu Abschnitt A"
+[5]: /seiten_anlegen/index.html#b41-seite-anlegen "zu Abschnitt B.4.1"
