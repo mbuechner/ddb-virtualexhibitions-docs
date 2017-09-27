@@ -39,6 +39,8 @@ extra:
   wording_built_using: 'unter Verwendung eines'
   wording_built_theme: 'Themes'
   wording_theme_by: 'von'
+  wording_search_docs: 'Handbuch durchsuchen'
+  wording_docs: 'Kuratoren-Handbuch'
 
 extra_css:
     - css/extra.css
