@@ -30,7 +30,7 @@ Wenn Sie fertig sind, sichern Sie Ihre Eingabe mit einem Klick auf das Bedienfel
 
 Leider gibt es in der verwendeten Ausstellungs-Software keine Möglichkeit, bei der Bearbeitung der Metadaten die schon vorgenommenen Eingaben zu speichern, ohne die Seite „Objekt … bearbeiten“ zu verlassen und auf die Seite „Objekt …“ zu gelangen (Abb. B.2.5).
 
-!![Abb. B.2.5 Seite „Objekt ...“ <a href="/impressum/index.html#rechtehinweis-abbildungen" target="_blank">©</a>][B-2-5]
+!![Abb. B.2.5 Seite „Objekt ...“ <a href="/impressum/index.html#rechtehinweis-abbildungen" target="_blank"></a>][B-2-5]
 
 Um die Bearbeitung fortsetzen zu können, rufen Sie über die Schaltfläche „Bearbeiten“ (<span class="red-circle">1</span>) wieder die Seite „Objekt … bearbeiten“ auf und wählen dort den Tab „Metadaten des Objekts“ (vgl. Abb. B.2.4). Das ist sicherlich etwas umständlich, die zwei Klicks sind aber gut investiert, und wir empfehlen dringend, bei komplexen Eingaben gelegentlich zwischenzuspeichern.
 
