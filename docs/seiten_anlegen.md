@@ -203,9 +203,9 @@ Die zuletzt beschriebene Layoutvariante mit einer Textspalte links neben und ein
 
 #### B.4.4.5 Der Apparat – Literatur, Team, Inhalt
 
-Als letzten Teil einer Ausstellung ist ein Apparat mit ergänzenden Informationen, der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt.
+Als letzten Teil einer Ausstellung ist ein Apparat mit Literaturverzeichnis (Quellen, Forschungsliteratur, evtl. ergänzenden Informationen), der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt.
 
-Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungs-Seiten mit einer kurzen Einleitung (Abb. B.4.20, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.21, <span class="red-circle">1</span>) versehen.
+Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungs-Seiten mit einer kurzen Einleitung (Abb. B.4.20, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.21, <span class="red-circle">1</span>) versehen. 
 
 !![Abb. B.4.20 Texteingabe Einleitung zum Inhaltsverzeichnis][B-4-20]
 
