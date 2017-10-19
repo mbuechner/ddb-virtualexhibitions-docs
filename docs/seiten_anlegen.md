@@ -207,6 +207,8 @@ Als letzten Teil einer Ausstellung ist ein Apparat mit Literaturverzeichnis (Que
 
 Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungs-Seiten mit einer kurzen Einleitung (Abb. B.4.20, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.21, <span class="red-circle">1</span>) versehen. 
 
+Bitte geben Sie auf der Inhalts-Seite außerdem das Datum der Erstveröffentlichung an: Geben Sie im Widget der Seite (s. ANKER https://deutsche-digitale-bibliothek.github.io/ddb-virtualexhibitions-docs/seiten_anlegen/index.html#b41-seite-anlegen ODER noch besser auf Abb. B.4.3) das Datum im Format „veröffentlicht am TT. Monat JJJJ“ ein.
+
 !![Abb. B.4.20 Texteingabe Einleitung zum Inhaltsverzeichnis][B-4-20]
 
 !![Abb. B.4.21 Texteingabe nachgestellte Erläuterungen zum Inhaltsverzeichnis][B-4-21]
