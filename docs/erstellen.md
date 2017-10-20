@@ -121,7 +121,7 @@ Die Eingabe in „In allen Feldern suchen“ (<span class="red-circle">a</span>)
 [B-2-9]: img/B-2-9.jpg "B.2.9 Dialogbox „Video-Shortcode bearbeiten“" 
 [B-2-10]: img/B-2-10.jpg "Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/viewer/show/177#page/n0/mode/1up](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/viewer/show/177#page/n0/mode/1up)"
 [B-2-11]: img/B-2-11.jpg "Abb. B.2.11 Hinzufügen weiterer Dateien zu einem Objekt; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba) (obere Maske)"
-[B-2-12]: img/B-2-12.jpg "Abb. B.2.13 Der Player zur Anzeige eines 3D-Objekts in der Lightbox"
+[B-2-12]: img/B-2-12.jpg "Abb. B.2.13 Der Player zur Anzeige eines 3D-Objekts in der Lightbox; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/karl-drais---erfinder-des-zweirads](http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/karl-drais---erfinder-des-zweirads)"
 [B-2-13]: img/B-2-13.jpg "Abb. B.2.14 3D-Objekte einbinden"
 [B-2-14]: img/B-2-14.jpg "Die Suchmaske der Objektsuche"
 
