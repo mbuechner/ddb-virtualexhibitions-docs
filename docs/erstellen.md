@@ -30,7 +30,7 @@ Wenn Sie fertig sind, sichern Sie Ihre Eingabe mit einem Klick auf das Bedienfel
 
 Leider gibt es in der verwendeten Ausstellungs-Software keine Möglichkeit, bei der Bearbeitung der Metadaten die schon vorgenommenen Eingaben zu speichern, ohne die Seite „Objekt … bearbeiten“ zu verlassen und auf die Seite „Objekt …“ zu gelangen (Abb. B.2.5).
 
-!![Abb. B.2.5 Seite „Objekt ...“ <a href="/impressum/index.html#rechtehinweis-abbildungen" target="_blank">©</a>][B-2-5]
+!![Abb. B.2.5 Seite „Objekt ...“</a>][B-2-5]
 
 Um die Bearbeitung fortsetzen zu können, rufen Sie über die Schaltfläche „Bearbeiten“ (<span class="red-circle">1</span>) wieder die Seite „Objekt … bearbeiten“ auf und wählen dort den Tab „Metadaten des Objekts“ (vgl. Abb. B.2.4). Das ist sicherlich etwas umständlich, die zwei Klicks sind aber gut investiert, und wir empfehlen dringend, bei komplexen Eingaben gelegentlich zwischenzuspeichern.
 
@@ -75,7 +75,7 @@ Die Software sieht vor, dass Objekte mit beliebig vielen Dateien verknüpft werd
 
 Es besteht aber auch die Möglichkeit, solche Objekte außerhalb des Layout-Rahmens der Ausstellung in einem  so genannten Bookviewer anzeigen zu lassen, der das Blättern durch die Seiten eines Dokuments, die Blätter einer Grafikfolge etc. ermöglicht. Der Bookviewer öffnet sich in einem neuen Fenster, das er ganz ausfüllt (Abb. B.2.10).
 
-!![Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments <a href="/impressum/index.html#rechtehinweis-abbildungen" target="_blank">©</a>][B-2-10]
+!![Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments][B-2-10]
 
 Legen Sie für ein Konvolut, das Sie mit dem Bookviewer darstellen möchten, immer ein eigenes Objekt an, auch wenn Sie beispielsweise dessen  einzelne Blätter bereits als Objekte angelegt haben.
 
@@ -91,7 +91,7 @@ Sie können nun noch die Darstellungsoptionen im Viewer ändern, indem Sie die P
 
 Neben Bildern, Audiodateien und Videos können Sie auch 3D-Objekte in Ihre Ausstellung einbinden. Ein Beispiel finden Sie in der virtuellen Ausstellung zur Geschichte Karlsruhes auf [Seite 11](http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/karl-drais---erfinder-des-zweirads).
 
-!![Abb. B.2.12 Der Player zur Anzeige eines 3D-Objekts in der Lightbox <a href="/impressum/index.html#rechtehinweis-abbildungen" target="_blank">©</a>][B-2-12]
+!![Abb. B.2.12 Der Player zur Anzeige eines 3D-Objekts in der Lightbox][B-2-12]
 
 Ein Klick auf das Laufrad (oben rechts) öffnet die Lightbox mit einem 3D-Viewer, in dem sich das historische Objekt bzw. sein 3D-Modell von allen Seiten betrachten lässt (Abb.B.2.12). Eine Übersicht (auf Englisch) der im 3D-Viewer verfügbaren Navigationsbefehle finden Sie [hier](http://x3dom.org/download/1.5.1/docs/html/navigation.html).
 Für das Einfügen von 3D-Dateien steht auf der Seite „Objekt … bearbeiten“ ein eigener Reiter zur Verfügung (Abb. B.2.13, <span class="red-circle">1</span>). Sie benötigen drei Dateien für die Darstellung eines 3D-Objekt im 3D-Player:
@@ -112,16 +112,16 @@ Die Eingabe in „In allen Feldern suchen“ (<span class="red-circle">a</span>)
 
 [B-2-1]: img/B-2-1.jpg "Die Rubrik „Objekte“"
 [B-2-2]: img/B-2-2.jpg "Abb. B.2.2 Seite „Neues Objekt hinzufügen“"
-[B-2-3]: img/B-2-3.jpg "Abb. B.2.3 Objekt bearbeiten"
+[B-2-3]: img/B-2-3.jpg "Abb. B.2.3 Objekt bearbeiten; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba) (obere Maske)"
 [B-2-4]: img/B-2-4.jpg "Abb. B.2.4 Metadaten des Objekts auf der Seite „Objekt … bearbeiten“"
-[B-2-5]: img/B-2-5.jpg "Abb. B.2.5 Seite „Objekt ...“"
+[B-2-5]: img/B-2-5.jpg "Abb. B.2.5 Seite „Objekt ...“; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba) (obere Maske)"
 [B-2-6]: img/B-2-6.jpg "Abb. B.2.6 Tab „Dateien“ der Seite „Objekt … bearbeiten“"
-[B-2-7]: img/B-2-7.jpg "Abb. B.2.7 Tab „Dateien“ nach Einfügen einer Datei"
+[B-2-7]: img/B-2-7.jpg "Abb. B.2.7 Tab „Dateien“ nach Einfügen einer Datei; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba) (obere Maske)"
 [B-2-8]: img/B-2-8.jpg "Abb. B.2.8 Einbindung eines Videos über das Metadatenfeld „Videoquelle“"
 [B-2-9]: img/B-2-9.jpg "B.2.9 Dialogbox „Video-Shortcode bearbeiten“" 
-[B-2-10]: img/B-2-10.jpg "Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments"
-[B-2-11]: img/B-2-11.jpg "Abb. B.2.11 Hinzufügen weiterer Dateien zu einem Objekt"
-[B-2-12]: img/B-2-12.jpg "Abb. B.2.13 Der Player zur Anzeige eines 3D-Objekts in der Lightbox"
+[B-2-10]: img/B-2-10.jpg "Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/viewer/show/177#page/n0/mode/1up](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/viewer/show/177#page/n0/mode/1up)"
+[B-2-11]: img/B-2-11.jpg "Abb. B.2.11 Hinzufügen weiterer Dateien zu einem Objekt; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba) (obere Maske)"
+[B-2-12]: img/B-2-12.jpg "Abb. B.2.13 Der Player zur Anzeige eines 3D-Objekts in der Lightbox; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/karl-drais---erfinder-des-zweirads](http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/karl-drais---erfinder-des-zweirads)"
 [B-2-13]: img/B-2-13.jpg "Abb. B.2.14 3D-Objekte einbinden"
 [B-2-14]: img/B-2-14.jpg "Die Suchmaske der Objektsuche"
 

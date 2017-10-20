@@ -10,7 +10,7 @@ Zur Bearbeitung der Ausstellung rufen Sie die Ausstellungsseite über den Menüp
 
 Der Titel der Ausstellung (<span class="red-circle">1</span>) erscheint auf der [Übersichtsseite zu den virtuellen Ausstellungen der Deutschen Digitalen Bibliothek](https://www.deutsche-digitale-bibliothek.de/content/ausstellungen) sowie in der Breadcrumb-Navigation am oberen Rand Ihrer Ausstellungsseiten, direkt unter der DDB-Hauptnavigation (Abb. B.3.2).
 
-!![Abb. B.3.2 Der Ausstellungstitel in der Breadcrumb-Navigation][B-3-2]
+!![Abb. B.3.2 Der Ausstellungstitel in der Breadcrumb-Navigation; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-3-2]
 
 Im Feld „Slug“ (Abb. B.3.2, <span class="red-circle">2</span>) geben Sie an, mit welcher Zeichenfolge Ihre Ausstellung in der URL der Ausstellungsseiten erscheinen soll. Bei der Beispiel-Ausstellung „Zu Mythen und Monumenten“ ist dies der Nachname des Amerikanisten Konrad Theodor Preuss: http://ausstellungen.deutsche-digitale-bibliothek.de/**preuss**/ Für das Ranking Ihrer Ausstellungsseiten durch Suchmaschinen ist es günstig, wenn inhaltlich wichtige, aussagekräftige Begriffe in der URL vorkommen.
 
@@ -40,7 +40,7 @@ Damit haben Sie alle erforderlichen Metadaten zur Ausstellung eingegeben und kö
 
 
 [B-3-1]: img/B-3-1.jpg "Abb. B.3.1 Die Seite „Ausstellung ...“"
-[B-3-2]: img/B-3-2.jpg "Abb. B.3.2 Der Ausstellungstitel in der Breadcrumb-Navigation"
+[B-3-2]: img/B-3-2.jpg "Abb. B.3.2 Der Ausstellungstitel in der Breadcrumb-Navigation]"
 [B-3-3]: img/B-3-3.jpg "Abb. B.3.3 Eingabefelder zu den Widgets oben und Mitte"
 [B-3-4]: img/B-3-4.jpg "Abb. B.3.4 Eingabefelder zu Ausstellungslogo und unterem Widget"
 

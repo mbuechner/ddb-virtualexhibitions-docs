@@ -2,7 +2,7 @@
 
 ### B.4.1 Seite anlegen
 
-Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen (zu der bereits vorhandenen Seite „Inhalt der Ausstellung“ s. unten [Abschnitt B.4.4.5][3]), klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
+Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen (zu der bereits vorhandenen Seite „Inhalt der Ausstellung“ s. [Abschnitt B.4.4.5][3]), klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
 
 !![Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“][B-4-1]
 
@@ -16,9 +16,9 @@ Das Feld „Widget Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bi
 
 Gedacht ist dieser Bereich für Querverlinkungen und weiterführende Informationen. Für alle wesentlichen Informationen verwenden Sie bitte den Inhaltsbereich der Seite.
 
-Die Grafik, die Sie über „Vorschaubilder-Ansicht für die Seitennavigation“ auswählen (<span class="red-circle">2</span>), erscheint als Vorschaubild in der grafischen Navigation über den Inhalten der Seite (vgl. Abb. A.2, b). Die erforderlichen Abmessungen von 92 x 71 Pixel sind im Formular angegeben; als Dateiformate sind .jpg und .png möglich. Für das Erscheinungsbild und die Funktionalität der Ausstellung zahlt es sich aus, diese Vorschaubilder sorgfältig zu gestalten. Der gewählte Ausschnitt (in der Regel: einer Abbildung von der betreffenden Seite) sollte attraktiv, aussagekräftig und einprägsam sein.
+Die Grafik, die Sie über „Vorschaubilder-Ansicht für die Seitennavigation“ auswählen (<span class="red-circle">2</span>), erscheint als Vorschaubild in der grafischen Navigation über den Inhalten der Seite (vgl. Abb. A.2, b). Die erforderlichen Abmessungen von 92 x 71 Pixel sind im Formular angegeben; als Dateiformate sind .jpg und .png möglich. Für das Erscheinungsbild und die Funktionalität der Ausstellung zahlt es sich aus, diese Vorschaubilder sorgfältig zu gestalten. Der gewählte Ausschnitt (in der Regel: einer Abbildung von der betreffenden Seite) sollte attraktiv, aussagekräftig und einprägsam sein.<a id="Abb-B-4-3"></a>
 
-!![Abb. B.4.3 Die Metadaten der Ausstellungsseite - Widget Content und Vorschaubild][B-4-3]
+!![Abb. B.4.3 Die Metadaten der Ausstellungsseite - Widget Content und Vorschaubild; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/die-anreise" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-3] 
 
 Nun wählen Sie ein Seitenlayout für Ihre Ausstellungsseite aus (<span class="red-circle">3</span>). Welche Optionen Ihnen dabei zur Verfügung stehen, erläutern wir ausführlich im nachfolgenden Abschnitt. Abschließend speichern Sie Ihre Eingaben über die Schaltfläche „Änderungen übernehmen“ (<span class="red-circle">4</span>).
 
@@ -47,13 +47,13 @@ Für alle Layouts gilt: Sie können Elemente auslassen, die Frontend-Ausgabe pas
 
 Von Layout 1 unterscheidet sich Layout 2 (Abb. B.4.5) lediglich durch die Form, in der die Galerie-Objekte dargestellt werden. Unter dem Hauptbild erscheinen immer maximal drei quadratische Vorschaubilder. Sind weitere Objekte in der Galerie vorhanden, können die NutzerInnen über die Pfeile links und rechts der Galerie den ‚Filmstreifen‘ um je drei Bilder weiter bzw. zurückschieben. Auch hier ist die Anzahl der Galerie-Objekte auf zwölf limitiert.
 
-!![Abb. B.4.5 Layout 2 - Seite mit Bild rechts und Vorschaubildern als Karussell][B-4-5]
+!![Abb. B.4.5 Layout 2 - Seite mit Bild rechts und Vorschaubildern als Karussell; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/okima-fest" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-5]
 
 ##### Layout 3: Vorschaubilder-Galerie mit optionalem Text oben und unten
 
 Ein reines Galerie-Format bietet Layout 3 (Abb. B.4.6). Bis zu 24 Objekte erscheinen hier in Zeilen zu maximal sechs quadratischen Vorschaubildern nebeneinander. Über und unter dieser Galerie kann jeweils zweispaltiger Text eingefügt werden. Zur Arbeit mit zweispaltigen Texten s. [Abschnitt B.4.4.4][2].
 
-!![Abb. B.4.6 Layout 3 – Vorschaubilder-Galerie mit optionalem Text oben und unten][B-4-6]
+!![Abb. B.4.6 Layout 3 – Vorschaubilder-Galerie mit optionalem Text oben und unten; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fotografische-dokumentation" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-6]
 
 ##### Layout 4: Seite mit Bildern links
 
@@ -63,25 +63,25 @@ Nehmen die Texte weniger Raum ein, als die Höhe der Abbildung vorgibt, entsteht
 
 Ist der Text umfangreicher, rücken umgekehrt die Objekte in der linken Spalte auseinander. 
 
-!![Abb. B.4.7 Layout 4 – Seite mit Bildern links][B-4-7]
+!![Abb. B.4.7 Layout 4 – Seite mit Bildern links; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/lebensweg-eines-forschers" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-7]
 
 ##### Layout 5: Seite mit Bildern abwechselnd links und rechts
 
 Was die Zuordnung von Objekt und Text angeht, folgt Layout 5 (Abb. B.4.8) dem gleichen Prinzip wie Layout 4, allerdings wechselt mit jedem eingebundenen Objekt die Position von Objekt und Text zwischen links und rechts. Ist hier der Text zu einem Objekt sehr viel kürzer oder länger als der neben dem Objekt zur Verfügung stehende Raum, entsteht ein ausgesprochen unruhiges Erscheinungsbild. Wir empfehlen, dieses Layout nur zu verwenden, wenn die Proportionen der Objektabbildungen und die Längen der Beschreibungstexte relativ einheitlich sind bzw. wenn Sie in der Lage sind, beide aufeinander abzustimmen.
 
-!![Abb. B.4.8 Layout 5 – Seite mit Bildern abwechselnd links und rechts][B-4-8]
+!![Abb. B.4.8 Layout 5 – Seite mit Bildern abwechselnd links und rechts; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/industrialisierung" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-8]
 
 ##### Layout 6: Seite mit Bildern rechts
 
 Layout 6 (Abb. B.4.9) unterscheidet sich von Layout 4 nur dadurch, dass die Objekte hier auf der rechten Seite erscheinen. Texte und Objekte sind auch hier einander direkt zugeordnet. In Anbetracht der für europäische Sehgewohnheiten üblichen Leserichtung von links nach rechts kann man davon ausgehen, dass der links positionierte Text für den Nutzer hier dominanter ist als bei Layout 4. Wenn Sie also einen Text mit Abbildungen versehen wollen, was im gezeigten Beispiel der Fall ist, bietet sich Layout 6 an. Wenn dagegen Abbildungen durch Texte erläutert werden sollen, ist das Schema von Layout 4 vielleicht etwas besser geeignet.
 
-!![Abb. B.4.9 Layout 6 – Seite mit Bildern rechts][B-4-9]
+!![Abb. B.4.9 Layout 6 – Seite mit Bildern rechts; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/lebensweg-eines-forschers" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-9]
 
 ##### Layout 7: Seite mit großen, fortlaufenden Bildern rechts
 
 Wie bei Layout 1 und 2 sind auch bei Layout 7 (Abb. B.4.10) die Textblöcke in sich geschlossen und nicht unmittelbar auf die einzelnen, in der rechten Spalte angezeigten Objekte bezogen. Alle Objekte werden hier gleichrangig dargestellt, sie erscheinen spaltenbreit in den Originalproportionen der zugehörigen Bilder. 
 
-!![Abb. B.4.10 Layout 7 – Seite mit großen, fortlaufenden Bildern rechts][B-4-10]
+!![Abb. B.4.10 Layout 7 – Seite mit großen, fortlaufenden Bildern rechts; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/lebensweg-eines-forschers" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-10]
 
 Auch bei Layout 7 besteht die Möglichkeit, Texte in der rechten Spalte unterhalb der Objekte zu platzieren.
 
@@ -89,7 +89,7 @@ Auch bei Layout 7 besteht die Möglichkeit, Texte in der rechten Spalte unterhal
 
 Demselben Prinzip wie Layout 7 folgt Layout 8 (Abb. B.4.11), mit dem Unterschied, dass hier die Objekt-Abbildungen etwas kleiner dargestellt werden. Das betrifft vor allem Hochformate, die bei spaltenbreiter Darstellung sonst recht viel Platz einnehmen würden. 
 
-!![Abb. B.4.11 Layout 8 – Seite mit kleinen, fortlaufenden Bildern rechts][B-4-11]
+!![Abb. B.4.11 Layout 8 – Seite mit kleinen, fortlaufenden Bildern rechts; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/forschung-und-kulturwandel" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-11]
 
 ### B.4.3 Inhalte einstellen
 
@@ -110,13 +110,13 @@ Das Einfügen eines Objekts erfolgt über die Schaltfläche „Objekt hinzufüge
 
 !![Abb. B.4.13 Objekt hinzufügen][B-4-13]
 
-!![Abb. B.4.14 Dialogfenster „Objekt hinzufügen“][B-4-14]
+!![Abb. B.4.14 Dialogfenster „Objekt hinzufügen“; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-14]
 
 Sie können die Liste aller Objekte durchblättern, um das gewünschte Objekt auszuwählen und über die Schaltfläche „Ausgewähltes Objekt hinzufügen“ in die Ausstellungsseite einzubinden.
 
 Nach dem Einfügen des Objekts ist die Anzeige des Objekt-Inhaltselements erweitert (Abb. B.4.15). Oben links erscheint der Titel des Objekts und Vorschaubild (<span class="red-circle">a</span>). Darunter bietet ein Editor die Möglichkeit, eine Bildunterschrift einzufügen (<span class="red-circle">b</span>). Wenn Sie das Objekt von Ihrer Ausstellungs-Seite wieder entfernen möchten, klicken Sie auf die Schaltfläche „Dieses Objekt entfernen“ (<span class="red-circle">c</span>). Vorsicht: Das Objekt wird sofort und endgültig gelöscht, ohne dass Sie noch einmal um eine Bestätigung gebeten werden. Wirksam wird die Löschung allerdings erst, wenn Sie die Änderungen auf der Seite übernehmen.
 
-!![Abb. B.4.15 Inhaltselement Objekt – hier ein Hauptbild][B-4-15]
+!![Abb. B.4.15 Inhaltselement Objekt – hier ein Hauptbild; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-15]
 
 !!!note "Bildlegenden werden nur bei Hauptbildern ausgegeben"
 
@@ -203,9 +203,11 @@ Die zuletzt beschriebene Layoutvariante mit einer Textspalte links neben und ein
 
 #### B.4.4.5 Der Apparat – Literatur, Team, Inhalt
 
-Als letzten Teil einer Ausstellung ist ein Apparat mit ergänzenden Informationen, der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt.
+Als letzten Teil einer Ausstellung ist ein Apparat mit Literaturverzeichnis (Quellen, Forschungsliteratur, evtl. ergänzenden Informationen), der Vorstellung der Mitwirkenden und einem Inhaltsverzeichnis vorgesehen. Standard sind drei Seiten: Literatur, Team und Inhalt.
 
-Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungs-Seiten mit einer kurzen Einleitung (Abb. B.4.20, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.21, <span class="red-circle">1</span>) versehen.
+Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungs-Seiten mit einer kurzen Einleitung (Abb. B.4.20, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.21, <span class="red-circle">1</span>) versehen. 
+
+Bitte geben Sie auf der Inhalts-Seite außerdem das Datum der Erstveröffentlichung an: Geben Sie im Widget der Seite (s. [Abschnitt B.4.1, Abb. B.4.3][6]) das Datum im Format „veröffentlicht am TT. Monat JJJJ“ ein.
 
 !![Abb. B.4.20 Texteingabe Einleitung zum Inhaltsverzeichnis][B-4-20]
 
@@ -225,7 +227,7 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. [Abschnitt B.4.1][5])
 [B-4-5]: img/B-4-5.jpg "Abb. B.4.5 Layout 2 - Galerie rechts und Thumbnails als Karussell"
 [B-4-6]: img/B-4-6.jpg "Abb. B.4.6 Layout 3 – Thumbnailgalerie mit optionalem Text oben und unten"
 [B-4-7]: img/B-4-7.jpg "Abb. B.4.7 Layout 4 – Bilder links"
-[B-4-8]: img/B-4-8.jpg "Abb. B.4.8 Layout 5 – Bilder abwechselnd links und rechtstt"
+[B-4-8]: img/B-4-8.jpg "Abb. B.4.8 Layout 5 – Bilder abwechselnd links und rechts"
 [B-4-9]: img/B-4-9.jpg "Abb. B.4.9 Layout 6 – Bilder rechts"
 [B-4-10]: img/B-4-10.jpg "Abb. B.4.10 Layout 7 – große, fortlaufende Bilder rechts"
 [B-4-11]: img/B-4-11.jpg "Abb. B.4.11 Layout 8 – kleine, fortlaufende Bilder rechts"
@@ -245,3 +247,4 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. [Abschnitt B.4.1][5])
 [3]: /seiten_anlegen/index.html#b445-der-apparat-literatur-team-inhalt "zu Abschnitt B.4.4.5"
 [4]: /ueberblick/index.html "zu Abschnitt A"
 [5]: /seiten_anlegen/index.html#b41-seite-anlegen "zu Abschnitt B.4.1"
+[6]: /seiten_anlegen/index.html#Abb-B-4-3 "Abbildung B.4.3"
