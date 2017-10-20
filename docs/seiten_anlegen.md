@@ -16,9 +16,9 @@ Das Feld „Widget Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bi
 
 Gedacht ist dieser Bereich für Querverlinkungen und weiterführende Informationen. Für alle wesentlichen Informationen verwenden Sie bitte den Inhaltsbereich der Seite.
 
-Die Grafik, die Sie über „Vorschaubilder-Ansicht für die Seitennavigation“ auswählen (<span class="red-circle">2</span>), erscheint als Vorschaubild in der grafischen Navigation über den Inhalten der Seite (vgl. Abb. A.2, b). Die erforderlichen Abmessungen von 92 x 71 Pixel sind im Formular angegeben; als Dateiformate sind .jpg und .png möglich. Für das Erscheinungsbild und die Funktionalität der Ausstellung zahlt es sich aus, diese Vorschaubilder sorgfältig zu gestalten. Der gewählte Ausschnitt (in der Regel: einer Abbildung von der betreffenden Seite) sollte attraktiv, aussagekräftig und einprägsam sein.
+Die Grafik, die Sie über „Vorschaubilder-Ansicht für die Seitennavigation“ auswählen (<span class="red-circle">2</span>), erscheint als Vorschaubild in der grafischen Navigation über den Inhalten der Seite (vgl. Abb. A.2, b). Die erforderlichen Abmessungen von 92 x 71 Pixel sind im Formular angegeben; als Dateiformate sind .jpg und .png möglich. Für das Erscheinungsbild und die Funktionalität der Ausstellung zahlt es sich aus, diese Vorschaubilder sorgfältig zu gestalten. Der gewählte Ausschnitt (in der Regel: einer Abbildung von der betreffenden Seite) sollte attraktiv, aussagekräftig und einprägsam sein.<a id="Abb-B-4-3"></a>
 
-!![Abb. B.4.3 Die Metadaten der Ausstellungsseite - Widget Content und Vorschaubild][B-4-3]
+!![Abb. B.4.3 Die Metadaten der Ausstellungsseite - Widget Content und Vorschaubild][B-4-3] 
 
 Nun wählen Sie ein Seitenlayout für Ihre Ausstellungsseite aus (<span class="red-circle">3</span>). Welche Optionen Ihnen dabei zur Verfügung stehen, erläutern wir ausführlich im nachfolgenden Abschnitt. Abschließend speichern Sie Ihre Eingaben über die Schaltfläche „Änderungen übernehmen“ (<span class="red-circle">4</span>).
 
@@ -207,7 +207,7 @@ Als letzten Teil einer Ausstellung ist ein Apparat mit Literaturverzeichnis (Que
 
 Die Seite für das Inhaltsverzeichnis ist bereits angelegt und mit dem passenden Template verknüpft. Das Inhaltsverzeichnis selbst wird vom Online-Tool automatisch erstellt. Sie können diese Liste der Ausstellungs-Seiten mit einer kurzen Einleitung (Abb. B.4.20, <span class="red-circle">1</span>) und nachgestellten Erläuterungen (Abb. B.4.21, <span class="red-circle">1</span>) versehen. 
 
-Bitte geben Sie auf der Inhalts-Seite außerdem das Datum der Erstveröffentlichung an: Geben Sie im Widget der Seite (s. ANKER https://deutsche-digitale-bibliothek.github.io/ddb-virtualexhibitions-docs/seiten_anlegen/index.html#b41-seite-anlegen ODER noch besser auf Abb. B.4.3) das Datum im Format „veröffentlicht am TT. Monat JJJJ“ ein.
+Bitte geben Sie auf der Inhalts-Seite außerdem das Datum der Erstveröffentlichung an: Geben Sie im Widget der Seite (s. [Abschnitt B.4.1, Abb. B.4.3][6]) das Datum im Format „veröffentlicht am TT. Monat JJJJ“ ein.
 
 !![Abb. B.4.20 Texteingabe Einleitung zum Inhaltsverzeichnis][B-4-20]
 
@@ -247,3 +247,4 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. [Abschnitt B.4.1][5])
 [3]: /seiten_anlegen/index.html#b445-der-apparat-literatur-team-inhalt "zu Abschnitt B.4.4.5"
 [4]: /ueberblick/index.html "zu Abschnitt A"
 [5]: /seiten_anlegen/index.html#b41-seite-anlegen "zu Abschnitt B.4.1"
+[6]: /seiten_anlegen/index.html#Abb-B-4-3 "Abbildung B.4.3"
