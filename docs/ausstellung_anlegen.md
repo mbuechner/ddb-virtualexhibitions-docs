@@ -40,7 +40,7 @@ Damit haben Sie alle erforderlichen Metadaten zur Ausstellung eingegeben und kö
 
 
 [B-3-1]: img/B-3-1.jpg "Abb. B.3.1 Die Seite „Ausstellung ...“"
-[B-3-2]: img/B-3-2.jpg "Abb. B.3.2 Der Ausstellungstitel in der Breadcrumb-Navigation"
+[B-3-2]: img/B-3-2.jpg "Abb. B.3.2 Der Ausstellungstitel in der Breadcrumb-Navigation; Quelle: [http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/](http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/)"
 [B-3-3]: img/B-3-3.jpg "Abb. B.3.3 Eingabefelder zu den Widgets oben und Mitte"
 [B-3-4]: img/B-3-4.jpg "Abb. B.3.4 Eingabefelder zu Ausstellungslogo und unterem Widget"
 
