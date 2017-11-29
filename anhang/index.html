@@ -225,7 +225,7 @@
 <h5 id="imagemap">Imagemap<a class="headerlink" href="#imagemap" title="Permanent link">&para;</a></h5>
 <p>HTML-Code einer verweissensitiven Grafik<br />
 <strong>Ausgabe</strong>: erzeugt Imagemap (Ausstellungsseite und Objekt-Detailseite)<br />
-<strong>Anmerkung</strong>: Imagemaps sind verweis-sensitive Grafiken, bei denen bestimmte Regionen auf eine interne oder externe URL verlinken. Ein Beispiel finden Sie auf der Seite <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/forschungsreise-nach-kolumbien">„Die Forschungsreise nach Kolumbien“</a> der Ausstellung „Zu Mythen und Monumenten“. Wenn Sie die historische Kolumbienkarte in der Lightbox aufrufen, verlinken die roten Markierungen auf andere Seiten dieser virtuellen Ausstellung. So können Sie auch auf Objektebene Querverweise in Ihre Ausstellung einbinden. Wie Sie den HTML-Code für eine Imagemap erzeugen, ist auf der Seite <a href="https://wiki.selfhtml.org/wiki/HTML/Multimedia_und_Grafiken/verweissensitive_Grafiken">SelfHTML</a> ausführlich und gut verständlich erklärt. Zu beachten ist allerdings, dass Sie im Feld „Imagemap“ nicht das Bild (Image), sondern lediglich die Karte (Map), also die Codierung der klickbaren Bereiche einfügen. Das Bild wird – wie bei anderen Objekten auch – über den Tab „Datei“ mit dem Objekt verknüpft (s. oben <a href="../erstellen/index.html#b23-das-objekt-mit-dateien-verknupfen" title="zum Abschnitt B.2.3">Abschnitt B.2.3</a>). Der einzufügende Code beginnt also mit
+<strong>Anmerkung</strong>: Imagemaps sind verweissensitive Grafiken, bei denen bestimmte Regionen auf eine interne oder externe URL verlinken. Ein Beispiel finden Sie auf der Seite <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/forschungsreise-nach-kolumbien">„Die Forschungsreise nach Kolumbien“</a> der Ausstellung „Zu Mythen und Monumenten“. Wenn Sie die historische Kolumbienkarte in der Lightbox aufrufen, verlinken die roten Markierungen auf andere Seiten dieser virtuellen Ausstellung. So können Sie auch auf Objektebene Querverweise in Ihre Ausstellung einbinden. Wie Sie den HTML-Code für eine Imagemap erzeugen, ist auf der Seite <a href="https://wiki.selfhtml.org/wiki/HTML/Multimedia_und_Grafiken/verweissensitive_Grafiken">SelfHTML</a> ausführlich und gut verständlich erklärt. Zu beachten ist allerdings, dass Sie im Feld „Imagemap“ nicht das Bild (Image), sondern lediglich die Karte (Map), also die Codierung der klickbaren Bereiche einfügen. Das Bild wird – wie bei anderen Objekten auch – über den Tab „Datei“ mit dem Objekt verknüpft (s. oben <a href="../erstellen/index.html#b23-das-objekt-mit-dateien-verknupfen" title="zum Abschnitt B.2.3">Abschnitt B.2.3</a>). Der einzufügende Code beginnt also mit
 <div class="codehilite"><pre><span></span>&lt;map name=“ImageMap“&gt;
 </pre></div>
 
@@ -235,14 +235,16 @@ und endet mit  </p>
 
 Damit die Imagemap auch nach dem Umzug vom Entwicklungs- auf den Live-Server noch funktioniert, müssen alle Pfade relativ angegeben werden, also z. B.:</p>
 <div class="codehilite"><pre><span></span>href=&quot;/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto&quot;
+
+##### Verlinkung auf Objekte
 </pre></div>
 
 
-<p>Wenn Sie möchten, dass das verlinkte Objekt direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und hängen an die URL den Zusatz „?lbitem“ + plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte?). Die URL sieht dann beispielsweise so aus:</p>
-<div class="codehilite"><pre><span></span>href=&quot;/tanz/exhibits/show/das-gedaechtnis-des-tanzes/moderne-taenze?lbitem=4&quot;
+<p>Wenn Sie möchten, dass ein Objekt, auf das sie verlinken, direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und hängen an die URL den Zusatz „?lbitem“ plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte?). Die URL sieht dann beispielsweise so aus:</p>
+<p><div class="codehilite"><pre><span></span>href=&quot;/tanz/exhibits/show/das-gedaechtnis-des-tanzes/moderne-taenze?lbitem=4&quot;
 </pre></div>
 
-
+Sie können auf diese Weise sowohl aus Imagemaps heraus, als auch aus einem Seitentext auf ein Objekt verlinken.</p>
 <h2 id="c2-der-texteditor">C.2 Der Texteditor<a class="headerlink" href="#c2-der-texteditor" title="Permanent link">&para;</a></h2>
 <p>Die Eingabe der Texte für die Ausstellungsseiten erfolgt in einem Text-Editor (TinyMCE), der Ihnen in etwa die Formatierungsmöglichkeiten eines einfachen Textverarbeitungsprogramms bietet.</p>
 <p>Neben Formatierungen wie Fett- oder Kursiv-Satz erlaubt der Editor auch das Einfügen von Hyperlinks.</p>
