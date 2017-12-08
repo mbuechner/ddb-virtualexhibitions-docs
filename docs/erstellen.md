@@ -1,12 +1,12 @@
 ## B.2 Objekte in einer DDBstudio-Ausstellung anlegen
 
-Die Grundbausteine einer DDBstudio-Ausstellung sind die Objekte, die ‚Exponate‘ der virtuellen Ausstellung. Aus Sicht der NutzerInnen, die Ihre Ausstellung im Internet besuchen, sind Objekte die Medien (Bilder, Videos, Audio-Clips, 3D-Objekte), die Sie auf den Ausstellungsseiten präsentieren. Das Datenmodell der Ausstellungs-Software ist etwas differenzierter: Ein Objekt bezeichnet hier nicht einfach das Digitalisat eines realen Objekts, sondern es beschreibt das reale Objekt (z. B. ein Buch, ein archivalisches Dokument) vermittels Metadaten. Die Entsprechung in einer vordigitalen Bibliothek zu einem Objekt in einer DDBstudio-Ausstellung wäre eine Karteikarte im Katalog – also nicht das Medium selbst.
+Die Grundbausteine einer DDBstudio-Ausstellung sind die Objekte, die ‚Exponate‘ der virtuellen Ausstellung. Aus Sicht der NutzerInnen, die Ihre Ausstellung im Internet besuchen, sind Objekte die Medien (Bilder, Videos, Audio-Clips, 3D-Objekte), die Sie auf den Ausstellungs-Seiten präsentieren. Das Datenmodell der Ausstellungs-Software ist etwas differenzierter: Ein Objekt bezeichnet hier nicht einfach das Digitalisat eines realen Objekts, sondern es beschreibt das reale Objekt (z. B. ein Buch, ein archivalisches Dokument) vermittels Metadaten. Die Entsprechung in einer vordigitalen Bibliothek zu einem Objekt in einer DDBstudio-Ausstellung wäre eine Karteikarte im Katalog – also nicht das Medium selbst.
 
 Wenn Sie das Objekt mit Hilfe von Metadaten beschrieben haben, sollten Sie es in einem zweiten Schritt mit einer Datei verknüpfen, die dieses Objekt digital repräsentiert. Im klassischen Fall eines digitalisierten Realbestandes sind dies Scans oder Fotos, es kann sich aber auch um ein Video, eine Tonaufnahme oder ein 3D-Modell handeln. Objekt und Digitalisat(e) sind also logisch getrennte Einheiten – das gilt auch für genuin digitale Objekte wie etwa Videos oder Tonaufnahmen.
 
 ## B.2.1. Objekte hinzufügen
 
-Um Objekte auf einer Ausstellungsseite einbinden zu können, müssen sie bereits angelegt worden sein. Dies geschieht in der Rubrik „Objekte“, wo Sie auch alle Objekte der Ausstellung zentral verwalten (Abb. B.2.1, <span class="red-circle">1</span>).
+Um Objekte auf einer Ausstellungs-Seite einbinden zu können, müssen sie bereits angelegt worden sein. Dies geschieht in der Rubrik „Objekte“, wo Sie auch alle Objekte der Ausstellung zentral verwalten (Abb. B.2.1, <span class="red-circle">1</span>).
 
 !![Abb. B.2.1 Die Rubrik „Objekte“][B-2-1]
 
