@@ -143,12 +143,12 @@ href="/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto"
 ##### Verlinkung auf Objekte
 ````
 
-Wenn Sie möchten, dass ein Objekt, auf das sie verlinken, direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und hängen an die URL den Zusatz „?lbitem“ plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte?). Die URL sieht dann beispielsweise so aus:
+Wenn Sie möchten, dass ein Objekt, auf das Sie verlinken, direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und hängen an die URL den Zusatz „?lbitem“ plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte?). Die URL sieht dann beispielsweise so aus:
 
 ````
 href="/tanz/exhibits/show/das-gedaechtnis-des-tanzes/moderne-taenze?lbitem=4"
 ````
-Sie können auf diese Weise sowohl aus Imagemaps heraus, als auch aus einem Seitentext auf ein Objekt verlinken.
+Sie können auf diese Weise sowohl aus Imagemaps heraus als auch aus einem Seitentext auf ein Objekt verlinken.
 
 ## C.2 Der Texteditor
 
