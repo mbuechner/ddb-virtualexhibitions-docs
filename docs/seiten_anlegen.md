@@ -67,7 +67,7 @@ Ist der Text umfangreicher, rücken umgekehrt die Objekte in der linken Spalte a
 
 ##### Layout 5: Seite mit Bildern abwechselnd links und rechts
 
-Was die Zuordnung von Objekt und Text angeht, folgt Layout 5 (Abb. B.4.8) dem gleichen Prinzip wie Layout 4, allerdings wechselt mit jedem eingebundenen Objekt die Position von Objekt und Text zwischen links und rechts. Ist hier der Text zu einem Objekt sehr viel kürzer oder länger als der neben dem Objekt zur Verfügung stehende Raum, entsteht ein ausgesprochen unruhiges Erscheinungsbild. Wir empfehlen, dieses Layout nur zu verwenden, wenn die Proportionen der Objektabbildungen und die Längen der Beschreibungstexte relativ einheitlich sind bzw. wenn Sie in der Lage sind, beide aufeinander abzustimmen.
+Was die Zuordnung von Objekt und Text angeht, folgt Layout 5 (Abb. B.4.8) dem gleichen Prinzip wie Layout 4, allerdings wechselt mit jedem eingebundenen Objekt die Position von Objekt und Text zwischen links und rechts. Ist hier der Text zu einem Objekt sehr viel kürzer oder länger als der neben dem Objekt zur Verfügung stehende Raum, entsteht ein ausgesprochen unruhiges Erscheinungsbild. Wir empfehlen, dieses Layout nur zu verwenden, wenn die Proportionen der Objektabbildungen und die Längen der Beschreibungstexte relativ einheitlich sind bzw. wenn Sie in der Lage sind, beide aufeinander abzustimmen. 
 
 !![Abb. B.4.8 Layout 5 – Seite mit Bildern abwechselnd links und rechts; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/industrialisierung" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-8]
 
