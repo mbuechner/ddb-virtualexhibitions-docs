@@ -14,7 +14,7 @@ Unter der Wellenlinie, die den DDB-Kopfbereich abschließt (<span class="red-cir
 * Einer Breadcrumb-Navigation, die anzeigt, wo sich die aufgerufene Seite in der Seitenhierarchie des Portals befindet und den Nutzerinnen und Nutzern erlaubt, die übergeordneten Seiten anzuklicken,
 * sowie einer grafischen Navigation durch die Ausstellungs-Seiten (<span class="red-circle">b</span>). Die aktuelle Seite ist durch ein etwas größeres Vorschaubild und die fehlende Abschattung hervorgehoben. Durch Pfeilsymbole lässt sich der ‚Filmstreifen‘ der Vorschaubilder verschieben. Ein Klick auf das Vorschaubild führt zur betreffenden Seite. 
 
-Am unteren Ende jeder Ausstellungs-Seite erscheint direkt über dem DDB-Fußbereich zudem eine textliche Blätternavigation (Abb. A.3, <span class="red-circle">a</span>). Alle Navigationselemente erzeugt das Omeka-Tool automatisch (Vorschaubilder können Sie auf Wunsch auswählen), die eigentliche Gestaltung der Ausstellungs-Seiten beschränkt sich auf den Content-Bereich (Abb. A.2 <span class="red-circle">c</span>) und die Sidebar am rechten Rand (<span class="red-circle">d</span>).
+Am unteren Ende jeder Ausstellungs-Seite erscheint direkt über dem DDB-Fußbereich zudem eine textliche Blätternavigation (Abb. A.3, <span class="red-circle">a</span>). Alle Navigationselemente erzeugt das Omeka-Tool automatisch (Vorschaubilder können Sie auf Wunsch auswählen), die eigentliche Gestaltung der Ausstellungs-Seiten beschränkt sich auf den Content-Bereich (Abb. A.2 <span class="red-circle">c</span>) und die Marginalspalte am rechten Rand (<span class="red-circle">d</span>).
 
 !![Abb. A.3 Der Fußbereich der Ausstellungs-Seite][A-3]
 
@@ -22,7 +22,7 @@ Der von Ihnen zu gestaltende Bereich der virtuellen Ausstellung setzt sich aus v
 
 * Überschrift und Text der Ausstellungs-Seite, 
 * die auf der Ausstellungs-Seite gezeigten Objekte, die hier als Hauptbild und als Bildergalerie mit quadratischen Vorschaubildern angezeigt werden. 
-Die Elemente (Widgets) in der rechten Sidebar erscheinen auf allen Seiten der Ausstellung.
+Die Elemente (Widgets) in der rechten Marginalspalte erscheinen auf allen Seiten der Ausstellung.
 
 !![Abb. A.4 Die Elemente des Inhaltsbereichs; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/kino/exhibits/show/film-wwi/filzinger" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][A-4]
 
@@ -56,7 +56,7 @@ Für die Organisation der Inhalte hält das Omeka-Tool der Deutschen Digitalen B
 !![Abb. A.8 Beispiele für die Verwendung unterschiedlicher Seitenlayouts; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/ausgrabungen-in-san-agustin" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot links oben</a>; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fotografische-dokumentation" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot rechts oben</a>; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/forschung-als-abenteuer" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot links unten</a>; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-mythos-allmutter" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot rechts unten</a>][A-8]
 
 Abschließend sei noch darauf hingewiesen, dass die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek nach den Prinzipien des Responsive Web Design gestaltet sind. Das Layout der Seiten passt sich also dynamisch der Größe des Browserfensters an, in dem die Nutzerinnen und Nutzer die Ausstellung betrachten. Sie können diesen Effekt sehr schön nachvollziehen, wenn Sie eine virtuelle Ausstellung der Deutschen Digitalen Bibliothek in einem Browserfenster Ihres Desktop- oder Laptop-Computers aufrufen und dieses Fenster dann verkleinern und vergrößern.
-Anfänglich reagiert das Layout „fluid“, d. h. die Spalten des Layouts werden stufenlos schmaler, die Textzeilen brechen entsprechend anders um und die Abbildungen werden kleiner. Unterschreiten Sie eine bestimmte Größe, verschwindet zunächst die rechte Sidebar, bei noch kleineren Fenstern wird das Layout einspaltig.
+Anfänglich reagiert das Layout „fluid“, d. h. die Spalten des Layouts werden stufenlos schmaler, die Textzeilen brechen entsprechend anders um und die Abbildungen werden kleiner. Unterschreiten Sie eine bestimmte Größe, verschwindet zunächst die rechte Marginalspalte, bei noch kleineren Fenstern wird das Layout einspaltig.
 
 Diese Anpassung erfolgt automatisch durch die Programmierung der Seiten. Da immer mehr Nutzerinnen und Nutzer Webinhalte mit den Browsern ihrer Mobilgeräte (Smartphones, Tablets) anschauen, sollten Sie bei der Gestaltung Ihrer Ausstellung ein Auge darauf haben, wie die Gestaltung auf Mobilgeräten wirkt.
 
