@@ -1,16 +1,16 @@
-## B.4 Ausstellungsseiten anlegen
+## B.4 Ausstellungs-Seiten anlegen
 
 ### B.4.1 Seite anlegen
 
-Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungsseiten. Um eine Seite anzulegen (zu der bereits vorhandenen Seite „Inhalt der Ausstellung“ s. [Abschnitt B.4.4.5][3]), klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
+Nun beginnt der kreative Teil der Ausstellungsgestaltung: das Anlegen der Ausstellungs-Seiten. Um eine Seite anzulegen (zu der bereits vorhandenen Seite „Inhalt der Ausstellung“ s. [Abschnitt B.4.4.5][3]), klicken Sie unterhalb der Eingabemaske für die Metadaten der Ausstellung auf die Schaltfläche „Neue Seite hinzufügen“ (Abb. B.4.1, <span class="red-circle">1</span>).
 
 !![Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“][B-4-1]
 
-Auf der Seite „Seite hinzufügen“ gelangen Sie zunächst zu einer Eingabemaske für die Metadaten der Ausstellungsseite (Abb. B.4.2). Der Titel (<span class="red-circle">1</span>) erscheint in der Frontend-Ausgabe links oben über den Inhalten der Seite, direkt unter der grafischen Seitennavigation. 
+Auf der Seite „Seite hinzufügen“ gelangen Sie zunächst zu einer Eingabemaske für die Metadaten der Ausstellungs-Seite (Abb. B.4.2). Der Titel (<span class="red-circle">1</span>) erscheint in der Frontend-Ausgabe links oben über den Inhalten der Seite, direkt unter der grafischen Seitennavigation. 
 
-Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolge an, die am Ende der URL erscheinen soll, wenn die NutzerInnen die Ausstellungsseiten in ihrem Browser aufrufen. Bitte beachten Sie unbedingt die Regeln und Konventionen, die wir im Abschnitt zu den Metadaten der Ausstellung erläutert haben (s. [Abschnitt B.3.1][1]). Es empfiehlt sich, hier aussagekräftige Begriffe zu verwenden, um die Auffindbarkeit der Inhalte für Suchmaschinen zu optimieren. Sie können dieses Feld auch leer lassen, dann erstellt Omeka, sobald Sie „Änderungen übernehmen“ klicken (<span class="red-circle">3</span>) einen Slug aus dem Titel der Seite; Sie können ihn bei Bedarf später anpassen.
+Im Feld „Slug“ (<span class="red-circle">2</span>) geben Sie die Zeichenfolge an, die am Ende der URL erscheinen soll, wenn die NutzerInnen die Ausstellungs-Seiten in ihrem Browser aufrufen. Bitte beachten Sie unbedingt die Regeln und Konventionen, die wir im Abschnitt zu den Metadaten der Ausstellung erläutert haben (s. [Abschnitt B.3.1][1]). Es empfiehlt sich, hier aussagekräftige Begriffe zu verwenden, um die Auffindbarkeit der Inhalte für Suchmaschinen zu optimieren. Sie können dieses Feld auch leer lassen, dann erstellt Omeka, sobald Sie „Änderungen übernehmen“ klicken (<span class="red-circle">3</span>) einen Slug aus dem Titel der Seite; Sie können ihn bei Bedarf später anpassen.
 
-!![Abb. B.4.2 Die Metadaten der Ausstellungsseite - Titel und Slug ][B-4-2]
+!![Abb. B.4.2 Die Metadaten der Ausstellungs-Seite - Titel und Slug ][B-4-2]
 
 Das Feld „Widget Content“ (Abb. B.4.3, <span class="red-circle">1</span>) bietet Ihnen die Möglichkeit, in der rechten Marginalspalte von genau dieser einzelnen Ausstellungs-Seite einen Kasten mit Inhalten zu platzieren. Er erscheint unter dem obersten Widget der Ausstellung und ggf. über dem mittleren Widget (vgl. Abb. A.2, d).
 
@@ -18,11 +18,11 @@ Gedacht ist dieser Bereich für Querverlinkungen und weiterführende Information
 
 Die Grafik, die Sie über „Vorschaubilder-Ansicht für die Seitennavigation“ auswählen (<span class="red-circle">2</span>), erscheint als Vorschaubild in der grafischen Navigation über den Inhalten der Seite (vgl. Abb. A.2, b). Die erforderlichen Abmessungen von 92 x 71 Pixel sind im Formular angegeben; als Dateiformate sind .jpg und .png möglich. Für das Erscheinungsbild und die Funktionalität der Ausstellung zahlt es sich aus, diese Vorschaubilder sorgfältig zu gestalten. Der gewählte Ausschnitt (in der Regel: einer Abbildung von der betreffenden Seite) sollte attraktiv, aussagekräftig und einprägsam sein.<a id="Abb-B-4-3"></a>
 
-!![Abb. B.4.3 Die Metadaten der Ausstellungsseite - Widget Content und Vorschaubild][B-4-3] 
+!![Abb. B.4.3 Die Metadaten der Ausstellungs-Seite - Widget Content und Vorschaubild][B-4-3] 
 
-Nun wählen Sie ein Seitenlayout für Ihre Ausstellungsseite aus (<span class="red-circle">3</span>). Welche Optionen Ihnen dabei zur Verfügung stehen, erläutern wir ausführlich im nachfolgenden Abschnitt. Abschließend speichern Sie Ihre Eingaben über die Schaltfläche „Änderungen übernehmen“ (<span class="red-circle">4</span>).
+Nun wählen Sie ein Seitenlayout für Ihre Ausstellungs-Seite aus (<span class="red-circle">3</span>). Welche Optionen Ihnen dabei zur Verfügung stehen, erläutern wir ausführlich im nachfolgenden Abschnitt. Abschließend speichern Sie Ihre Eingaben über die Schaltfläche „Änderungen übernehmen“ (<span class="red-circle">4</span>).
 
-### B.4.2 Die Layouts für Ausstellungsseiten
+### B.4.2 Die Layouts für Ausstellungs-Seiten
 
 Wie wir in [Abschnitt A][4] gesehen haben (vgl. Abb. A.8), bietet Ihnen die Ausstellungs-Software der Deutschen Digitalen Bibliothek eine Palette von Layouts, die Objekte und Textblöcke auf unterschiedliche Weise miteinander kombinieren.
 
@@ -67,7 +67,7 @@ Ist der Text umfangreicher, rücken umgekehrt die Objekte in der linken Spalte a
 
 ##### Layout 5: Seite mit Bildern abwechselnd links und rechts
 
-Was die Zuordnung von Objekt und Text angeht, folgt Layout 5 (Abb. B.4.8) dem gleichen Prinzip wie Layout 4, allerdings wechselt mit jedem eingebundenen Objekt die Position von Objekt und Text zwischen links und rechts. Ist hier der Text zu einem Objekt sehr viel kürzer oder länger als der neben dem Objekt zur Verfügung stehende Raum, entsteht ein ausgesprochen unruhiges Erscheinungsbild. Wir empfehlen, dieses Layout nur zu verwenden, wenn die Proportionen der Objektabbildungen und die Längen der Beschreibungstexte relativ einheitlich sind bzw. wenn Sie in der Lage sind, beide aufeinander abzustimmen.
+Was die Zuordnung von Objekt und Text angeht, folgt Layout 5 (Abb. B.4.8) dem gleichen Prinzip wie Layout 4, allerdings wechselt mit jedem eingebundenen Objekt die Position von Objekt und Text zwischen links und rechts. Ist hier der Text zu einem Objekt sehr viel kürzer oder länger als der neben dem Objekt zur Verfügung stehende Raum, entsteht ein ausgesprochen unruhiges Erscheinungsbild. Wir empfehlen, dieses Layout nur zu verwenden, wenn die Proportionen der Objektabbildungen und die Längen der Beschreibungstexte relativ einheitlich sind bzw. wenn Sie in der Lage sind, beide aufeinander abzustimmen. 
 
 !![Abb. B.4.8 Layout 5 – Seite mit Bildern abwechselnd links und rechts; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/ka300/exhibits/show/vom-privilegienbrief-zum-bundesverfassungsgericht/industrialisierung" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-4-8]
 
@@ -195,7 +195,7 @@ Eine andere Form von zweispaltiger Textanordnung bieten die Layouts 1, 2, 6 und 
 
 !![Abb. B.4.19 Texteingabe für die rechte Spalte unterhalb der Objekte][B-4-19]
 
-Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig gesetzte Textblöcke mit automatischem Spaltenumbruch im unteren Teil der Ausstellungsseite einzufügen, analog zum Galerie-Layout 3 mit über die ganze Breite des Inhalts-Bereichs laufenden Überschriften. Auch hier finden Sie die entsprechenden Eingabefelder unterhalb der Schaltflächen zur Einbindung von Objekten (vgl. Abb. B.4.18). 
+Bei den Layouts 1 und 2 ist zudem die Möglichkeit vorgesehen, zweispaltig gesetzte Textblöcke mit automatischem Spaltenumbruch im unteren Teil der Ausstellungs-Seite einzufügen, analog zum Galerie-Layout 3 mit über die ganze Breite des Inhalts-Bereichs laufenden Überschriften. Auch hier finden Sie die entsprechenden Eingabefelder unterhalb der Schaltflächen zur Einbindung von Objekten (vgl. Abb. B.4.18). 
 
 ##### Praxistipp: Keep it short and simple!
 
@@ -221,8 +221,8 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. [Abschnitt B.4.1][5])
 
 
 [B-4-1]: img/B-4-1.jpg "Abb. B.4.1 „Seite hinzufügen“ auf der Seite „Ausstellung …“"
-[B-4-2]: img/B-4-2.jpg "Abb. B.4.2 Die Metadaten der Ausstellungsseite - Titel und Slug"
-[B-4-3]: img/B-4-3.jpg "Abb. B.4.3 Die Metadaten der Ausstellungsseite - Widget Content und Vorschaubild"
+[B-4-2]: img/B-4-2.jpg "Abb. B.4.2 Die Metadaten der Ausstellungs-Seite - Titel und Slug"
+[B-4-3]: img/B-4-3.jpg "Abb. B.4.3 Die Metadaten der Ausstellungs-Seite - Widget Content und Vorschaubild"
 [B-4-4]: img/B-4-4.jpg "Abb. B.4.4 Layout 1 – Galerie rechts und Thumbnails"
 [B-4-5]: img/B-4-5.jpg "Abb. B.4.5 Layout 2 - Galerie rechts und Thumbnails als Karussell"
 [B-4-6]: img/B-4-6.jpg "Abb. B.4.6 Layout 3 – Thumbnailgalerie mit optionalem Text oben und unten"
@@ -235,7 +235,7 @@ Das Vorschaubild für die grafische Seitennavigation (vgl. [Abschnitt B.4.1][5])
 [B-4-13]: img/B-4-13.jpg "Abb. B.4.14 Objekt hinzufügen"
 [B-4-14]: img/B-4-14.jpg "Abb. B.4.15 Dialogfenster „Objekt hinzufügen“"
 [B-4-15]: img/B-4-15.jpg "Abb. B.4.16 Inhaltselement Objekt – hier ein Hauptbild"
-[B-4-16]: img/B-4-16.jpg "Abb. B.4.17 Sortieren der Ausstellungsseiten durch Drag and Drop"
+[B-4-16]: img/B-4-16.jpg "Abb. B.4.17 Sortieren der Ausstellungs-Seiten durch Drag and Drop"
 [B-4-17]: img/B-4-17.jpg "Abb. B.4.18 Seiten aus der Seitenliste löschen"
 [B-4-18]: img/B-4-18.jpg "Abb. B.4.19 Eingabe zweispaltiger Text im Layout Vorschaubilder-Galerie mit optionalem Text oben und unten – unterer Textblock mit Überschrift"
 [B-4-19]: img/B-4-19.jpg "Abb. B.4.20 Texteingabe für die rechte Spalte unterhalb der Objekte"

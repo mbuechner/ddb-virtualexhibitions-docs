@@ -4,7 +4,7 @@
 
 Das Metadatenschema für die Objekte Ihrer Ausstellung ist so ausgelegt, dass ein breites Spektrum an Medientypen abgedeckt ist. Im Zusammenhang der virtuellen Ausstellungen haben die Metadaten in erster Linie eine deskriptive Funktion: Sie sollen über das im Rahmen der Ausstellung gezeigte Objekt informieren – die inhaltserschließende Funktion spielt hier eine untergeordnete Rolle. Sie können deshalb die Metadatenfelder relativ frei befüllen, ohne an ein vorgegebenes Schema für die Datenerfassung gebunden zu sein. Priorität hat die Lesbarkeit und Verständlichkeit aus Sicht des Publikums.
 
-Die meisten Metadaten werden im Frontend der Ausstellung ausgegeben, manche dienen auch nur technischen Zwecken wie der Verknüpfung mit einer Datenquelle. Angezeigt werden Metadaten prinzipiell nicht auf den Ausstellungsseiten selbst, sondern erst nach Aufruf der Lightbox (durch Klicken auf eine Objektabbildung; vgl. Abb. A.5) oder auf der Detailseite (vgl. Abb. A.7) zum Objekt (nach Klick auf den Link „zum Objekt“ in der Lightbox). Die Objekt-Detailseite fasst alle zur Ausgabe vorgesehenen Metadaten zusammen. Dagegen wird in der Lightbox nur ein Teil der Metadaten eines Objekts ausgegeben. Bei Objekten, die bereits in die Deutschen Digitalen Bibliothek ingestiert sind, entfällt die Detailseite, weil hier der Link „zum Objekt“ in der Lightbox direkt auf den Eintrag in der Deutschen Digitalen Bibliothek führt (vgl. Abb. A.6).
+Die meisten Metadaten werden im Frontend der Ausstellung ausgegeben, manche dienen auch nur technischen Zwecken wie der Verknüpfung mit einer Datenquelle. Angezeigt werden Metadaten prinzipiell nicht auf den Ausstellungs-Seiten selbst, sondern erst nach Aufruf der Lightbox (durch Klicken auf eine Objektabbildung; vgl. Abb. A.5) oder auf der Detailseite (vgl. Abb. A.7) zum Objekt (nach Klick auf den Link „zum Objekt“ in der Lightbox). Die Objekt-Detailseite fasst alle zur Ausgabe vorgesehenen Metadaten zusammen. Dagegen wird in der Lightbox nur ein Teil der Metadaten eines Objekts ausgegeben. Bei Objekten, die bereits in die Deutschen Digitalen Bibliothek ingestiert sind, entfällt die Detailseite, weil hier der Link „zum Objekt“ in der Lightbox direkt auf den Eintrag in der Deutschen Digitalen Bibliothek führt (vgl. Abb. A.6).
 
 Nicht ausgefüllte Metadatenfelder werden bei der Ausgabe der Detailseite ignoriert, es entstehen also keine Lücken. Die für die Ausgabe in der Lightbox vorgesehenen Felder sollten aber stets ausgefüllt werden. Pflichtfelder sind mit einem * gekennzeichnet; wenn Sie diese Felder nicht ausfüllen, erhalten Sie beim Speichern des Objekts eine Fehlermeldung.
 
@@ -119,7 +119,7 @@ Fördermittelgeber, Förderprogramm
 
 ##### Videoquelle
 
-Sie können Videos aus der DDB oder von Vimeo nutzen. Optional können Sie einen Ausschnitt des Videos zeigen. Bitte nutzen Sie den Video-Shortcode-Helfer (s. [Abschnitt B.2.3.2][1]).  
+Sie können Videos aus der DDB oder von Vimeo nutzen. Um Videos auf einer der beiden Plattformen hoczuladen, wenden Sie sich bitte an Ihre Ansprechperson bei der Deutschen Digitalen Bibliothek. Optional können Sie einen Ausschnitt des Videos zeigen. Bitte nutzen Sie den Video-Shortcode-Helfer (s. [Abschnitt B.2.3.2][1]).  
 **Ausgabe**: als Video in einem Player (Ausstellungseite und Objekt-Detailseite)
 
 ##### Imagemap
@@ -143,12 +143,12 @@ href="/preuss/exhibits/show/kolumbien-preuss/reise-zu-den-uitioto"
 ##### Verlinkung auf Objekte
 ````
 
-Wenn Sie möchten, dass ein Objekt, auf das sie verlinken, direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und hängen an die URL den Zusatz „?lbitem“ plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte?). Die URL sieht dann beispielsweise so aus:
+Wenn Sie möchten, dass ein Objekt, auf das Sie verlinken, direkt in der Lightbox-Ansicht aufgerufen wird, verlinken Sie auf die entsprechende Ausstellungsseite und hängen an die URL den Zusatz „?lbitem“ plus die Objekt-Nummer an (das wievielte der eingebundenen Objekte?). Die URL sieht dann beispielsweise so aus:
 
 ````
 href="/tanz/exhibits/show/das-gedaechtnis-des-tanzes/moderne-taenze?lbitem=4"
 ````
-Sie können auf diese Weise sowohl aus Imagemaps heraus, als auch aus einem Seitentext auf ein Objekt verlinken.
+Sie können auf diese Weise sowohl aus Imagemaps heraus als auch aus einem Seitentext auf ein Objekt verlinken.
 
 ## C.2 Der Texteditor
 

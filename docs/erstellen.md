@@ -1,14 +1,14 @@
 ## B.2 Objekte in einer DDBstudio-Ausstellung anlegen
 
-Die Grundbausteine einer DDBstudio-Ausstellung sind die Objekte, die ‚Exponate‘ der virtuellen Ausstellung. Aus Sicht der NutzerInnen, die Ihre Ausstellung im Internet besuchen, sind Objekte die Medien (Bilder, Videos, Audio-Clips, 3D-Objekte), die Sie auf den Ausstellungsseiten präsentieren. Das Datenmodell der Ausstellungs-Software ist etwas differenzierter: Ein Objekt bezeichnet hier nicht einfach das Digitalisat eines realen Objekts, sondern es beschreibt das reale Objekt (z. B. ein Buch, ein archivalisches Dokument) vermittels Metadaten. Die Entsprechung in einer vordigitalen Bibliothek zu einem Objekt in einer DDBstudio-Ausstellung wäre eine Karteikarte im Katalog – also nicht das Medium selbst.
+Die Grundbausteine einer DDBstudio-Ausstellung sind die Objekte, die ‚Exponate‘ der virtuellen Ausstellung. Aus Sicht der NutzerInnen, die Ihre Ausstellung im Internet besuchen, sind Objekte die Medien (Bilder, Videos, Audio-Clips, 3D-Objekte), die Sie auf den Ausstellungs-Seiten präsentieren. Das Datenmodell der Ausstellungs-Software ist etwas differenzierter: Ein Objekt bezeichnet hier nicht einfach das Digitalisat eines realen Objekts, sondern es beschreibt das reale Objekt (z. B. ein Buch, ein archivalisches Dokument) vermittels Metadaten. Die Entsprechung in einer vordigitalen Bibliothek zu einem Objekt in einer DDBstudio-Ausstellung wäre eine Karteikarte im Katalog – also nicht das Medium selbst.
 
 Wenn Sie das Objekt mit Hilfe von Metadaten beschrieben haben, sollten Sie es in einem zweiten Schritt mit einer Datei verknüpfen, die dieses Objekt digital repräsentiert. Im klassischen Fall eines digitalisierten Realbestandes sind dies Scans oder Fotos, es kann sich aber auch um ein Video, eine Tonaufnahme oder ein 3D-Modell handeln. Objekt und Digitalisat(e) sind also logisch getrennte Einheiten – das gilt auch für genuin digitale Objekte wie etwa Videos oder Tonaufnahmen.
 
 ## B.2.1. Objekte hinzufügen
 
-Um Objekte auf einer Ausstellungsseite einbinden zu können, müssen sie bereits angelegt worden sein. Dies geschieht in der Rubrik „Objekte“, wo Sie auch alle Objekte der Ausstellung zentral verwalten (Abb. B.2.1, <span class="red-circle">1</span>).
+Um Objekte auf einer Ausstellungs-Seite einbinden zu können, müssen sie bereits angelegt worden sein. Dies geschieht in der Rubrik „Objekte“, wo Sie auch alle Objekte der Ausstellung zentral verwalten (Abb. B.2.1, <span class="red-circle">1</span>).
 
-!![Abb. B.2.1 Die Rubrik „Objekte“][B-2-1] 
+!![Abb. B.2.1 Die Rubrik „Objekte“][B-2-1]
 
 Über die Schaltfläche „Neues Objekt hinzufügen“ (<span class="red-circle">2</span>) kann ein neues Objekt angelegt werden.
 Die Seite „Neues Objekt hinzufügen“ (Abb. B.2.2) bietet am oberen Rand drei Tabs, über die sich die verschiedenen Eingabemasken aufrufen lassen, mit denen die Daten und Verknüpfungen zum betreffenden Objekt erfasst werden. Ein Klick auf die Schaltfläche „Objekt hinzufügen“ (<span class="red-circle">1</span>) legt das neue Objekt in der Datenbank an. Zuvor müssen Sie allerdings noch einige Metadatenfelder zum Objekt ausfüllen, denn es handelt sich um Pflichtfelder.  
@@ -22,7 +22,7 @@ Wenn Sie die Metadaten eines bereits angelegten Objekts ergänzen oder ändern m
 
 !![Abb. B.2.3 Objekt bearbeiten; <a href="http://ausstellungen.deutsche-digitale-bibliothek.de/preuss/exhibits/show/kolumbien-preuss/fokus-masken-mythen-kagaba" title="Link zur Ausstellung, aus der der Screenshot entnommen wurde" target="_blank">Quelle Screenshot</a>][B-2-3]
 
-Die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek arbeiten mit einem speziell zu diesem Zweck zusammengestellten Metadatenschema (s. Anhang [Abschnitt C.1][1]), das die notwendigen Angaben für unterschiedliche Objektkategorien wie Texte, Bilder, Filme, kunstgewerbliche Gegenstände etc. zusammenfasst. Die Werte mancher Felder werden bei der Ausgabe im Frontend direkt ausgeben, andere erzeugen nur einen Link oder dienen der Einbindung von Daten, etwa eines Vimeo-Videos. Nicht alle Felder müssen ausgefüllt werden; nicht ausgefüllte Felder werden bei der Ausgabe ignoriert. Pflichtfelder sind in der grauen Box über dem Eingabefeld als solche gekennzeichnet, außerdem finden Sie dort bei den meisten Feldern eine kurze Erläuterung bzw. Beispiele, mit welchen Informationen das Feld zu befüllen ist. Hinweise zu den einzelnen Feldern der Eingabemaske finden Sie außerdem im Anhang ([Abschnitt C.1][1]). 
+Die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek arbeiten mit einem speziell zu diesem Zweck zusammengestellten Metadatenschema (s. Anhang [Abschnitt C.1][1]), das die notwendigen Angaben für unterschiedliche Objektkategorien wie Texte, Bilder, Filme, kunstgewerbliche Gegenstände etc. zusammenfasst. Die Werte mancher Felder werden bei der Ausgabe im Frontend direkt ausgeben, andere erzeugen nur einen Link oder dienen der Einbindung von Daten, etwa eines Vimeo-Videos. Nicht alle Felder müssen ausgefüllt werden; nicht ausgefüllte Felder werden bei der Ausgabe ignoriert. Pflichtfelder sind in der grauen Box über dem Eingabefeld als solche gekennzeichnet, außerdem finden Sie dort bei den meisten Feldern eine kurze Erläuterung bzw. Beispiele, mit welchen Informationen das Feld zu befüllen ist. Hinweise zu den einzelnen Feldern der Eingabemaske finden Sie außerdem im Anhang ([Abschnitt C.1][1]).
 
 Wenn Sie fertig sind, sichern Sie Ihre Eingabe mit einem Klick auf das Bedienfeld „Änderungen übernehmen“ (Abb. B.2.4, <span class="red-circle">1</span>).
 
@@ -39,7 +39,7 @@ Um die Bearbeitung fortsetzen zu können, rufen Sie über die Schaltfläche „B
 ### B.2.3.1 Verknüpfen mit einer Bild- oder Audiodatei
 
 Sie können nun eine Datei mit dem Objekt verknüpfen. Wenn es sich um eine Bilddatei handelt, wird sie im Frontend als Vorschaubild und in der Lightbox im Großformat angezeigt. Verknüpfen Sie eine Audiodatei mit dem Objekt, erscheint auf der Ausstellungsseite ein entsprechendes Symbol, über das ein Audioplayer geöffnet wird, mit dem die NutzerInnen den Audioclip anhören können.
-Welche Bild- und Audio-Dateiformate Sie verwenden können, finden Sie direkt im Backend erläutert. Die wichtigste Information: Sie können keine PDF-Dateien einbinden.
+Bitte verwenden Sie bei Bildern Dateien, die ein für die Browserdarstellung geeignetes RGB-Farbprofil verwenden (RGB-Farbraum mit 8 bit pro Kanal). Welche Bild- und Audio-Dateiformate Sie verwenden können, finden Sie auch direkt im Backend erläutert. Die wichtigste Information: Sie können keine PDF-Dateien einbinden.
 
 !![Abb. B.2.6 Tab „Dateien“ der Seite „Objekt … bearbeiten“][B-2-6]
 
@@ -96,8 +96,8 @@ Neben Bildern, Audiodateien und Videos können Sie auch 3D-Objekte in Ihre Ausst
 Ein Klick auf das Laufrad (oben rechts) öffnet die Lightbox mit einem 3D-Viewer, in dem sich das historische Objekt bzw. sein 3D-Modell von allen Seiten betrachten lässt (Abb.B.2.12). Eine Übersicht (auf Englisch) der im 3D-Viewer verfügbaren Navigationsbefehle finden Sie [hier](http://x3dom.org/download/1.5.1/docs/html/navigation.html).
 Für das Einfügen von 3D-Dateien steht auf der Seite „Objekt … bearbeiten“ ein eigener Reiter zur Verfügung (Abb. B.2.13, <span class="red-circle">1</span>). Sie benötigen drei Dateien für die Darstellung eines 3D-Objekt im 3D-Player:
 
-* eine .X3D-Datei als räumliches Modell, 
-* eine .jpg-Datei als Textur 
+* eine .X3D-Datei als räumliches Modell,
+* eine .jpg-Datei als Textur
 * und ein Vorschaubild.
 
 !![Abb. B.2.13 3D-Objekte einbinden][B-2-13]
@@ -108,7 +108,7 @@ DDBstudio bietet Ihnen mehrere Möglichkeiten, ein bestimmtes Objekt in der List
 
 !![Abb. B.2.14 Die Suchmaske der Objektsuche][B-2-14]
 
-Die Eingabe in „In allen Feldern suchen“ (<span class="red-circle">a</span>) funktioniert als Freitextsuche in den Metadaten. „Suche auf bestimmte Felder eingrenzen“ (<span class="red-circle">b</span>) ermöglicht es Ihnen, in bestimmten Metadatenfeldern zu suchen (linke Auswahlliste) und dabei logische Operatoren wie „enthält nicht“ oder „ist leer“ zu verwenden (rechte Auswahlliste). Wenn Ihnen die ID des Objekts oder der Objekte bekannt ist, können Sie den dritten Suchschlitz verwenden (<span class="red-circle">c</span>). Die Suche nach dem Kriterium der Sichtbarkeit im Frontend (<span class="red-circle">d</span>) kann nützlich sein, wenn bei der Abnahme der Ausstellung durch Ihre Ansprechperson bei der Deutschen Digitalen Bibliothek bestimmte Objekte auf „nicht sichtbar“ gestellt wurden (etwa, weil die Lizenzauszeichnung fehlt) und Sie gezielt diese Objekte nacharbeiten möchten. 
+Die Eingabe in „In allen Feldern suchen“ (<span class="red-circle">a</span>) funktioniert als Freitextsuche in den Metadaten. „Suche auf bestimmte Felder eingrenzen“ (<span class="red-circle">b</span>) ermöglicht es Ihnen, in bestimmten Metadatenfeldern zu suchen (linke Auswahlliste) und dabei logische Operatoren wie „enthält nicht“ oder „ist leer“ zu verwenden (rechte Auswahlliste). Wenn Ihnen die ID des Objekts oder der Objekte bekannt ist, können Sie den dritten Suchschlitz verwenden (<span class="red-circle">c</span>). Die Suche nach dem Kriterium der Sichtbarkeit im Frontend (<span class="red-circle">d</span>) kann nützlich sein, wenn bei der Abnahme der Ausstellung durch Ihre Ansprechperson bei der Deutschen Digitalen Bibliothek bestimmte Objekte auf „nicht sichtbar“ gestellt wurden (etwa, weil die Lizenzauszeichnung fehlt) und Sie gezielt diese Objekte nacharbeiten möchten.
 
 [B-2-1]: img/B-2-1.jpg "Die Rubrik „Objekte“"
 [B-2-2]: img/B-2-2.jpg "Abb. B.2.2 Seite „Neues Objekt hinzufügen“"
@@ -118,7 +118,7 @@ Die Eingabe in „In allen Feldern suchen“ (<span class="red-circle">a</span>)
 [B-2-6]: img/B-2-6.jpg "Abb. B.2.6 Tab „Dateien“ der Seite „Objekt … bearbeiten“"
 [B-2-7]: img/B-2-7.jpg "Abb. B.2.7 Tab „Dateien“ nach Einfügen einer Datei"
 [B-2-8]: img/B-2-8.jpg "Abb. B.2.8 Einbindung eines Videos über das Metadatenfeld „Videoquelle“"
-[B-2-9]: img/B-2-9.jpg "B.2.9 Dialogbox „Video-Shortcode bearbeiten“" 
+[B-2-9]: img/B-2-9.jpg "B.2.9 Dialogbox „Video-Shortcode bearbeiten“"
 [B-2-10]: img/B-2-10.jpg "Abb. B.2.10 Bookviewer-Ansicht eines mehrseitigen Dokuments"
 [B-2-11]: img/B-2-11.jpg "Abb. B.2.11 Hinzufügen weiterer Dateien zu einem Objekt"
 [B-2-12]: img/B-2-12.jpg "Abb. B.2.13 Der Player zur Anzeige eines 3D-Objekts in der Lightbox"
@@ -126,4 +126,3 @@ Die Eingabe in „In allen Feldern suchen“ (<span class="red-circle">a</span>)
 [B-2-14]: img/B-2-14.jpg "Die Suchmaske der Objektsuche"
 
 [1]: /anhang/index.html#c1-metadaten "zum Abschnitt C.1 Metadaten"
-
