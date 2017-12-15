@@ -119,7 +119,7 @@ Fördermittelgeber, Förderprogramm
 
 ##### Videoquelle
 
-Sie können Videos aus der DDB oder von Vimeo nutzen. Um Videos auf einer der beiden Plattformen hoczuladen, wenden Sie sich bitte an Ihre Ansprechperson bei der Deutschen Digitalen Bibliothek. Optional können Sie einen Ausschnitt des Videos zeigen. Bitte nutzen Sie den Video-Shortcode-Helfer (s. [Abschnitt B.2.3.2][1]).  
+Sie können Videos aus der DDB oder von Vimeo nutzen. Um Videos auf einer der beiden Plattformen hochzuladen, wenden Sie sich bitte an Ihre Ansprechperson bei der Deutschen Digitalen Bibliothek. Optional können Sie einen Ausschnitt des Videos zeigen. Bitte nutzen Sie den Video-Shortcode-Helfer (s. [Abschnitt B.2.3.2][1]).  
 **Ausgabe**: als Video in einem Player (Ausstellungseite und Objekt-Detailseite)
 
 ##### Imagemap
