@@ -13,15 +13,10 @@
 
   <link rel="stylesheet" href="./css/theme.css" type="text/css" />
   <link rel="stylesheet" href="./css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="./css/highlight.css">
   <link href="./css/extra.css" rel="stylesheet">
   
-  <script src="./js/jquery-2.1.1.min.js"></script>
-  <script src="./js/modernizr-2.8.3.min.js"></script>
-  <script type="text/javascript" src="./js/highlight.pack.js"></script>
-  <script>var base_url = '.';</script>
-  <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
-
+  <script src="./js/jquery-2.1.1.min.js" defer></script>
+  <script src="./js/modernizr-2.8.3.min.js" defer></script> 
   
 </head>
 
@@ -32,10 +27,10 @@
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
       <div class="wy-side-nav-search">
-        <a href="index.html" class="icon icon-home"> Kuratoren-Handbuch</a>
+        <a href="./." class="icon icon-home"> Kuratoren-Handbuch</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="./search.html" method="get">
-    <input type="text" name="q" placeholder="Handbuch durchsuchen" />
+    <input type="text" name="q" placeholder="Handbuch durchsuchen" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -46,22 +41,22 @@
           
             <li class="toctree-l1">
 		
-    <a class="" href="index.html">Start</a>
+    <a class="" href="./index.html">Start</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="einleitung/index.html">Einleitung</a>
+    <a class="" href="./einleitung.html">Einleitung</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="empfehlungen/index.html">Redaktionelle Empfehlungen</a>
+    <a class="" href="./empfehlungen.html">Redaktionelle Empfehlungen</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="ueberblick/index.html">A Im Überblick</a>
+    <a class="" href="./ueberblick.html">A Im Überblick</a>
 	    </li>
           
             <li class="toctree-l1">
@@ -70,31 +65,31 @@
     <ul class="subnav">
                 <li class="">
                     
-    <a class="" href="backend/index.html">1. Das Omeka Backend</a>
+    <a class="" href="./backend.html">1. Das Omeka Backend</a>
                 </li>
                 <li class="">
                     
-    <a class="" href="erstellen/index.html">2. Objekte in Omeka</a>
+    <a class="" href="./erstellen.html">2. Objekte in Omeka</a>
                 </li>
                 <li class="">
                     
-    <a class="" href="ausstellung_anlegen/index.html">3. Die Ausstellung anlegen</a>
+    <a class="" href="./ausstellung_anlegen.html">3. Die Ausstellung anlegen</a>
                 </li>
                 <li class="">
                     
-    <a class="" href="seiten_anlegen/index.html">4. Ausstellungsseiten anlegen</a>
+    <a class="" href="./seiten_anlegen.html">4. Ausstellungsseiten anlegen</a>
                 </li>
     </ul>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="anhang/index.html">C Anhang</a>
+    <a class="" href="./anhang.html">C Anhang</a>
 	    </li>
           
             <li class="toctree-l1">
 		
-    <a class="" href="impressum/index.html">Impressum</a>
+    <a class="" href="./impressum.html">Impressum</a>
 	    </li>
           
         </ul>
@@ -107,7 +102,7 @@
       
       <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
         <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-        <a href="index.html">Kuratoren-Handbuch</a>
+        <a href="./.">Kuratoren-Handbuch</a>
       </nav>
 
       
@@ -115,7 +110,7 @@
         <div class="rst-content">
           <div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href="index.html">Kuratoren-Handbuch</a> &raquo;</li>
+    <li><a href="./.">Kuratoren-Handbuch</a> &raquo;</li>
     
     
     <li class="wy-breadcrumbs-aside">
@@ -132,7 +127,7 @@
 
   <form id="content_search" action="search.html">
     <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
-    <input name="q" id="mkdocs-search-query" type="text" class="search_input search-query ui-autocomplete-input" placeholder="Handbuch durchsuchen" autocomplete="off" autofocus>
+    <input name="q" id="mkdocs-search-query" type="text" class="search_input search-query ui-autocomplete-input" placeholder="Handbuch durchsuchen" autocomplete="off" autofocus title="Type search term here">
   </form>
 
   <div id="mkdocs-search-results" class="search-results">
@@ -144,16 +139,21 @@
           </div>
           <footer>
   
+
+  <hr/>
+
   <div role="contentinfo">
+    <!-- Copyright etc -->
     
   </div>
+
 </footer>
-	  
+      
         </div>
       </div>
 
     </section>
-    
+
   </div>
 
   <div class="rst-versions" role="note" style="cursor: pointer">
@@ -163,9 +163,11 @@
       
     </span>
 </div>
-    <script src="./js/theme.js"></script>
-      <script src="./js/jquery-3.1.1.min.js"></script>
-      <script src="./js/extra.js"></script>
+    <script>var base_url = '.';</script>
+    <script src="./js/theme.js" defer></script>
+      <script src="./js/jquery-3.1.1.min.js" defer></script>
+      <script src="./js/extra.js" defer></script>
+      <script src="./search/main.js" defer></script>
 
 </body>
 </html>
