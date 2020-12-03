@@ -8,7 +8,7 @@ copyright: ''
 
 
 # Structure
-pages:
+nav:
     - Start: index.md
     - Einleitung: einleitung.md
     - Redaktionelle Empfehlungen: empfehlungen.md
@@ -23,8 +23,10 @@ pages:
 
 
 # Theme
-theme: readthedocs
-theme_dir: themes/readthedocs
+theme:
+  name: readthedocs
+  custom_dir: themes/readthedocs_ddb
+  highlightjs: False
 
 # Options
 extra:
@@ -53,19 +55,21 @@ use_directory_urls: false
 
 # Extensions
 markdown_extensions:
+  - extra
   - admonition
-  - codehilite(guess_lang=false)
   - footnotes
   - meta
-  - toc(permalink=true)
+  - toc:
+      permalink: True
   - sane_lists
   - attr_list
-  - custom_span_class
-  - figureAltCaption
-  - pymdownx.betterem(smart_enable=all)
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.inlinehilite
   - pymdownx.magiclink
-  - pymdownx.superfences
-  - pymdownx.tasklist(custom_checkbox=true)
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - figureAltCaption
