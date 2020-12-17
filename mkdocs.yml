@@ -9,7 +9,6 @@ repo_url: 'https://github.com/mbuechner/ddb-virtualexhibitions-docs'
 # Copyright
 copyright: ''
 
-
 # Structure
 nav:
     - Start: index.md
