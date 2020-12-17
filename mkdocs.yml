@@ -2,6 +2,9 @@
 site_name: 'Kuratoren-Handbuch'
 site_description: 'Virtuelle Ausstellungen der Deutschen Digitalen Bibliothek'
 site_author: 'Deutsche Digitale Bibliothek, Culture to Go & Grandgeorg Websolutions'
+docs_dir: docs/
+repo_name: 'mbuechner/ddb-virtualexhibitions-docs'
+repo_url: 'https://github.com/mbuechner/ddb-virtualexhibitions-docs'
 
 # Copyright
 copyright: ''
